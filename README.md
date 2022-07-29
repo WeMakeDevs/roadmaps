@@ -13,6 +13,7 @@ Checkout our visual roadmaps and resources on our [website](https://www.commclas
 
 ## Contribution:
 ![Contributing gif](https://media.giphy.com/media/JykvbWfXtAHSM/giphy.gif)
+
 Are you aware of any community, job or project which are not added to our list yet? Now you can add your known communities, jobs and projects to the list and help your fellow community member. Please read [Contributing Guide](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md) before proceeding.
 
 ## Connect with us ❤️
