@@ -4,11 +4,11 @@ Thank you for considering and taking the time to contribute! Product focuses on 
 
 The following are guidelines for contributing to this project.
 
-## How to Report Bugs
+## How to Add Communities, Jobs, OSS Projects
 
-Please open [a new issue in the appropriate GitHub repository][new-issue] with steps to reproduce the problem you're experiencing.
+Please open [a new issue in the appropriate GitHub repository][new-issue] and mention the community/ job/ oss project you want to add with all the required links. Once approved by the maintainers you can go ahead and create a Pull request regarding the same.
 
-Be sure to include as much information including screenshots, text output, and both your expected and actual results.
+Make sure you move to correct roadmap and respective folder of your addition. Add your approved community/ job/ oss project in alphabetical order only
 
 ## How to Request Enhancements
 
