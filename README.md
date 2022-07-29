@@ -7,7 +7,10 @@ Are you prepared to embark on your quest to receive mentoring and land a job? Yo
 This repository contains the list of communities and job portals you can join and apply to. You can also add your know job and other portals and help 
 
 ## Roadmaps:
+![Roadmap gif](https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif)
+
 Checkout our visual roadmaps and resources on our [website](https://www.commclassroom.org/roadmaps)
 
 ## Contribution:
+![Contributing gif](https://media.giphy.com/media/JykvbWfXtAHSM/giphy.gif)
 Are you aware of any community, job or project which are not added to our list yet? Now you can add your known communities, jobs and projects to the list and help your fellow community member. Please read [Contributing Guide](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md) before proceeding.
