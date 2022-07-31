@@ -9,3 +9,4 @@
 - [Kubernetes Slack](https://kubernetes.slack.com/)
 - [CNCF Slack](https://slack.cncf.io/)
 - [DoK Slack](https://go.dok.community/slack)
+- [kubesimplify](https://kubesimplify.com/discord)
