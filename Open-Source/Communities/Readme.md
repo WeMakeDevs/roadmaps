@@ -5,4 +5,4 @@
 - [MLH](https://discord.gg/mlh)
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
 - [Sema](https://discord.gg/FrzaCHcn)
-- [Hack Club Hakerabad](https://discord.hackerabad.tech/)
+- [Hack Club Hackerabad](https://discord.hackerabad.tech/)

@@ -4,4 +4,4 @@
 - [Community Classroom](https://discord.io/commclassroom)
 - [Eddiehub](http://discord.eddiehub.org/)
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
-- [Hack Club Hakerabad](https://discord.hackerabad.tech/)
+- [Hack Club Hackerabad](https://discord.hackerabad.tech/)
