@@ -4,4 +4,4 @@
 - [Eddiehub](http://discord.eddiehub.org/)
 - [MLH](https://discord.gg/mlh)
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
-- [Sema](https://discord.gg/FrzaCHcn)
+- [Sema](http://discord.gg/Byjr6rdBUZ)
