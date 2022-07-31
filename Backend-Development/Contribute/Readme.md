@@ -1,6 +1,5 @@
 ## Open Source Backend projects you can contribute to 👇
 
-
 - [Celluloid](https://github.com/celluloid/)
 - [Classical Language Toolkit](https://github.com/cltk/cltk)
 - [DBpedia](https://github.com/dbpedia/)
