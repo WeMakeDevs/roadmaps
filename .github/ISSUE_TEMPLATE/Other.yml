@@ -1,0 +1,23 @@
+name: Other
+description: Use this if you want to add any Communities, Jobs, OSS projects or any other thing.
+title: '[OTHER] <description>'
+labels: ['triage/awaiting', 'triage/accepted', 'other']
+body:
+  - type: markdown
+    attributes:
+      value: '# Other issue'
+  - type: text area
+    id: Issue description
+    attributes:
+      label: What would you like to share?
+      description: Provide a clear and concise explanation of your issue.
+    validations:
+      required: true
+  - type: text area
+    id: extra info
+    attributes:
+      label: Additional information
+      description: Is there anything else we should know about this issue?
+    validations:
+      required: false
+  
