@@ -5,3 +5,4 @@
 - [Eddiehub](http://discord.eddiehub.org/)
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
 - [Hack Club Hackerabad](https://discord.hackerabad.tech/)
+- [Postman Student Community](https://discord.gg/MzYk4jdR9R)

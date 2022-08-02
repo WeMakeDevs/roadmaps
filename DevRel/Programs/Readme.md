@@ -23,3 +23,4 @@
 - [Kubernetes Release Team Shadows](https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md)
 - [Julia Seasons of Contributions](https://t.co/NKoY8OM1HX)
 - [Cross Research Exp. Program](https://t.co/p9BoxbIqZC)
+- [Postman Student Leaders](https://www.postman.com/company/student-program/)
