@@ -14,14 +14,14 @@ body:
     validations:
       required: false
   - type: textarea
-    id: issuedescription
+    id: issuedescription1
     attributes:
       label: For adding Job Posting, add links here.
       description: 
     validations:
       required: false
   - type: textarea
-    id: issuedescription
+    id: issuedescription2
     attributes:
       label: For adding OpenSource Projects, add links here.
       description: 
