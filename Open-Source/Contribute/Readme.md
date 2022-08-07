@@ -67,6 +67,7 @@
 - [The Mifos Initiative](https://github.com/openMF/mobile-wallet)
 - [The Palisadoes Foundation](https://github.com/PalisadoesFoundation/talawa-api)
 - [The Palisadoes Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/4835102856577024)
+- [Trick Generator](https://github.com/Dun-sin/trick-generator)
 - [twilio-python](https://github.com/twilio/twilio-python)
 - [UCSC Xena](https://github.com/ucscXena/ucsc-xena-client/)
 - [Vega](https://github.com/vega)
