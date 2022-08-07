@@ -28,7 +28,7 @@
 - [Wikimedia Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/5270263742070784)
 - [xfce](https://summerofcode.withgoogle.com/archive/2021/organizations/5706869816950784)
  
-##  All GSoC Front End Projects & Oraganizations 👇
+##  All GSoC Front End Projects & Organizations 👇
 <br>
 
 ## 1. Processing Foundation
