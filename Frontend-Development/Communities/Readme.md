@@ -5,4 +5,4 @@
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
 - [Hack Club Hackerabad](https://discord.hackerabad.tech/)
 - [MLH (Hackathons)](https://discord.gg/mlh)
-- [React Play](https://reactplay.io/)
+- [React Play](https://discord.gg/vrTxWUP8Am)
