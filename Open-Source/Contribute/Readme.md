@@ -22,6 +22,7 @@
 - [facebook-chat-api](https://github.com/Schmavery/facebook-chat-api)
 - [flexy](https://github.com/vladocar/flexy)
 - [GFOSS - Open Technology Alliance](https://summerofcode.withgoogle.com/archive/2021/organizations/5185060013080576)
+- [GitVio](https://github.com/devXprite/GitVio/)
 - [GNOME Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/6476318677401600)
 - [Godot Engine](https://github.com/godotengine)
 - [grpc](https://github.com/grpc)
