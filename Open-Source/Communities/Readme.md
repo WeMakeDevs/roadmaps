@@ -6,3 +6,4 @@
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
 - [MLH](https://discord.gg/mlh)
 - [Sema](http://discord.gg/Byjr6rdBUZ)
+- [Amplication](https://discord.com/amplication)
