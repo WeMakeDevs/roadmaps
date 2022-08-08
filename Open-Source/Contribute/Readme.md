@@ -20,6 +20,7 @@
 - [discord-bot](https://github.com/BeccaLyria/discord-bot) 
 - [EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 - [facebook-chat-api](https://github.com/Schmavery/facebook-chat-api)
+- [Falso.](https://github.com/ngneat/falso)
 - [flexy](https://github.com/vladocar/flexy)
 - [GFOSS - Open Technology Alliance](https://summerofcode.withgoogle.com/archive/2021/organizations/5185060013080576)
 - [GNOME Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/6476318677401600)
