@@ -49,6 +49,7 @@
 - [PEcAn Project](https://github.com/PecanProject/pecan)
 - [Plone](https://summerofcode.withgoogle.com/archive/2018/organizations/5782644243562496)
 - [Postman](https://github.com/postmanlabs/postman-runtime)
+- [prometheus](https://github.com/prometheus/prometheus)
 - [Public Lab](https://summerofcode.withgoogle.com/archive/2021/organizations/6245542903939072)
 - [Purr Data](https://summerofcode.withgoogle.com/archive/2021/organizations/5146061710032896)
 - [Quill](https://github.com/quilljs)
