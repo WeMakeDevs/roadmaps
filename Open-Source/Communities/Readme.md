@@ -2,7 +2,6 @@
 
 - [Community Classroom](https://discord.io/commclassroom)
 - [Eddiehub](http://discord.eddiehub.org/)
-- [MLH](https://discord.gg/mlh)
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
+- [MLH](https://discord.gg/mlh)
 - [Sema](http://discord.gg/Byjr6rdBUZ)
-- [Hack Club Hackerabad](https://discord.hackerabad.tech/)
