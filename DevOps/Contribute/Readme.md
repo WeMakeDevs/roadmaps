@@ -19,3 +19,6 @@
 - [Linkerd](https://github.com/linkerd/)
 - [Wireshark](https://gitlab.com/wireshark/wireshark)
 - [gVisor](https://github.com/google/gvisor)
+- [Gitea](https://github.com/go-gitea/gitea)
+- [Dokku](https://github.com/dokku/dokku)
+- [rclone](https://github.com/rclone)
