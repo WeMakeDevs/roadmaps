@@ -7,5 +7,4 @@
 - [Open Source Engineer](https://www.indeed.com/q-Open-Source-Engineer-jobs.html?vjk=1475599e24cc62aa) - Indeed
 - [Open Source Engineer](https://www.aquasec.com/about-us/careers/co/engineering/81.E1B/open-source-engineer/all/) - Aquasec
 - [RedHat Careers](https://www.redhat.com/en/jobs)
-- [Software Engineer - Open Source](https://jobs.apple.com/en-us/details/200385788/software-engineer-open-source) - Apple
 
