@@ -17,6 +17,7 @@
 - [Celluloid](https://github.com/celluloid/)
 - [Classical Language Toolkit](https://github.com/cltk/cltk)
 - [Computational Biology @ University of Nebraska-Lincoln](https://summerofcode.withgoogle.com/archive/2018/organizations/6010802972655616)
+- [Create Tailwind](https://github.com/AndrejJurkin/create-tw)
 - [DBpedia](https://github.com/dbpedia/)
 - [discord-bot](https://github.com/BeccaLyria/discord-bot) 
 - [EddieBot](https://github.com/EddieHubCommunity/EddieBot)
