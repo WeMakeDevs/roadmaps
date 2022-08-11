@@ -30,6 +30,7 @@
 - [Gitlab](https://summerofcode.withgoogle.com/programs/2022/organizations/gitlab)
 - [GitVio](https://github.com/devXprite/GitVio/)
 - [GNOME Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/6476318677401600)
+- [Good First Issues](https://goodfirstissue.dev)
 - [Godot Engine](https://github.com/godotengine)
 - [grpc](https://github.com/grpc)
 - [GRR Rapid Response](https://summerofcode.withgoogle.com/archive/2021/organizations/5763186065670144)
