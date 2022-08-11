@@ -27,5 +27,5 @@
 - [The Palisadoes Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/4835102856577024)
 - [Wikimedia Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/5270263742070784)
 - [xfce](https://summerofcode.withgoogle.com/archive/2021/organizations/5706869816950784)
--[p5.js Web Editor](https://github.com/processing/p5.js-web-editor)
+- [p5.js Web Editor](https://github.com/processing/p5.js-web-editor)
  
