@@ -22,7 +22,7 @@
 - [EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 - [facebook-chat-api](https://github.com/Schmavery/facebook-chat-api)
 - [Falso.js](https://github.com/ngneat/falso)
-- [first-contributions](https://github.com/firstcontributions/first-contribution)
+- [first-contributions](https://firstcontributions.github.io)
 - [flexy](https://github.com/vladocar/flexy)
 - [Fossology](https://summerofcode.withgoogle.com/programs/2022/organizations/fossology)
 - [GFOSS - Open Technology Alliance](https://summerofcode.withgoogle.com/archive/2021/organizations/5185060013080576)
