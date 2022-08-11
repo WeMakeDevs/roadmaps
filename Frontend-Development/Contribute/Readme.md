@@ -6,6 +6,7 @@
 - [AOSSIE](https://summerofcode.withgoogle.com/archive/2020/organizations/5037209255673856)
 - [Computational Biology @ University of Nebraska-Lincoln](https://summerofcode.withgoogle.com/archive/2018/organizations/6010802972655616)
 - [flexy](https://github.com/vladocar/flexy)
+- [Google Chrome - web.dev](https://github.com/GoogleChrome/web.dev)
 - [GFOSS - Open Technology Alliance](https://summerofcode.withgoogle.com/archive/2021/organizations/5185060013080576)
 - [GNOME Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/6476318677401600)
 - [GRR Rapid Response](https://summerofcode.withgoogle.com/archive/2021/organizations/5763186065670144)
