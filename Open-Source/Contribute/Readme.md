@@ -27,6 +27,7 @@
 - [Fossology](https://summerofcode.withgoogle.com/programs/2022/organizations/fossology)
 - [GFOSS - Open Technology Alliance](https://summerofcode.withgoogle.com/archive/2021/organizations/5185060013080576)
 - [Gitlab](https://summerofcode.withgoogle.com/programs/2022/organizations/gitlab)
+- [GitVio](https://github.com/devXprite/GitVio/)
 - [GNOME Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/6476318677401600)
 - [Godot Engine](https://github.com/godotengine)
 - [grpc](https://github.com/grpc)
