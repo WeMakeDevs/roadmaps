@@ -18,6 +18,7 @@
 - [Public Lab](https://summerofcode.withgoogle.com/archive/2021/organizations/6245542903939072)
 - [Purr Data](https://summerofcode.withgoogle.com/archive/2021/organizations/5146061710032896)
 - [Plone](https://summerofcode.withgoogle.com/archive/2018/organizations/5782644243562496)
+- [React play](https://reactplay.io/)
 - [Rocket.Chat](https://summerofcode.withgoogle.com/archive/2018/organizations/5641906755207168)
 - [Shaka Player](https://summerofcode.withgoogle.com/archive/2021/organizations/4852309401534464)
 - [Streetmix](https://summerofcode.withgoogle.com/archive/2018/organizations/5918428024012800)
@@ -27,4 +28,3 @@
 - [The Palisadoes Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/4835102856577024)
 - [Wikimedia Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/5270263742070784)
 - [xfce](https://summerofcode.withgoogle.com/archive/2021/organizations/5706869816950784)
-- [React play](https://reactplay.io/)
