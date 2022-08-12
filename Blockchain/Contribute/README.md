@@ -1,0 +1,15 @@
+## Open Source Projects you can contribute to
+
+- [Bitcoin](https://github.com/bitcoin/bitcoin)
+- [go-ethereum](https://github.com/ethereum/go-ethereum)
+- [ipfs](https://github.com/ipfs/ipfs)
+- [Solidity](https://github.com/ethereum/solidity)
+- [Diem](https://github.com/diem/diem)
+- [web3.js](https://github.com/ChainSafe/web3.js)
+- [Monero](https://github.com/monero-project/monero)
+- [fabric](https://github.com/hyperledger/fabric)
+- [truffle](https://github.com/trufflesuite/truffle)
+- [Solana](https://github.com/solana-labs/solana)
+- [ethers.js](https://github.com/ethers-io/ethers.js)
+- [web3.py](https://github.com/ethereum/web3.py)
+- [chia-blockchain](https://github.com/Chia-Network/chia-blockchain)
