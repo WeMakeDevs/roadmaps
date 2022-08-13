@@ -72,6 +72,7 @@
 - [Submitty](https://github.com/Submitty)
 - [Sugar Labs](https://summerofcode.withgoogle.com/archive/2019/organizations/5488361639247872)
 - [template](https://github.com/toidicode/template)
+- [Template Bhai](https://github.com/AndrejJurkin/template-bhai)
 - [The Center for Connected Learning and Computer-Based Modeling](https://summerofcode.withgoogle.com/archive/2018/organizations/5109641792978944)
 - [The Linux Foundation](https://github.com/LF-Engineering)
 - [The Mifos Initiative](https://github.com/openMF/mobile-wallet)
