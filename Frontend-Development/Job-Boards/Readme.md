@@ -8,4 +8,3 @@
 - [Remote Frontend Developer](https://arc.dev/remote-jobs?keyword=front%20end%20developer) - arc.dev
 - [Remote Frontend Developer](https://www.showwcase.com/search?q=front%20end%20developer&tab=jobs) - Showwcase
 - [Web Developer (Frontend)](https://in.indeed.com/jobs?q=frontend&l=remote&vjk=f5117464e8d68692) - Indeed.com
-- 
