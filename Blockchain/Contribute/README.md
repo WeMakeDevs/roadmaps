@@ -1,6 +1,15 @@
 ## Open Source Projects you can contribute to
-
+-[Aelf](https://github.com/AElfProject/AElf)
 - [Bitcoin](https://github.com/bitcoin/bitcoin)
+- [Corda](https://github.com/corda/corda)
+- [Cosmos](https://github.com/cosmos)
+- [web3.php](https://github.com/web3p/web3.php)
+- [Openchain](https://github.com/openchain)
+- [Hyperledger](https://github.com/hyperledger/)
+- [Enterprise Ethereum Alliance](https://github.com/EntEthAlliance)
+- [Lisk](https://github.com/LiskHQ)
+- [Holochain](https://github.com/holochain)
+- [Metamask](https://github.com/MetaMask)
 - [go-ethereum](https://github.com/ethereum/go-ethereum)
 - [ipfs](https://github.com/ipfs/ipfs)
 - [Solidity](https://github.com/ethereum/solidity)
