@@ -21,6 +21,7 @@
 - [Pokedex](https://github.com/skydoves/Pokedex)
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)
 - [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+- [RIB](https://github.com/uber/RIBs)
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 - [tivi](https://github.com/chrisbanes/tivi)
 - [qksms](https://github.com/moezbhatti/qksms)
