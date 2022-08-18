@@ -26,6 +26,8 @@
 - [first-contributions](https://github.com/firstcontributions/first-contributions)
 - [flexy](https://github.com/vladocar/flexy)
 - [Fossology](https://summerofcode.withgoogle.com/programs/2022/organizations/fossology)
+- [Gefyra](https://github.com/gefyrahq/gefyra/)
+- [Getdeck](https://github.com/Getdeck/getdeck/)
 - [GFOSS - Open Technology Alliance](https://summerofcode.withgoogle.com/archive/2021/organizations/5185060013080576)
 - [Gitlab](https://summerofcode.withgoogle.com/programs/2022/organizations/gitlab)
 - [GitVio](https://github.com/devXprite/GitVio/)
