@@ -58,6 +58,8 @@
 - [Public Lab](https://summerofcode.withgoogle.com/archive/2021/organizations/6245542903939072)
 - [Purr Data](https://git.purrdata.net/jwilkes/purr-data)
 - [Purr Data](https://summerofcode.withgoogle.com/archive/2021/organizations/5146061710032896)
+- [Plone](https://summerofcode.withgoogle.com/archive/2018/organizations/5782644243562496)
+- [React play](https://reactplay.io/)
 - [Roadmap view for chromestatus.com](https://github.com/GoogleChrome/chromium-dashboard)
 - [Rocket.chat](https://github.com/RocketChat/Rocket.Chat)
 - [Rocket.Chat](https://summerofcode.withgoogle.com/archive/2018/organizations/5641906755207168)
