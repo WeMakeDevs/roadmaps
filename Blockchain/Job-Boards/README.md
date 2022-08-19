@@ -11,3 +11,4 @@
 - [Indeed](https://www.indeed.com/jobs?q=blockchain%20developer)
 - [Glassdoor](https://www.indeed.com/jobs?q=blockchain%20developer)
 - [Arc.dev](https://arc.dev/remote-jobs?categories=Blockchain)
+- [Web3.career](https://web3.career/)
