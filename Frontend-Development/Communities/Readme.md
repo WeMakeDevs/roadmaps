@@ -1,5 +1,6 @@
 ## Communities you can join 👇
 
+- [Angular](https://discord.com/invite/angular)
 - [Community Classroom](https://discord.io/commclassroom)
 - [Eddiehub](http://discord.eddiehub.org/)
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
