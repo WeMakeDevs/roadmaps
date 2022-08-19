@@ -1,0 +1,31 @@
+name: Other
+description: Use this if you want to add any Communities, Jobs, OSS projects or any other thing.
+title: '[OTHER] <description>'
+labels: ['triage/awaiting', 'triage/accepted', 'other']
+body:
+  - type: markdown
+    attributes:
+      value: '# Other issue'
+  - type: textarea
+    id: issuedescription
+    attributes:
+      label: Which field of community (DevOps/Opensource/Web/Web3/Android/Devrel) you want to add, drop the links?
+      description: 
+    validations:
+      required: false
+  - type: textarea
+    id: issuedescription1
+    attributes:
+      label: For adding Job Posting, add links here.
+      description: 
+    validations:
+      required: false
+  - type: textarea
+    id: issuedescription2
+    attributes:
+      label: For adding OpenSource Projects, add links here.
+      description: 
+    validations:
+      required: false
+  
+  
