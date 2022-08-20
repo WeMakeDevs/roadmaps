@@ -1,5 +1,6 @@
 ## Job Boards you can apply
 
+- [Angel.co](https://angel.co/web3)
 - [BlockAce](https://blockace.io/)
 - [NoDesk](https://nodesk.co/remote-jobs/blockchain-cryptocurrency-jobs/)
 - [CryptoDevHub](https://cryptodevhub.io/blockchain-developer-jobs)
