@@ -13,6 +13,7 @@
 - [ideavm](https://github.com/JetBrains/ideavim)
 - [iosched](https://github.com/google/iosched)
 - [kiwix-android](https://github.com/kiwix/kiwix-android)
+- [kotlin](https://github.com/JetBrains/kotlin)
 - [mediapipe](https://github.com/google/mediapipe)
 - [mirai](https://github.com/mamoe/mirai)
 - [MMKV](https://github.com/Tencent/MMKV)
