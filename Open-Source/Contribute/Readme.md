@@ -86,6 +86,7 @@
 - [twilio-python](https://github.com/twilio/twilio-python)
 - [UCSC Xena](https://github.com/ucscXena/ucsc-xena-client/)
 - [Vega](https://github.com/vega)
+- [Versatile Data Kit](https://github.com/vmware/versatile-data-kit)
 - [vitrivr](https://github.com/vitrivr/)
 - [webpack](https://github.com/webpack/webpack)
 - [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
