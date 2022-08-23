@@ -1,4 +1,4 @@
-# Private Blockchain
+# Private Blockchain 🛣
 
 Private blockchain is developed and maintained by a private organization who has the authority over the mining process and consensus algorithm. The private organization decides who can join the network and have the access download the nodes.
 
@@ -10,7 +10,9 @@ Yes, the ledger is still cryptographically secured and no one can keep an eye on
 
 One of the private blockchain examples is Hyperledger. There are few more but not very famous and in more use, so we will mainly focus over Hyperledger project that is started by Linux foundation and backed by major giants like IBM, Intel, Samsung, Microsoft, Visa, American Express and blockchain startups such as Blockforce.
 
-Here is the complete road map that i have uploaded in this dir /files/ as there is not some easy way to embed in readme.md
+👉 Here is the complete road map that i have uploaded in this dir `/files/Private Blockchain roadmap.pdf` as there is not some easy way to embed in readme.md
+
+⚠️ Note: Download the file first and then use, resources links are not working when file opened in github
 
 Glimpse:
 
