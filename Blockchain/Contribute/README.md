@@ -38,4 +38,4 @@
 - [Quorum](https://github.com/ConsenSys/quorum)
 - [EIPs](https://github.com/ethereum/EIPs)
 - [Web3j](https://github.com/web3j/web3j)
-- [Remix Project] (https://github.com/ethereum/remix-project)
+- [Remix Project](https://github.com/ethereum/remix-project)
