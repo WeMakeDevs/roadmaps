@@ -4,7 +4,7 @@
 
 Are you prepared to embark on your quest to receive mentoring and land a job? You've arrived exactly where you need to be. Follow the roadmaps, educate yourself, and then apply for positions.
 
-This repository contains the list of communities and job portals you can join and apply to. You can also add your known job and other portals and help 
+This repository contains the list of communities and job portals you can join and apply to. You can also add your known job and other portals and help.
 
 ## Roadmaps:
 ![Roadmap gif](https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif)
