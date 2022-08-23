@@ -38,3 +38,5 @@
 - [Quorum](https://github.com/ConsenSys/quorum)
 - [EIPs](https://github.com/ethereum/EIPs)
 - [Web3j](https://github.com/web3j/web3j)
+- [Hardhat](https://github.com/NomicFoundation/hardhat)
+- [Foundry](https://github.com/foundry-rs/foundry)
