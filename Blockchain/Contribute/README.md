@@ -41,3 +41,6 @@
 - [Hardhat](https://github.com/NomicFoundation/hardhat)
 - [Foundry](https://github.com/foundry-rs/foundry)
 - [Remix Project](https://github.com/ethereum/remix-project)
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [web3.swift](https://github.com/Boilertalk/Web3.swift)
+- [Brownie](https://github.com/eth-brownie/brownie)
