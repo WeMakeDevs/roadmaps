@@ -41,6 +41,7 @@
 - [Haiku](https://github.com/haiku/haiku/)
 - [Jitsi](https://github.com/jitsi)
 - [Learning Equality](https://summerofcode.withgoogle.com/archive/2021/organizations/5523941925322752)
+- [LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 - [MariaDB Foundation](https://github.com/MariaDB/server)
 - [Media Cloud](https://github.com/mediacloud/backend)
 - [MetaCall](https://github.com/metacall)
