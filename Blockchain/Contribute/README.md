@@ -2,6 +2,7 @@
 
 - [Aelf](https://github.com/AElfProject/AElf)
 - [Bitcoin](https://github.com/bitcoin/bitcoin)
+- [Brownie](https://github.com/eth-brownie/brownie)
 - [Blockchain CLI](https://github.com/0xs34n/blockchain-cli)
 - [Chainlink](https://github.com/smartcontractkit/chainlink)
 - [chia-blockchain](https://github.com/Chia-Network/chia-blockchain)
@@ -28,6 +29,7 @@
 - [Monero](https://github.com/monero-project/monero)
 - [Neo](https://github.com/neo-project/neo)
 - [Openchain](https://github.com/openchain)
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
 - [Quorum](https://github.com/ConsenSys/quorum)
 - [RemixProject](https://github.com/ethereum/remix-project)
 - [Solana](https://github.com/solana-labs/solana)
@@ -36,6 +38,7 @@
 - [Wallet](https://github.com/DemocracyEarth/wallet)
 - [Web3j](https://github.com/web3j/web3j)
 - [Web3Swift](https://github.com/skywinder/web3swift)
+- [web3.swift](https://github.com/Boilertalk/Web3.swift)
 - [web3.js](https://github.com/ChainSafe/web3.js)
 - [web3.php](https://github.com/web3p/web3.php)
 - [web3.py](https://github.com/ethereum/web3.py)
