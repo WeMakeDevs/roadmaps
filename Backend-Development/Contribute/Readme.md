@@ -8,6 +8,7 @@
 - [MariaDB Foundation](https://github.com/MariaDB/server)
 - [Media Cloud](https://github.com/mediacloud/backend)
 - [MetaCall](https://github.com/metacall)
+- [node](https://github.com/nodejs/node)
 - [node-crawler](https://github.com/bda-research/node-crawler)
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 - [Open Roberta Lab](https://github.com/OpenRoberta/openroberta-lab)
