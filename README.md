@@ -4,7 +4,7 @@
 
 Are you prepared to embark on your quest to receive mentoring and land a job? You've arrived exactly where you need to be. Follow the roadmaps, educate yourself, and then apply for positions.
 
-This repository contains the list of communities and job portals you can join and apply to. You can also add your known job and other portals and help 
+This repository contains the list of communities and job portals you can join and apply to. You can also add your known job and other portals to help us in our mission : Quality education, free for all.
 
 ## Roadmaps:
 ![Roadmap gif](https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif)
@@ -33,7 +33,7 @@ Are you aware of any community, job or project which are not added to our list y
   <a href="https://www.instagram.com/commclassroom/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 
- ## Thanks to all contributors
+ ## Thanks to all contributors ❤
  <a href = "https://github.com/commclassroom/roadmaps/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=commclassroom/roadmaps"/>
  </a>
