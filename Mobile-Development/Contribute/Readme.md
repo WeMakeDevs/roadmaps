@@ -17,6 +17,7 @@
 - [mediapipe](https://github.com/google/mediapipe)
 - [mirai](https://github.com/mamoe/mirai)
 - [MMKV](https://github.com/Tencent/MMKV)
+- [NewPipe](https://github.com/TeamNewPipe/New Pipe)
 - [okhttp](https://github.com/square/okhttp)
 - [ownCloud android](https://github.com/owncloud/android)
 - [Pokedex](https://github.com/skydoves/Pokedex)
