@@ -11,3 +11,4 @@
 - [Web Developer (Frontend)](https://in.indeed.com/jobs?q=frontend&l=remote&vjk=f5117464e8d68692) - Indeed.com
 - [FrontEnd Engineer](https://jobs.lever.co/stackblitz/70ef26ea-cb9d-4184-9f2c-4853078d48f8) - StackBlitz
 - [React JS/JavaScript Engineer](https://remotive.com/remote-jobs/software-dev/reactjs-javascript-engineer-1266003) - Andela
+- [Remote Frontend Developer](https://www.turing.com/jobs/remote-front-end-developer-jobs) - Turing
