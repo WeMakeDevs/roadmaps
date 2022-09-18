@@ -2,7 +2,7 @@
 [![Roadmap Mentorship youtube video](https://img.youtube.com/vi/9poQN8U1QTw/0.jpg)](https://www.youtube.com/watch?v=9poQN8U1QTw)
 
 
-Are you prepared to embark on your quest to receive mentoring and land a job? If the answer is a yes then you're at the perfect place to start your journey. Follow the roadmaps, educate yourself, and then applyfor positions.
+Are you prepared to embark on your quest to receive mentoring and land a job? If the answer is a yes then you're at the perfect place to start your journey. Follow the roadmaps, educate yourself, and then apply for positions.
 
 This repository contains the list of communities, list of projects you can contribute to as well as the job portals you need to apply for jobs. You can also add your known job portals and other valuable inputs and help our community.
 
@@ -31,7 +31,7 @@ Are you aware of any community, job or project which are not added to our list y
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
   <a href="https://www.instagram.com/commclassroom/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /i>
 
  ## Thanks to all contributors
  <a href = "https://github.com/commclassroom/roadmaps/graphs/contributors">
