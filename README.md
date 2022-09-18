@@ -2,9 +2,9 @@
 [![Roadmap Mentorship youtube video](https://img.youtube.com/vi/9poQN8U1QTw/0.jpg)](https://www.youtube.com/watch?v=9poQN8U1QTw)
 
 
-Are you prepared to embark on your quest to receive mentoring and land a job? You've arrived exactly where you need to be. Follow the roadmaps, educate yourself, and then apply for positions.
+Are you prepared to embark on your quest to receive mentoring and land a job? If the answer is a yes then you're at the perfect place to start your journey. Follow the roadmaps, educate yourself, and then applyfor positions.
 
-This repository contains the list of communities and job portals you can join and apply to. You can also add your known job and other portals and help 
+This repository contains the list of communities, list of projects you can contribute to as well as the job portals you need to apply for jobs. You can also add your known job portals and other valuable inputs and help our community.
 
 ## Roadmaps:
 ![Roadmap gif](https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif)
