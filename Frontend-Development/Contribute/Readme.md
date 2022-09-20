@@ -25,6 +25,7 @@
 - [flexy](https://github.com/vladocar/flexy)
 - [Fossology](https://github.com/fossology/fossology)
 - [Front-End Web Components](https://github.com/internetarchive/iaux)
+- [Frontend Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [Generate Typescript Type Definitions](https://github.com/google/shaka-player)
 - [Google Chrome - web.dev](https://github.com/GoogleChrome/web.dev)
 - [GFOSS - Open Technology Alliance](https://summerofcode.withgoogle.com/archive/2021/organizations/5185060013080576)
@@ -89,4 +90,3 @@
 - [Wikimedia Foundation (GSOC)](https://summerofcode.withgoogle.com/archive/2021/organizations/5270263742070784)
 - [xfce](https://summerofcode.withgoogle.com/archive/2021/organizations/5706869816950784)
 - [Zulip](https://github.com/zulip/zulip/)
-- [FrontendInterviewHandbook](https://github.com/yangshun/front-end-interview-handbook)
