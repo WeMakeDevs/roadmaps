@@ -12,3 +12,6 @@
 - [FrontEnd Engineer](https://jobs.lever.co/stackblitz/70ef26ea-cb9d-4184-9f2c-4853078d48f8) - StackBlitz
 - [FrontEnd Developer](https://remotive.com/?live_jobs%5Bquery%5D=frontend%20developer&live_jobs%5BrefinementList%5D%5Bquick_location_filter%5D%5B0%5D=Worldwide&live_jobs%5Bmenu%5D%5Bcategory%5D=Software%20Development) - Remotive
 - [Remote Frontend Developer](https://www.turing.com/jobs/remote-front-end-developer-jobs) - Turing
+- [Remote Frontend Engineer](https://4dayweek.io/remote-jobs/frontend-engineer) - 4/day week
+- [Remote Frontend Jobs](https://www.remotefrontendjobs.com/)
+- [Junior Frontend Jobs](https://www.jrdevjobs.com/) - Jr.Dev jobs
