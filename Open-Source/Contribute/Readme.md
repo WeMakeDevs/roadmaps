@@ -21,6 +21,7 @@
 - [Create Tailwind](https://github.com/AndrejJurkin/create-tw)
 - [DBpedia](https://github.com/dbpedia/)
 - [discord-bot](https://github.com/BeccaLyria/discord-bot) 
+- [Drifty](https://github.com/SaptarshiSarkar12/Drifty)
 - [EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 - [facebook-chat-api](https://github.com/Schmavery/facebook-chat-api)
 - [Falso.js](https://github.com/ngneat/falso)
