@@ -1,6 +1,6 @@
 # <center>**HACKTOBERFEST-2K22**</center>
 ## **What is Hacktoberfest ?**
-Hacktoberfest is a month long event where people are awarded with swags for contributing to open source projects. It is hosted by DigitalOcean for the 9th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
+Hacktoberfest is a month long event hosted by DigitalOcean for the 9th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
 It is open to everyone in the community and anyone whether you're a seasoned contributor or looking to contributing for the first time, you are welcome. 
 
 ## **Things you should know to participate 🤔:**
