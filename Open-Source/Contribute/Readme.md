@@ -88,6 +88,8 @@
 - [Trick Generator](https://github.com/Dun-sin/trick-generator)
 - [twilio-python](https://github.com/twilio/twilio-python)
 - [UCSC Xena](https://github.com/ucscXena/ucsc-xena-client/)
+- [up-for-grabs (Website)](https://up-for-grabs.net/#/)
+- [up-for-grabs (Github)](https://github.com/up-for-grabs/up-for-grabs.net)
 - [Vega](https://github.com/vega)
 - [Versatile Data Kit](https://github.com/vmware/versatile-data-kit)
 - [vitrivr](https://github.com/vitrivr/)
