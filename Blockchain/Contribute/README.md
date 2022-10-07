@@ -30,6 +30,7 @@
 - [Neo](https://github.com/neo-project/neo)
 - [Openchain](https://github.com/openchain)
 - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [Polkadot](https://github.com/paritytech/polkadot)
 - [Quorum](https://github.com/ConsenSys/quorum)
 - [RemixProject](https://github.com/ethereum/remix-project)
 - [Solana](https://github.com/solana-labs/solana)
