@@ -35,4 +35,10 @@
 - [What is NGiNX - easy way](https://www.youtube.com/watch?v=WuH0T9FHDZ4)
 - [How to deploy a server - Node.js + MongoDB + NGiNX Tutorial](https://www.youtube.com/watch?v=-oTdaFDvLo4)
 
+## Advance GitHub Features
+- [Publish packages](https://github.com/skills/publish-packages)
+- [GitHub pages](https://github.com/skills/github-pages)
+- [GitHub actions](https://github.com/skills/hello-github-actions)
+- [Continuous integration](https://github.com/skills/continuous-integration)
+
 
