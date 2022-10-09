@@ -82,3 +82,8 @@
 - [Resource 4](https://youtu.be/oykl1Ih9pMg)
 - [Resource 5](https://youtu.be/71wSzpLyW9k)
 
+## Sample projects for practice
+### Projects
+- [Resource 1](https://www.youtube.com/watch?v=1RHDhtbqo94)
+- Create several application clones with your touch to it and deploy them (eg: YouTube, Spotify, Amazon, Netflix, etc)
+
