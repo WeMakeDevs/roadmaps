@@ -74,3 +74,11 @@
 - [Web APP Architecture](https://www.youtube.com/watch?v=sDlCSIDwpDs)
 - [Types of scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0)
 
+## Deploying on web servers
+### Deploy MERN applications
+- [Resource 1](https://www.freecodecamp.org/news/deploying-a-mern-application-using-mongodb-atlas-to-heroku/)
+- [Resource 2](https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/)
+- [Resource 3](https://www.youtube.com/watch?v=7aRjGIhwyQM)
+- [Resource 4](https://youtu.be/oykl1Ih9pMg)
+- [Resource 5](https://youtu.be/71wSzpLyW9k)
+
