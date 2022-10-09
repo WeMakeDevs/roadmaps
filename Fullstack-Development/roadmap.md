@@ -53,3 +53,13 @@
 - [Resource 2](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
 - [Resource 3](https://www.youtube.com/watch?v=XCsS_NVAa1g)
 - [Resource 4](https://www.youtube.com/watch?v=OqCK95AS-YE)
+
+## Learning CDN
+### System Design CDN(Simplified)
+- [System Design CDN(Simplified)](https://www.youtube.com/watch?v=8zX0rue2Hic)
+### What is CDN?
+- [Resource 1](https://www.cloudflare.com/en-in/learning/cdn/what-is-a-cdn/)
+- [Resource 2](https://www.hostinger.in/tutorials/what-is-cdn)
+- [Resource 3](https://www.youtube.com/watch?v=Bsq5cKkS33I)
+- [Resource 4](https://www.youtube.com/watch?v=841kyd_mfH0)
+
