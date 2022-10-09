@@ -41,4 +41,15 @@
 - [GitHub actions](https://github.com/skills/hello-github-actions)
 - [Continuous integration](https://github.com/skills/continuous-integration)
 
-
+## Learning Redis
+### Redis tutorial
+- [Tutorial 1](https://www.tutorialspoint.com/redis/index.htm#:~:text=Redis%20is%20an%20open%20source,Redis%20is%20written%20in%20C.)
+- [Tutorial 2](https://www.javatpoint.com/redis-tutorial)
+### Getting to know Redis
+- [Resource 1](https://redis.com/ebook/part-1-getting-started/chapter-1-getting-to-know-redis/)
+- [Resource 2](https://redis.io/docs/about/)
+### Redis Crash course
+- [Resource 1](https://www.youtube.com/watch?v=Hbt56gFj998)
+- [Resource 2](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
+- [Resource 3](https://www.youtube.com/watch?v=XCsS_NVAa1g)
+- [Resource 4](https://www.youtube.com/watch?v=OqCK95AS-YE)
