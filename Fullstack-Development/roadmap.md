@@ -69,3 +69,8 @@
 - [AWS](https://docs.aws.amazon.com/)
 - [Civo](https://www.civo.com/docs)
 
+## Learning scaling
+- [App Server Scaling](https://www.youtube.com/watch?v=xUumgxZ04SM)
+- [Web APP Architecture](https://www.youtube.com/watch?v=sDlCSIDwpDs)
+- [Types of scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0)
+
