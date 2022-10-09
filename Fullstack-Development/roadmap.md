@@ -26,3 +26,13 @@
 - [GraphQL documentation](https://graphql.org/learn/)
 ### GraphQL tutorial playlist
 - [GraphQL tutorial playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
+
+## Learning NGiNX
+- [What is NginX and What are its use cases?](https://www.youtube.com/watch?v=WHv_t_yK-QM)
+- [Tutorial](https://www.javatpoint.com/nginx-tutorial)
+- [Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/)
+- [NGiNX documentation](https://docs.nginx.com/)
+- [What is NGiNX - easy way](https://www.youtube.com/watch?v=WuH0T9FHDZ4)
+- [How to deploy a server - Node.js + MongoDB + NGiNX Tutorial](https://www.youtube.com/watch?v=-oTdaFDvLo4)
+
+
