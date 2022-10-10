@@ -2,11 +2,11 @@
 
 ## Get started with frontend
 
-- Check out the frontend development roadmap
+- [Check out the frontend development roadmap](https://github.com/commclassroom/roadmaps/tree/main/Frontend-Development)
 
 ## Get started with backend
 
-- Check out the backend development roadmap
+- [Check out the backend development roadmap](https://github.com/commclassroom/roadmaps/tree/main/Backend-Development)
 
 ## Learning Typescript
 
