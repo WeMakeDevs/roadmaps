@@ -23,3 +23,9 @@
 ## Learning Git(version control system)
 - [Git documentation](https://git-scm.com/doc)
 - [Git tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+
+## Create your first open source project
+- [Creating a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)
+- [Starting an Open Source Project](https://www.youtube.com/watch?v=nKfl3EQ0twg)
+- [How to Start an Open Source Project on GitHub](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/)
+- [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
