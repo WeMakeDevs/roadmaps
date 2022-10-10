@@ -13,7 +13,6 @@
 - [Resource 1](https://www.codecademy.com/learn/learn-typescript)
 - [Resource 2](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
 - [Resource 3](https://youtu.be/gp5H0Vw39yw)
-### Typescript documentation
 - [Typescript documentation](https://www.typescriptlang.org/docs/)
 ### Typescript tutorials
 - [Resource 1](https://youtu.be/d56mG7DezGs)
