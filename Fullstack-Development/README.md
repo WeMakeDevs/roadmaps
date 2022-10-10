@@ -14,6 +14,7 @@
 - [Resource 2](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
 - [Resource 3](https://youtu.be/gp5H0Vw39yw)
 - [Typescript documentation](https://www.typescriptlang.org/docs/)
+
 ### Typescript tutorials
 - [Resource 1](https://youtu.be/d56mG7DezGs)
 - [Resource 2](https://www.tutorialspoint.com/typescript/index.htm)
@@ -25,6 +26,7 @@
 - [Resource 2](https://youtu.be/ed8SzALpx1Q)
 - [Resource 3](https://youtu.be/BcLNfwF04Kw)
 - [GraphQL documentation](https://graphql.org/learn/)
+
 ### GraphQL tutorial playlist
 - [GraphQL tutorial playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 
@@ -48,9 +50,11 @@
 ### Redis tutorial
 - [Tutorial 1](https://www.tutorialspoint.com/redis/index.htm#:~:text=Redis%20is%20an%20open%20source,Redis%20is%20written%20in%20C.)
 - [Tutorial 2](https://www.javatpoint.com/redis-tutorial)
+
 ### Getting to know Redis
 - [Resource 1](https://redis.com/ebook/part-1-getting-started/chapter-1-getting-to-know-redis/)
 - [Resource 2](https://redis.io/docs/about/)
+
 ### Redis Crash course
 - [Resource 1](https://www.youtube.com/watch?v=Hbt56gFj998)
 - [Resource 2](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
