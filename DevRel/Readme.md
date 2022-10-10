@@ -8,7 +8,7 @@
 - [Resource 1](https://devrel.co/about/)
 - [Resource 2](https://youtu.be/MKztZJODyxY)
 
-### - [Articles and Blogs](https://www.commonroom.io/)
+## - [Articles and Blogs](https://www.commonroom.io/)
 
 ###[How to become DevRel]
 
