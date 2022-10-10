@@ -1,4 +1,4 @@
-## Job Boards you can apply
+## Job Boards you can apply 👇
 
 - [Angel.co](https://angel.co/web3)
 - [BlockAce](https://blockace.io/)

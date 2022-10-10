@@ -1,4 +1,4 @@
-## Open Source Projects you can contribute to
+## Open Source Projects you can contribute to 👇
 
 - [Aelf](https://github.com/AElfProject/AElf)
 - [Bitcoin](https://github.com/bitcoin/bitcoin)
