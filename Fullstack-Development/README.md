@@ -68,7 +68,7 @@
 - [Resource 3](https://www.youtube.com/watch?v=Bsq5cKkS33I)
 - [Resource 4](https://www.youtube.com/watch?v=841kyd_mfH0)
 
-## Cloud
+## Learn about Cloud Providers
 
 - [GCP](https://cloud.google.com/docs)
 - [Azure](https://docs.microsoft.com/en-us/azure/?product=popular)
