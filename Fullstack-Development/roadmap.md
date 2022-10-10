@@ -57,6 +57,7 @@
 ## Learning CDN
 ### System Design CDN(Simplified)
 - [System Design CDN(Simplified)](https://www.youtube.com/watch?v=8zX0rue2Hic)
+
 ### What is CDN?
 - [Resource 1](https://www.cloudflare.com/en-in/learning/cdn/what-is-a-cdn/)
 - [Resource 2](https://www.hostinger.in/tutorials/what-is-cdn)
