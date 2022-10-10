@@ -1,7 +1,6 @@
 # Open Source
 
 ## What is Open Source
-### What is open source
 - [Resource 1](https://www.youtube.com/watch?v=msyGybzCKRs)
 - [Resource 2](https://www.youtube.com/watch?v=7c0IrsDsNaw)
 - [Resource 3](https://opensource.com/resources/what-open-source)
