@@ -10,7 +10,6 @@
 
 ## Learning Typescript
 
-### Learn Typescript
 - [Resource 1](https://www.codecademy.com/learn/learn-typescript)
 - [Resource 2](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
 - [Resource 3](https://youtu.be/gp5H0Vw39yw)
