@@ -19,3 +19,7 @@
 - [How to Contribute to Open Source Projects – beginner friendly](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 - [14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star](https://smartbear.com/blog/14-ways-to-contribute-to-open-source-without-being/)
 - [How to start with Open Source software contributions](https://www.youtube.com/watch?v=Tq4RZ-JH6aM)
+
+## Learning Git(version control system)
+- [Git documentation](https://git-scm.com/doc)
+- [Git tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
