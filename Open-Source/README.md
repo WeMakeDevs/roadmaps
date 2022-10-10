@@ -41,3 +41,8 @@
 ### 25+ paid open source programs and internships
 - [Resource 1](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
 - [Resource 2](https://www.youtube.com/watch?v=x4hsV_q_YQc)
+
+## Learning open source values & ethics
+- [Ethics for open source  values and ethics](https://training.linuxfoundation.org/training/ethics-for-open-source-development-lfc104/)
+- [The role of ethics in open source and online communities](https://www.youtube.com/watch?v=9BNSwKNadx4)
+- [Neither Rouges nor Saints: Ethics in open source communities](https://www.youtube.com/watch?v=nnj92fSRtd4)
