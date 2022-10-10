@@ -21,7 +21,6 @@
 
 ## Learning GraphQL
 
-### Learn GraphQL
 - [Resource 1](https://youtu.be/ZQL7tL2S0oQ)
 - [Resource 2](https://youtu.be/ed8SzALpx1Q)
 - [Resource 3](https://youtu.be/BcLNfwF04Kw)
