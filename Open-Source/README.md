@@ -24,8 +24,17 @@
 - [Git documentation](https://git-scm.com/doc)
 - [Git tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 
-## Create your first open source project
+## Creating your first open source project
 - [Creating a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 - [Starting an Open Source Project](https://www.youtube.com/watch?v=nKfl3EQ0twg)
 - [How to Start an Open Source Project on GitHub](https://www.freecodecamp.org/news/how-to-start-an-open-source-project-on-github-tips-from-building-my-trending-repo/)
 - [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
+
+## Contributing to open source projects
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- [How to Find Good First Issues in a project](https://www.youtube.com/watch?v=ZIkkPzTuOXw)
+- [How to Open Source Like a Pro](https://www.youtube.com/watch?v=MT6M_sqAuZo)
+- [How to Understand Large Codebases in Open Source](https://www.youtube.com/watch?v=kA1T0zDPtQo)
+- [How to contribute to and maintain open source projects with GitHub](https://www.oswc.is/search-projects)
+
+
