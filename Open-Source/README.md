@@ -37,4 +37,7 @@
 - [How to Understand Large Codebases in Open Source](https://www.youtube.com/watch?v=kA1T0zDPtQo)
 - [How to contribute to and maintain open source projects with GitHub](https://www.oswc.is/search-projects)
 
-
+## Open source programs students/working professionals
+### 25+ paid open source programs and internships
+- [Resource 1](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
+- [Resource 2](https://www.youtube.com/watch?v=x4hsV_q_YQc)
