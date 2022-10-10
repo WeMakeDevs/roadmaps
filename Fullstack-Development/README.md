@@ -83,7 +83,6 @@
 
 ## Deploying on web servers
 
-### Deploy MERN applications
 - [Resource 1](https://www.freecodecamp.org/news/deploying-a-mern-application-using-mongodb-atlas-to-heroku/)
 - [Resource 2](https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/)
 - [Resource 3](https://www.youtube.com/watch?v=7aRjGIhwyQM)
@@ -92,7 +91,6 @@
 
 ## Sample projects for practice
 
-### Projects
 - [Resource 1](https://www.youtube.com/watch?v=1RHDhtbqo94)
 - Create several application clones with your touch to it and deploy them (eg: YouTube, Spotify, Amazon, Netflix, etc)
 
