@@ -1,7 +1,7 @@
 <h1>DevOps Roadmap<h1>
   
   <h2>Golang</h2>
-    - [Resource 1](https://www.codecademy.com/learn/learn-go)
+    - [Resource 1](https://www.codecademy.com/learn/learn-go) </br>
     - [Resource 2](https://go.dev/learn/)
     - [Resource 3](https://www.tutorialspoint.com/go/index.htm)
     - [Resource 4](https://www.w3schools.com/go/)
