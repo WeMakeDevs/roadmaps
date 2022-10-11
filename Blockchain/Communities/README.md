@@ -1,7 +1,3 @@
-## Blockchain RoadMap
-
-- [RoadMap](https://www.commclassroom.org/blockchain-roadmap)
-
 ## Learning Block Chain
 - [Udemy 1](https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/)
 - [Udemy 2](https://www.udemy.com/course/blockchain-theory-101/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-bnssdxWpN.gVc2ipzFBYyw)
