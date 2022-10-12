@@ -2,15 +2,19 @@
 
 
 ## Get strted with Blockchain
+- Blockchain is a continuously expanding ledger that maintains a secure, chronological, and immutable record of every transaction that has ever occurred.
+- Without the need for a third-party middleman like a bank or the government, it can be utilised for the secure transfer of cash, assets, contracts, etc.
+- This roadmap will get you started with absolute basics to advanced concepts like ethereum concepts, SDK's etc.
 - Check out the Blockchain learning roadmap
+
 
 
 ## Learning Block Chain
 
-
-
-
-
+- [Resource 1](https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/)
+- [Resource 2](https://www.udemy.com/course/blockchain-theory-101/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-bnssdxWpN.gVc2ipzFBYyw)
+- [Resource 3](https://www.udemy.com/course/understanding-blockchain-technology/)
+- [Resource 4](https://www.youtube.com/watch?v=QCvL-DWcojc&ab_channel=edureka%21)
 
 
 
