@@ -17,9 +17,17 @@
 - [Resource 4](https://www.youtube.com/watch?v=QCvL-DWcojc&ab_channel=edureka%21)
 
 
+## Our Official Social Handles 👇
+
+- [Telegram](https://t.me/commclassroom)
+- [Discord](https://discord.com/invite/77xJrUBmpp)
+- [Twitter](https://twitter.com/commclassroom)
+- [LinkedIn](https://www.linkedin.com/company/commclassroom/)
+- [Instagram](https://www.instagram.com/commclassroom/)
 
 
-## 👥 Communities You Can Join 👇
+
+## 👥 Communities You Can Join For Learning 👇
 
 - [Alchemy](https://discord.com/invite/frSF7J8Ktw)
 - [BlockTrain](https://discord.gg/3S6nmU5MKD)
