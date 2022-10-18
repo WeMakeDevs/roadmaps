@@ -5,9 +5,20 @@ Are you prepared to embark on your quest to receive mentoring and land a job? Yo
 This repository contains the list of communities and job portals you can join and apply to. You can also add your known job and other portals to help us in our mission : Quality education, free for all.
 
 ## Roadmaps:
-![Roadmap gif](https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif)
 
-Checkout our visual roadmaps and resources on our [website](https://www.commclassroom.org/roadmaps)
+<p align="center"><img align="center" alt="Coding" src="https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif"></p>
+<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Backend-Development#readme"><B>Backend-Development</B></a></p>
+<p  align="center"><a href=""><b>Blockchain</b></a></p>
+<p  align="center"><a href=""><b>DevOps</b></a></p>
+<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/DevRel#readme"><b>DevRel</b></a></p>
+<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Frontend-Development#readme"><b>Frontend-Development</b></a></p>
+<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Fullstack-Development#readme"><b>Fullstack-Development</b></a></p>
+
+<p  align="center"><a href=""><b>Android-Development</b></a></p>
+<p align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Open-Source#readme"><b>Blockchain</b></a></p>
+
+
+
 
 ## Contribution:
 ![Contributing gif](https://media.giphy.com/media/JykvbWfXtAHSM/giphy.gif)
