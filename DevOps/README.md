@@ -62,8 +62,73 @@
       - [Resource 4](https://www.youtube.com/watch?v=7xngnjfIlK4) </br>
       - [Resource 5](https://www.terraform.io/intro) </br>
       
-   <h2></h2>   
+   <h2>Servish Mesh</h2> 
+      - [What is Servish Mesh]() </br>
+       
+      <h3>Istio<h3>
+        - [Resource 1]() </br>
+        - [Docs]() </br>
+        - [Resource 2]() </br>
       
+      <h3>Consul<h3>
+        - [Introduction]() </br>
+        - [Docs]() </br>
+        
+      <h3>Linkerd<h3>
+        - [Tutorial]() </br>
+        - [Docs]() </br>
+        
+   <h2>CI/CD</h3>
+        - [What is CI/CD]() </br>
+        
+      <h3>GitHub Actions</h3>
+        - [Reosurce]() </br>
+        
+      <h3>Jenkins</h3>
+        - [Resource 1]() </br>
+        - [Resource 2]() </br>
+        - [Docs]() </br>
+        
+   <h2>Infrastructure Monitoring</h2>
+        - [Resource 1]() </br>
+        - [Resource 2]() </br>
+        
+        - [Promethus Docs]() </br>
+         
+        - [Grafana Docs]() </br>
+          
+   <h2>Application Monitoring</h2>
+      <h3>New Relic</h3>
+          - [Resource 1]() </br>
+          - [Resource 2]() </br>
+          - [Resource 3]() </br>
+      
+      <h3>Jaegar</h3>
+          - [Resource 1]() </br>
+          - [Resource 2]() </br>
+          - [Resource 3]() </br>
+       
+   <h2>Logs Management</h2>
+       
+      <h3>Elastic</h3>
+          - [Resource 1]() </br>
+          - [Resource 2]() </br>
+          - [Resource 3]() </br>
     
-  
-  
+      <h3>ELK</h3>
+          - [Resource 1]() </br>
+          - [Resource 2]() </br>
+          - [Resource 3]() </br>
+          - [Resource 4]() </br>
+
+  <h2>Cloud Providers</h2>
+          
+          - [Civo]() </br>
+          - [AWS]() </br>
+          - [GCP]() </br>
+          - [AZURE]() </br>
+          
+  <h2>Sample Preoject Idea<h2>
+          - [15 Projects with Go]() </br>
+          - [20 Real Time DevOps Projects]() </br>
+          - [DevOps Projects]() </br>
