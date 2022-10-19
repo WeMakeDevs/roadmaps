@@ -2,6 +2,7 @@
 
 ## Introduction
 - [What is Web3](https://www.freecodecamp.org/news/what-is-web3/)
+
 ## Blockchain Fundamentals
 - [What is Blockchain](https://www.geeksforgeeks.org/blockchain-technology-introduction)
 - [Distributed Ledger](https://www.geeksforgeeks.org/what-is-blockchain-distributed-ledger)
@@ -14,9 +15,11 @@
 - [What Are NFTs](https://www.forbes.com/advisor/investing/cryptocurrency/nft-non-fungible-token/)
 - [What iS A DAO](https://www.forbes.com/sites/cathyhackl/2021/06/01/what-are-daos-and-why-you-should-pay-attention/?sh=343b04067305)
 - [Intro To DAPPS](https://ethereum.org/en/developers/docs/dapps/)
+
 ### Choose A Blockchain
 - [Ethereum](https://ethereum.org/)
 - [Solana](https://solana.com/)
+
 ### Ethereum Concepts
 - [Accounts](https://ethereum.org/en/developers/docs/accounts/)
 - [Transactions](https://ethereum.org/en/developers/docs/transactions)
@@ -35,20 +38,23 @@
                             <P>[1)Alchemy](https://www.alchemy.com/)</P>
                              <P>[2)Infura](https://infura.io/)</P> 
                              <P>[3)Quicknode](https://www.quicknode.com/)</P>
+
 ## Choose A Language
 - [Solidity](https://docs.soliditylang.org/)
 - [Vyper](https://vyper.readthedocs.io/en/stable/)
 - [Rust(Solana)](https://docs.solana.com/developing/on-chain-programs/developing-rust)
+
 ## Solidity
 - [Remix IDE](https://remix-project.org/)
 - Solidity Tutorials :
                              <P>[1)Solidity With Javascript](https://youtu.be/gyMwXuJrbJQ)</P>
                              <P>[2) Solidity With Python](https://youtu.be/M576WGiDBdQ)</P> 
-                             <P>[3) Smart Contractor Programme](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)</P>
+                             <P>[3) Smart Contractor Programme](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA</P>
                              <P>[4) Solidity Tutorial](https://youtu.be/3g2WT2jms_k)</P>
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.16/)
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg)
 - [CryptoZombies](https://cryptozombies.io/)
+
 ## Use A FrameWork
 - [Metamask](https://docs.metamask.io/guide/)
 - [VS Code Solidity Extension](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
@@ -56,6 +62,7 @@
 - [Hardhat](https://hardhat.org/docs)
 - [Foundry](https://getfoundry.sh/)
 - [Web3.py](https://web3py.readthedocs.io/)
+
 ## Connect Dapp to Frontend
 - [Web3.js](https://web3js.readthedocs.io/en/v1.7.5/)
 - [Ether.js](https://docs.ethers.io/v5/)
@@ -64,7 +71,7 @@
                              <P>[2) Arweave](https://docs.arweave.org/info/)</P> 
                              <P>[3) Filecoin](https://docs.filecoin.io/)</P>
 ## Mid-Level Tools
-- Testing Tools
+ - Testing Tools
                              <P>[1) Waffle](https://ethereum-waffle.readthedocs.io/en/latest/)</P>
                              <P>[2) Ganache](https://trufflesuite.com/docs/ganache/)</P> 
  - [Open Zeppelin](https://docs.openzeppelin.com/)
@@ -73,13 +80,14 @@
 -  [Ceramic Network](https://developers.ceramic.network/learn/welcome/)
 -  [The Graph](https://thegraph.com/docs/en/)
 -  [Scaffold-Ethereum](https://docs.scaffoldeth.io/scaffold-eth/)
-  ### SDKs
+ 
+ ### SDKs
 - [Third Web](https://portal.thirdweb.com/)
 - [Moralis](https://docs.moralis.io/moralis-dapp/getting-started)
 ## Project Ideas
 - Article Format
-                             <P>[Resource 1](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)</P>
-                             <P>[Resource 2](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)</P> 
+                    <P>[Resource 1](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development4g74)</P>
+                    <P>[Resource 2](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)</P> 
 - Video Format
                              <P>[Resource 1](https://www.youtube.com/c/MoralisWeb3)</P>
                              <P>[Resource 2](https://www.youtube.com/c/AlchemyPlatform)</P> 
