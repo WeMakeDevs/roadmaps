@@ -70,6 +70,7 @@
                              <P>[1) IPFS](https://docs.ipfs.tech/install/)</P>
                              <P>[2) Arweave](https://docs.arweave.org/info/)</P> 
                              <P>[3) Filecoin](https://docs.filecoin.io/)</P>
+
 ## Mid-Level Tools
  - Testing Tools
                              <P>[1) Waffle](https://ethereum-waffle.readthedocs.io/en/latest/)</P>
@@ -84,6 +85,7 @@
  ### SDKs
 - [Third Web](https://portal.thirdweb.com/)
 - [Moralis](https://docs.moralis.io/moralis-dapp/getting-started)
+
 ## Project Ideas
 - Article Format
                     <P>[Resource 1](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development4g74)</P>
