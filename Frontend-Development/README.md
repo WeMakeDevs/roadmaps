@@ -1,13 +1,6 @@
-#   Frontend Roadmap
-##   Introduction
-
-
-
-###  What is front end developer
-
-
-
-
+# Frontend Roadmap
+## Introduction
+### What is front end developer
 - [Resource 1](https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html)
 - [Resource 2](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 - [Resource 3](https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/)
@@ -16,8 +9,6 @@
 - [Resource 2](https://en.wikipedia.org/wiki/Front-end_web_development)
 
 ## Understanding Internet
-
-
 ### How does internet work
 - [Resource 1](https://www.youtube.com/watch?v=IPvYjXCsTg8)
 - [Resource 2](https://www.youtube.com/watch?v=TNQsmPf24go)
@@ -29,13 +20,8 @@
 ### Internet-CS50's understanding technology
 - [Resource](https://www.youtube.com/watch?v=n_KghQP86Sw)
 
-##    Learning HTML
-
-
-
-###     HTML Tutorial
-
-
+## Learning HTML
+### HTML Tutorial
 - [Resource 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 - [Resource 2](https://www.codecademy.com/learn/learn-html)
 - [Resource 3](https://www.w3schools.com/html/)
@@ -44,7 +30,7 @@
 - [Resource 6](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [Resource 7](https://www.youtube.com/watch?v=PlxWf493en4)
 
-###   Frontend Projects
+### Frontend Projects
 - [Resource 1](https://www.frontendpractice.com/)
 - [Resource 2](https://www.frontendmentor.io/)
 
