@@ -34,7 +34,6 @@
 ###     HTML Tutorial
 
 
-
 - [Resource 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 - [Resource 2](https://www.codecademy.com/learn/learn-html)
 - [Resource 3](https://www.w3schools.com/html/)
@@ -43,7 +42,7 @@
 - [Resource 6](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [Resource 7](https://www.youtube.com/watch?v=PlxWf493en4)
 
-### Frontend Projects
+###   Frontend Projects
 - [Resource 1](https://www.frontendpractice.com/)
 - [Resource 2](https://www.frontendmentor.io/)
 
