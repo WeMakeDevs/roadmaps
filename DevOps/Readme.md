@@ -34,10 +34,10 @@
 ## Containers
 - [Containers Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
 - Docker
-               <p>[Resource 1](https://www.youtube.com/watch?v=17Bl31rlnRM&t=1204s)</P>
-               <p>[Resource 2](https://www.youtube.com/watch?v=3c-iBn73dDE)</P>
-               <p>[Resource 3](https://www.youtube.com/watch?v=9zUHg7xjIqQ&feature=youtu.be)</P>
-               <p>[Docs](https://docs.docker.com/)</P>
+    - [Resource 1](https://www.youtube.com/watch?v=17Bl31rlnRM&t=1204s)
+    - [Resource 2](https://www.youtube.com/watch?v=3c-iBn73dDE)
+    - [Resource 3](https://www.youtube.com/watch?v=9zUHg7xjIqQ&feature=youtu.be)
+    - [Docs](https://docs.docker.com/)
 - [Build a NodeJS Application With Docker](https://www.youtube.com/watch?v=PsWeSg38XFY&feature=youtu.be)
 
 ## Configuration Management
@@ -48,12 +48,12 @@
 
 ## Container Orchestration
 - Kubernetes
-               <p>[Resource 1](https://www.youtube.com/watch?v=KVBON1lA9N8)</P>
-               <p>[Resource 2](http://civo.io/kunal)</P>
-               <p>[Resource 3](https://www.tutorialspoint.com/kubernetes/index.htm)</P>
-               <p>[Resource 4](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)</P>
-               <p>[Resource 5](https://www.youtube.com/watch?v=X48VuDVv0do)</P>
-               <p>[Resource 6](https://www.youtube.com/watch?v=PH-2FfFD2PU)</P>
+  - [Resource 1](https://www.youtube.com/watch?v=KVBON1lA9N8)
+  - [Resource 2](http://civo.io/kunal)
+  - [Resource 3](https://www.tutorialspoint.com/kubernetes/index.html)
+  - [Resource 4](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
+  - [Resource 5](https://www.youtube.com/watch?v=X48VuDVv0do)
+  - [Resource 6](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 
 ## Infrastructure Provisioning
 - [Resource 1](https://learn.hashicorp.com/terraform)
@@ -65,20 +65,20 @@
 ## Service Mesh
 - [What Is A Service Mesh]()
 - Istio
-       <p>[Resource 1](https://www.youtube.com/watch?v=6zDrLvpfCK4)</p>
-       <p>[Resource 2](https://www.youtube.com/watch?v=16fgzklcF7Y)</p>
-       <p>[Docs](https://istio.io/latest/docs/setup/getting-started/)</p>
--Consul
-      <p>[Introduction](https://www.youtube.com/watch?v=UHLr8UsHuDA)</p>
-      <p>[Docs](https://www.consul.io/docs)</p>
+   - [Resource 1](https://www.youtube.com/watch?v=6zDrLvpfCK4)
+   - [Resource 2](https://www.youtube.com/watch?v=16fgzklcF7Y)
+   - [Docs](https://istio.io/latest/docs/setup/getting-started/)
+- Consul
+   - [Introduction](https://www.youtube.com/watch?v=UHLr8UsHuDA)
+   - [Docs](https://www.consul.io/docs)
 
 ## CI/CD
 - [What Is CI/CD](https://www.youtube.com/watch?v=62N8UiWUdQo&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=21)
 - [Github Actions](https://www.youtube.com/watch?v=R8_veQiYBjI)
 - Jenkins
-       <p>[Resource 1](https://www.youtube.com/watch?v=7KCS70sCoK0)</p>
-       <p>[Resource 2](https://www.tutorialspoint.com/jenkins/index.htm)</p>
-       <p>[Docs](https://www.jenkins.io/doc/tutorials/)</p>
+     - [Resource 1](https://www.youtube.com/watch?v=7KCS70sCoK0)
+     - [Resource 2](https://www.tutorialspoint.com/jenkins/index.htm)
+     - [Docs](https://www.jenkins.io/doc/tutorials/)
 
 ## Infrastructure Monitoring
 - [Resource 1](https://www.youtube.com/watch?v=9TJx7QTrTyo)
@@ -88,24 +88,24 @@
 
 ## Application Monitoring
 - New Relic
-               <p>[Resource 1](https://www.youtube.com/watch?v=aU6A-45c7Vs)</P>
-               <p>[Resource 2](https://www.youtube.com/c/NewRelicInc)</P>
-               <p>[Resource 3](https://www.youtube.com/watch?v=YHyopdCfxsQ)</P>
+    - [Resource 1](https://www.youtube.com/watch?v=aU6A-45c7Vs)
+    - [Resource 2](https://www.youtube.com/c/NewRelicInc)
+    - [Resource 3](https://www.youtube.com/watch?v=YHyopdCfxsQ)
 - Jaegar  
-               <p>[Resource 1](https://www.youtube.com/watch?v=aMZoUIG-mgY)</P>
-               <p>[Resource 2](https://www.youtube.com/watch?v=UNqilb9_zwY)</P>
-               <p>[Resource 3](https://www.jaegertracing.io/docs/1.36/getting-started/)</P>
+    - [Resource 1](https://www.youtube.com/watch?v=aMZoUIG-mgY)
+    - [Resource 2](https://www.youtube.com/watch?v=UNqilb9_zwY)
+    - [Resource 3](https://www.jaegertracing.io/docs/1.36/getting-started/)
 
 ## Logs Management
 - Elastic
-               <p>[Resource 1](https://www.youtube.com/watch?v=ZP0NmfyfsoM)</P>
-               <p>[Resource 2](https://www.elastic.co/observability/log-monitoring)</P>
-               <p>[Resource 3](https://www.youtube.com/watch?v=tOqWX9JWEYc)</P>
+   - [Resource 1](https://www.youtube.com/watch?v=ZP0NmfyfsoM)
+   - [Resource 2](https://www.elastic.co/observability/log-monitoring)
+   - [Resource 3](https://www.youtube.com/watch?v=tOqWX9JWEYc)
 - ELK             
-                <p>[Resource 1](https://www.cprime.com/resources/blog/log-management-elk-and-why-you-should-care/)</P>
-               <p>[Resource 2](https://sematext.com/guides/elk-stack/)</P>
-               <p>[Resource 3](https://www.youtube.com/watch?v=4X0WLg05ASw)</P>
-               <p>[Resource 4](https://www.youtube.com/watch?v=MuPhf6uL-kE)</p>
+   - [Resource 1](https://www.cprime.com/resources/blog/log-management-elk-and-why-you-should-care/)
+   - [Resource 2](https://sematext.com/guides/elk-stack/)
+   - [Resource 3](https://www.youtube.com/watch?v=4X0WLg05ASw)
+   - [Resource 4](https://www.youtube.com/watch?v=MuPhf6uL-kE)
 
 ## Cloud Providers
 - [Civo](https://www.civo.com/docs)
