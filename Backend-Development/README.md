@@ -12,8 +12,8 @@
 - [HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 
 ### Build a project
-- [Resourse 1](https://www.frontendpractice.com/)
-- [Resourse 2](https://www.frontendmentor.io/)
+- [Resourse 1 : frontendpractice.com](https://www.frontendpractice.com/)
+- [Resourse 2 : frontendmentor.io](https://www.frontendmentor.io/)
 
 ## Understanding Internet
 ### How does internet work
