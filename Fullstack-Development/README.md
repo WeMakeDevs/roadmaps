@@ -1,4 +1,4 @@
-# Frontend Roadmap
+# Full-Stack Roadmap
 
 ## Get started with frontend
 
