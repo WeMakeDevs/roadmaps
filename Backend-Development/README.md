@@ -17,20 +17,20 @@
 
 ## Understanding Internet
 ### How does internet work
-- [Resourse 1 : Computer Networking course-Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
-- [Resourse 2 : How does the Internet Work?-Vox(Youtube)](https://www.youtube.com/watch?v=TNQsmPf24go)
-- [Resourse 3 : How does the Internet Work?-Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [Resourse 4 : How Does the Internet Work?-Stanford.edu](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
-- [Resourse 5 : How Does the Internet Work?-cloudflare](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
-- [Resourse 6 : How Does the Internet Work?-Lesics(Youtube)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
+- [Resourse 1 : Computer Networking course - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- [Resourse 2 : How does the Internet Work? - Vox(Youtube)](https://www.youtube.com/watch?v=TNQsmPf24go)
+- [Resourse 3 : How does the Internet Work? - Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [Resourse 4 : How Does the Internet Work? - Stanford.edu](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [Resourse 5 : How Does the Internet Work? - cloudflare](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
+- [Resourse 6 : How Does the Internet Work? - Lesics(Youtube)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
 - [Internet - CS50's understanding technology](https://www.youtube.com/watch?v=n_KghQP86Sw)
 
 ## Operating System Basics
-- [Resourse 1](https://www.youtube.com/watch?v=RozoeWzT7IM)
-- [Resourse 2](https://www.youtube.com/watch?v=6-mdtMKfEYM)
-- [Resourse 3](https://www.youtube.com/watch?v=GjNp0bBrjmU)
-- [Resourse 4](https://www.youtube.com/watch?v=pVzRTmdd9j0)
-- [Resourse 5](https://www.tutorialspoint.com/operating_system/index.htm#:~:text=An%20Operating%20System%20(OS)%20is%20an%20interface%20between%20a%20computer,as%20disk%20drives%20and%20printers.)
+- [Resourse 1 : Introduction to operating systems - Jenny's Lectures(Youtube)](https://www.youtube.com/watch?v=RozoeWzT7IM)
+- [Resourse 2 : Operating system basics - Geek's Lesson(Youtube)](https://www.youtube.com/watch?v=6-mdtMKfEYM)
+- [Resourse 3 : How do operating systems work? - ClickView(Youtube)](https://www.youtube.com/watch?v=GjNp0bBrjmU)
+- [Resourse 4 : What is an operating system - Techquickie(Youtube)](https://www.youtube.com/watch?v=pVzRTmdd9j0)
+- [Resourse 5 : Operating system tutorial - Tutorialspoint](https://www.tutorialspoint.com/operating_system/index.htm#:~:text=An%20Operating%20System%20(OS)%20is%20an%20interface%20between%20a%20computer,as%20disk%20drives%20and%20printers.)
 
 ## Linux Terminal Basics
 - [Complete Linux Course](https://www.youtube.com/watch?v=iwolPf6kN-k)
@@ -40,12 +40,12 @@
 
 ## Javascript
 ### JS Tutorials
-- [Resourse 1](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
-- [Resourse 2](https://nodejs.org/en/docs/)
-- [Resourse 3](https://expressjs.com/en/starter/installing.html)
-- [Resourse 4](https://www.youtube.com/watch?v=TlB_eWDSMt4)
-- [Resourse 5](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
-- [Resourse 6](https://www.youtube.com/watch?v=Oe421EPjeBE)
+- [Resourse 1 : Node.js Crash Course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+- [Resourse 2 : Node.js Documentation](https://nodejs.org/en/docs/)
+- [Resourse 3 : Express js Getting started](https://expressjs.com/en/starter/installing.html)
+- [Resourse 4 : Node.js tutorial-Programming with Mosh(Youtube)](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+- [Resourse 5 : Node.js crash course playlist - The Net Ninja(Youtube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
+- [Resourse 6 : Node.js and express.js course - freecodecamp(Youtube)](https://www.youtube.com/watch?v=Oe421EPjeBE)
 
 ## Version Control
 - [Git documentation](https://git-scm.com/docs/gittutorial)
@@ -55,9 +55,9 @@
 - [What is Relational Databases](https://www.youtube.com/watch?v=OqjJjpjDRLc)
   
 ### Postgre SQL
-- [Resourse 1](https://www.youtube.com/watch?v=qw--VYLpxG4)
-- [Resourse 2](https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS)
-- [Resourse 3](https://www.postgresqltutorial.com/)
+- [Resourse 1 : PostgreSQL Tutorial - freecodecamp(Youtube)](https://www.youtube.com/watch?v=qw--VYLpxG4)
+- [Resourse 2 : PosgresSQL Course - Amigoscode(Youtube)](https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS)
+- [Resourse 3 : postgresqltutorial.com](https://www.postgresqltutorial.com/)
 - [Nodejs and PostgreSQL Project](https://www.youtube.com/playlist?list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
 
 ## NoSQL Databases
@@ -65,25 +65,25 @@
 - [SQL vs NoSQL](https://www.youtube.com/watch?v=Q5aTUc7c4jg)
 
 ### MongoDB
-- [Resourse 1](https://www.youtube.com/watch?v=Www6cTUymCY)
-- [Resourse 2](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+- [Resourse 1 : MongoDB Tutorial - Amigoscode(Youtube)](https://www.youtube.com/watch?v=Www6cTUymCY)
+- [Resourse 2 : Complete MongoDB Tutorial - The Net Ninja(Youtube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
 - [Build a Markdown Blog with Node.js, Express and MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM)
 
 ## APIs
 ### Learn and Build APIs
-- [Resourse 1](https://www.youtube.com/watch?v=pKd0Rpw7O48)
-- [Resourse 2](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
-- [Resourse 3](https://www.youtube.com/watch?v=fgTGADljAeg)
-- [Resourse 4](https://www.youtube.com/watch?v=fsCjFHuMXj0)
+- [Resourse 1 : REST API with Node js & Express - Programming with Mosh(Youtube)](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+- [Resourse 2 : Back End Development and APIs - FreeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+- [Resourse 3 : REST API With Node.js, Express, & MongoDB - Web Dev Simplified(Youtube)](https://www.youtube.com/watch?v=fgTGADljAeg)
+- [Resourse 4 : Build a Node.js API - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=fsCjFHuMXj0)
 
 ### MVC
-- [Resourse 1](https://www.youtube.com/watch?v=DUg2SWWK18I)
-- [Resourse 2](https://www.youtube.com/watch?v=zW_tZR0Ir3Q)
+- [Resourse 1 : MVC explained - Web Dev Simplified(Youtube)](https://www.youtube.com/watch?v=DUg2SWWK18I)
+- [Resourse 2 : Express Router & MVC - The Net Ninja(Youtube)](https://www.youtube.com/watch?v=zW_tZR0Ir3Q)
 
 ### Deployment
-- [Resourse 1](https://www.youtube.com/watch?v=_GSOnHRYSS0)
-- [Resourse 2](https://www.youtube.com/watch?v=oykl1Ih9pMg)
-- [Resourse 3](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment)
+- [Resourse 1 : Node.js & Express,Deploying an app- Traversy Media(Youtube)](https://www.youtube.com/watch?v=_GSOnHRYSS0)
+- [Resourse 2 : Full Node.js Deployment - Traversy Media(Youtube)](https://www.youtube.com/watch?v=oykl1Ih9pMg)
+- [Resourse 3 : Express Tutorial, Deploying to production - Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment)
 
 ## Microservices
 - [What are Microservices?](https://www.youtube.com/watch?v=j3XufmvEMiM)
@@ -114,17 +114,17 @@
 - [Containers Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
 
 ### Docker
-- [Resourse 1](https://www.youtube.com/watch?v=17Bl31rlnRM)
-- [Resourse 2](https://www.youtube.com/watch?v=3c-iBn73dDE)
-- [Resourse 3](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
+- [Resourse 1 :  Docker Tutorial - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=17Bl31rlnRM)
+- [Resourse 2 : Docker Tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [Resourse 3 : Learn Docker - freecodecamp(Youtube)](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
 - [Docs](https://docs.docker.com/)
 - [Build a NodeJS application with Docker](https://www.youtube.com/watch?v=PsWeSg38XFY)
 
 ## Web Servers
-- [Resourse 1](https://www.youtube.com/watch?v=JhpUch6lWMw)
-- [Resourse 2](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
-- [Resourse 3](https://www.tutorialspoint.com/internet_technologies/web_servers.htm)
-- [Resourse 4](https://www.nginx.com/resources/glossary/web-server/)
+- [Resourse 1 : Web servers and their working - Hussein Nasser(Youtube)](https://www.youtube.com/watch?v=JhpUch6lWMw)
+- [Resourse 2 : What is a web server - Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+- [Resourse 3 : Web Server - Tutorialspoint](https://www.tutorialspoint.com/internet_technologies/web_servers.htm)
+- [Resourse 4 : What is a web server? - NGINX](https://www.nginx.com/resources/glossary/web-server/)
 
 ## Build Projects
 - [4 projects with Node.js/Express](https://www.youtube.com/watch?v=qwfE7fSVaZM)
