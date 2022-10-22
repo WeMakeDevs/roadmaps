@@ -17,12 +17,12 @@
 
 ## Understanding Internet
 ### How does internet work
-- [Resourse 1](https://www.youtube.com/watch?v=IPvYjXCsTg8)
-- [Resourse 2](https://www.youtube.com/watch?v=TNQsmPf24go)
-- [Resourse 3](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [Resourse 4](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
-- [Resourse 5](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
-- [Resourse 6](https://www.youtube.com/watch?v=x3c1ih2NJEg)
+- [Resourse 1 : Computer Networking course-Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- [Resourse 2 : How does the Internet Work?-Vox(Youtube)](https://www.youtube.com/watch?v=TNQsmPf24go)
+- [Resourse 3 : How does the Internet Work?-Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [Resourse 4 : How Does the Internet Work?-Stanford.edu](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [Resourse 5 : How Does the Internet Work?-cloudflare](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
+- [Resourse 6 : How Does the Internet Work?-Lesics(Youtube)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
 - [Internet - CS50's understanding technology](https://www.youtube.com/watch?v=n_KghQP86Sw)
 
 ## Operating System Basics
