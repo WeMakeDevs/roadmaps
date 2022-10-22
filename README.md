@@ -6,13 +6,13 @@ This repository contains the list of communities and job portals you can join an
 
 ## Roadmaps:
 <p align="center"><img align="center" alt="Coding" src="https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif"></p>
-<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Backend-Development#readme"><B>Backend-Development</B></a></p>
-<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Blockchain#readme"><b>Blockchain</b></a></p>
-<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/DevOps#readme"><b>DevOps</b></a></p>
-<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/DevRel#readme"><b>DevRel</b></a></p>
-<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Frontend-Development#readme"><b>Frontend-Development</b></a></p>
-<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Fullstack-Development#readme"><b>Fullstack-Development</b></a></p>
-<p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Mobile-Development#readme"><b>Android-Development</b></a></p>
+<p  align="center"><a href="Backend-Development#readme"><B>Backend-Development</B></a></p>
+<p  align="center"><a href="Blockchain#readme"><b>Blockchain</b></a></p>
+<p  align="center"><a href="DevOps#readme"><b>DevOps</b></a></p>
+<p  align="center"><a href="DevRel#readme"><b>DevRel</b></a></p>
+<p  align="center"><a href="Frontend-Development#readme"><b>Frontend-Development</b></a></p>
+<p  align="center"><a href="Fullstack-Development#readme"><b>Fullstack-Development</b></a></p>
+<p  align="center"><a href="Mobile-Development#readme"><b>Android-Development</b></a></p>
 
 ## Contribution:
 ![Contributing gif](https://media.giphy.com/media/JykvbWfXtAHSM/giphy.gif)
