@@ -88,7 +88,7 @@
 
 ## Project Ideas
 - Article Format
-  - [Resource 1](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development4g74)
+  - [Resource 1](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
   - [Resource 2](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) 
 - Video Format
   - [Resource 1](https://www.youtube.com/c/MoralisWeb3)
