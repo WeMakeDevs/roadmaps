@@ -88,9 +88,9 @@
 
 ## Project Ideas
 - Article Format
-  - [Resource 1](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development4g74)
-  - [Resource 2](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) 
+  <!-- - [Resource 1](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development4g74) commented this as it was unavailable -->
+  - [The Complete Guide to Full Stack Ethereum and EVM Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) 
 - Video Format
-  - [Resource 1](https://www.youtube.com/c/MoralisWeb3)
-  - [Resource 2](https://www.youtube.com/c/AlchemyPlatform) 
-  - [Resource 3](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+  - [Moralis Web3 (Youtube)](https://www.youtube.com/c/MoralisWeb3)
+  - [Alchemy (Youtube)](https://www.youtube.com/c/AlchemyPlatform) 
+  - [Dapp University(Youtube)](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
