@@ -82,7 +82,7 @@
 
 ## Infrastructure Monitoring
 - [Prometheus and Grafana Tutorial - The Digital Life(Youtube)](https://www.youtube.com/watch?v=9TJx7QTrTyo)
-- [How Prometheus Monitoring works - TechWorld with Nana](https://www.youtube.com/watch?v=h4Sl21AKiDg)
+- [How Prometheus Monitoring works - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=h4Sl21AKiDg)
 - [Prometheus Docs](https://prometheus.io/docs/introduction/overview/)
 - [Grafana Docs](https://grafana.com/docs/grafana/latest/getting-started/get-started-grafana-prometheus/)
 
