@@ -1,10 +1,12 @@
 ## 👥 Communities You Can Join
 
 - [Alchemy](https://discord.com/invite/frSF7J8Ktw)
+- [Atom DAO](https://discord.com/channels/973250465661853716/973250465661853719)
 - [BlockTrain](https://discord.gg/3S6nmU5MKD)
 - [Buildspace](https://discord.com/invite/buildspace)
 - [ChainLink](https://discord.com/invite/aSK4zew)
 - [Community Classroom](https://discord.io/commclassroom)
+- [Continuum](https://discord.com/channels/790000762734116864/1021038789004640347)
 - [CryptoDevHub](https://cryptodevhub.io/discord)
 - [Eddiehub](http://discord.eddiehub.org/)
 - [Ethereum](https://discord.com/invite/CetY6Y4)
