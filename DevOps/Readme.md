@@ -63,7 +63,7 @@
 - [Resource 5](https://www.terraform.io/intro)
 
 ## Service Mesh
-- [What Is A Service Mesh]()
+- [What Is A Service Mesh](https://www.youtube.com/watch?v=vh1YtWjfcyk)
 - Istio
    - [Resource 1](https://www.youtube.com/watch?v=6zDrLvpfCK4)
    - [Resource 2](https://www.youtube.com/watch?v=16fgzklcF7Y)
