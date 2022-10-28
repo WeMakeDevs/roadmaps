@@ -14,7 +14,7 @@
 - [Linux Tutorial](https://www.youtube.com/watch?v=cBokz0LTizk)
 - [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 
-## Operation System Basics
+## Operating System Basics
 - [Resource 1](https://www.youtube.com/watch?v=RozoeWzT7IM)
 - [Resource 2](https://www.youtube.com/watch?v=6-mdtMKfEYM&feature=youtu.be)
 - [Resource 3](https://www.youtube.com/watch?v=GjNp0bBrjmU&feature=youtu.be)
