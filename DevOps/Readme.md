@@ -23,7 +23,6 @@
 - [Operating system tutorial - Tutorialspoint](https://www.tutorialspoint.com/operating_system/index.htm#:~:text=An%20Operating%20System%20(OS)%20is%20an%20interface%20between%20a%20computer,as%20disk%20drives%20and%20printers.)
 - [Operating System - Neso Academy()](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 
-
 ## Other Pre-requiaites
 - [Complete Computer Networks Course](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4)
 - [Complete YAML Course](https://www.youtube.com/watch?v=IA90BTozdow)
