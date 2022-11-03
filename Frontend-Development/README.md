@@ -1,64 +1,64 @@
 # Frontend Roadmap
 ## Introduction
 ### What is front end developer
-- [Resource 1](https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html)
-- [Resource 2](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
-- [Resource 3](https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/)
+- [What is a frontend developer? - frontendmasters.com](https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html)
+- [Frontend web developer - Mozilla Developer docs](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+- [What is frontend development - Freecodecamp](https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/)
 ### What is frontend web development
-- [Resource 1](https://www.youtube.com/watch?v=qyHyFsT7Hig)
-- [Resource 2](https://en.wikipedia.org/wiki/Front-end_web_development)
+- [Frontend Development explained - Mayuko(Youtube)](https://www.youtube.com/watch?v=qyHyFsT7Hig)
+- [Frontend web development - Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
 
 ## Understanding Internet
 ### How does internet work
-- [Resource 1](https://www.youtube.com/watch?v=IPvYjXCsTg8)
-- [Resource 2](https://www.youtube.com/watch?v=TNQsmPf24go)
-- [Resource 3](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [Resource 4](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
-- [Resource 5](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
-- [Resource 6](https://www.youtube.com/watch?v=x3c1ih2NJEg)
+- [Computer Networking course - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- [How does the Internet Work? - Vox(Youtube)](https://www.youtube.com/watch?v=TNQsmPf24go)
+- [How does the Internet Work? - Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [How Does the Internet Work? - Stanford.edu](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [How Does the Internet Work? - cloudflare](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
+- [How Does the Internet Work? - Lesics(Youtube)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
 
 ### Internet-CS50's understanding technology
 - [Resource](https://www.youtube.com/watch?v=n_KghQP86Sw)
 
 ## Learning HTML
 ### HTML Tutorial
-- [Resource 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
-- [Resource 2](https://www.codecademy.com/learn/learn-html)
-- [Resource 3](https://www.w3schools.com/html/)
-- [Resource 4](https://www.tutorialspoint.com/html/index.htm)
-- [Resource 5](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- [Resource 6](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [Resource 7](https://www.youtube.com/watch?v=PlxWf493en4)
+- [Learn HTML - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
+- [Learn HTML - Codecadmeny](https://www.codecademy.com/learn/learn-html)
+- [HTML Tutorial - W3schools](https://www.w3schools.com/html/)
+- [HTML Tutorial - TutorialsPoint](https://www.tutorialspoint.com/html/index.htm)
+- [HTML course, build a website - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [HTML crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [HTML Tutorial, making a Website - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PlxWf493en4)
 
 ### Frontend Projects
-- [Resource 1](https://www.frontendpractice.com/)
-- [Resource 2](https://www.frontendmentor.io/)
+- [frontendmentor.io](https://www.frontendmentor.io/)
+- [frontendpractice.com](https://www.frontendpractice.com/)
 
 ## Learning CSS
 ### CSS Tutorials
-- [Resource 1](https://web.dev/learn/css/)
-- [Resource 2](https://www.codecademy.com/learn/learn-css)
-- [Resource 3](https://www.w3schools.com/css/)
-- [Resource 4](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-- [Resource 5](https://www.youtube.com/kepowob)
-- [Resource 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [Learn CSS - web.dev](https://web.dev/learn/css/)
+- [Learn CSS - codecademy](https://www.codecademy.com/learn/learn-css)
+- [CSS tutorial -w3schools](https://www.w3schools.com/css/)
+- [CSS zero to hero - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [Kevin Powell(Youtube)](https://www.youtube.com/kepowob)
+- [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 
 ### Frontend Projects
-- [Resource 1](https://www.frontendpractice.com/)
-- [Resource 2](https://www.frontendmentor.io/)
+- [frontendmentor.io](https://www.frontendmentor.io/)
+- [frontendpractice.com](https://www.frontendpractice.com/)
 
 ## Learning Javascript
 ### JS Tutorials
-- [Resource 1](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- [Resource 2](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-- [Resource 3](https://www.youtube.com/watch?v=jS4aFq5-91M)
-- [Resource 4](https://www.w3schools.com/js/)
-- [Resource 5](https://www.codecademy.com/learn/introduction-to-javascript)
-- [Resource 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+- [Learn JavaScript - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [JavaScript Tutorial - Programming with Mosh(Youtube)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [JavaScript Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=jS4aFq5-91M)
+- [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/)
+- [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Free JS Courses for Beginners - FreeCodeCamp](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
 ### Frontend Projects
-- [Resource 1](https://www.frontendpractice.com/)
-- [Resource 2](https://www.frontendmentor.io/)
+- [frontendmentor.io](https://www.frontendmentor.io/)
+- [frontendpractice.com](https://www.frontendpractice.com/)
 
 ## Learning Version Control
 - [Git Documentation](https://git-scm.com/docs/gittutorial)
@@ -89,13 +89,13 @@
 - [Docs](https://vuejs.org/tutorial/#step-1)
 
 ### Angular
-- [Tutorial 1](https://www.youtube.com/watch?v=k5E2AVpwsko)
-- [Tutorial 2](https://www.youtube.com/watch?v=2OHbjep_WjQ)
+- [Angular Tutorial - Programming with Mosh(Youtube)](https://www.youtube.com/watch?v=k5E2AVpwsko)
+- [Learn Angular - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 - [Docs](https://angular.io/docs)
 
 ### Frontend Projects
-- [Resource 1](https://www.frontendpractice.com/)
-- [Resource 2](https://www.frontendmentor.io/)
+- [frontendmentor.io](https://www.frontendmentor.io/)
+- [frontendpractice.com](https://www.frontendpractice.com/)
 
 ## CSS Frameworks
 - [Top CSS Frameworks](https://www.browserstack.com/guide/top-css-frameworks)
@@ -105,16 +105,16 @@
 - [Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
 ### Tailwind CSS
-- [Tutorial 1](https://www.youtube.com/watch?v=UBOj6rqRUME)
-- [Tutorial 2](https://www.youtube.com/watch?v=dFgzHOX84xQ)
+- [Tailwind css crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=UBOj6rqRUME)
+- [Tailwind crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=dFgzHOX84xQ)
 - [Docs](https://tailwindcss.com/docs/installation)
 
 ## What is PWA(Progressive Web Apps)
-- [Resource 1](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
-- [Resource 2](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
-- [Resource 3](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
-- [Resource 4](https://web.dev/progressive-web-apps/)
+- [PWA tutorial - The Net Ninja(Youtube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+- [Progressive web apps - Mozilla developer docs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+- [What are progressive web apps? - Freecodecamp](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
+- [Progressive Web Apps](https://web.dev/progressive-web-apps/)
 
 ## Sample projects for practice
-- [Resource 1](https://www.frontendmentor.io/)
-- [Resource 2](https://www.frontendpractice.com/)
+- [frontendmentor.io](https://www.frontendmentor.io/)
+- [frontendpractice.com](https://www.frontendpractice.com/)

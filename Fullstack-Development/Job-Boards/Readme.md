@@ -9,4 +9,5 @@
 - [Full Stack Developer](https://www.accenture.com/th-en/careers/jobdetails?id=R00001697_en) - Accenture
 - [LinkedIn Job Board](https://www.linkedin.com/jobs/search/?geoId=92000000&keywords=full%20stack%20developer&location=Worldwide)
 - [Remote Full-stack Developer Jobs](https://www.turing.com/jobs/remote-full-stack-jobs) - Turing
+- [Remote Full-stack Developer Jobs](https://www.workingnomads.com/jobs) - Working Nomads
 - [Remote Devops jobs in web3](https://web3.career/devops+remote-jobs)-Remote Devops jobs in web3

@@ -10,21 +10,21 @@
 
 ## Learning Typescript
 
-- [Resource 1](https://www.codecademy.com/learn/learn-typescript)
-- [Resource 2](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
-- [Resource 3](https://youtu.be/gp5H0Vw39yw)
+- [Learn Typescript - Codecademy](https://www.codecademy.com/learn/learn-typescript)
+- [Learn Typescript - FreeCodeCamp](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
+- [Learn Typescript - FreeCodeCamp(Youtube)](https://youtu.be/gp5H0Vw39yw)
 - [Typescript documentation](https://www.typescriptlang.org/docs/)
 
 ### Typescript tutorials
-- [Resource 1](https://youtu.be/d56mG7DezGs)
-- [Resource 2](https://www.tutorialspoint.com/typescript/index.htm)
-- [Resource 3](https://youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+- [Typescript Tutorial - Programming with mosh(Youtube)](https://youtu.be/d56mG7DezGs)
+- [Typescript Tutorial - TutorialsPoint](https://www.tutorialspoint.com/typescript/index.htm)
+- [Typescript Tutorial - The Net Ninja(Youtube)](https://youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 
 ## Learning GraphQL
 
-- [Resource 1](https://youtu.be/ZQL7tL2S0oQ)
-- [Resource 2](https://youtu.be/ed8SzALpx1Q)
-- [Resource 3](https://youtu.be/BcLNfwF04Kw)
+- [Learn GraphQL in 40 minute - Web Dev Simplified(Youtube)](https://youtu.be/ZQL7tL2S0oQ)
+- [GraphQL full course - FreeCodeCamp(Youtube)](https://youtu.be/ed8SzALpx1Q)
+- [GraphQL crash course - Traversy Media(Youtube)](https://youtu.be/BcLNfwF04Kw)
 - [GraphQL documentation](https://graphql.org/learn/)
 
 ### GraphQL tutorial playlist
@@ -48,18 +48,18 @@
 ## Learning Redis
 
 ### Redis tutorial
-- [Tutorial 1](https://www.tutorialspoint.com/redis/index.htm#:~:text=Redis%20is%20an%20open%20source,Redis%20is%20written%20in%20C.)
-- [Tutorial 2](https://www.javatpoint.com/redis-tutorial)
+- [Redis tutorial - TutorialsPoint](https://www.tutorialspoint.com/redis/index.htm#:~:text=Redis%20is%20an%20open%20source,Redis%20is%20written%20in%20C.)
+- [Redis tutorial - Javatpoint](https://www.javatpoint.com/redis-tutorial)
 
 ### Getting to know Redis
-- [Resource 1](https://redis.com/ebook/part-1-getting-started/chapter-1-getting-to-know-redis/)
-- [Resource 2](https://redis.io/docs/about/)
+- [Ebook - Redis](https://redis.com/ebook/part-1-getting-started/chapter-1-getting-to-know-redis/)
+- [Redis - Docs](https://redis.io/docs/about/)
 
 ### Redis Crash course
-- [Resource 1](https://www.youtube.com/watch?v=Hbt56gFj998)
-- [Resource 2](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
-- [Resource 3](https://www.youtube.com/watch?v=XCsS_NVAa1g)
-- [Resource 4](https://www.youtube.com/watch?v=OqCK95AS-YE)
+- [Redis Crash Course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=Hbt56gFj998)
+- [Redis Crash Course - WebdevSimplified(Youtube)](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
+- [Redis Crash Course - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=XCsS_NVAa1g)
+- [Redis Crash Course - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=OqCK95AS-YE)
 
 ## Learning CDN
 
@@ -87,14 +87,14 @@
 
 ## Deploying on web servers
 
-- [Resource 1](https://www.freecodecamp.org/news/deploying-a-mern-application-using-mongodb-atlas-to-heroku/)
-- [Resource 2](https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/)
-- [Resource 3](https://www.youtube.com/watch?v=7aRjGIhwyQM)
-- [Resource 4](https://youtu.be/oykl1Ih9pMg)
-- [Resource 5](https://youtu.be/71wSzpLyW9k)
+- [How to Deploy a MERN Application to Heroku - FreeCodeCamp](https://www.freecodecamp.org/news/deploying-a-mern-application-using-mongodb-atlas-to-heroku/)
+- [Develop and Deploy fullstack web app - FreeCodeCamp](https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/)
+- [Linux Server Setup & MERN Deployment - Traversy Media(Youtube)](https://www.youtube.com/watch?v=7aRjGIhwyQM)
+- [Full Node.js Deployment - Traversy Media(Youtube)](https://youtu.be/oykl1Ih9pMg)
+- [Learn The MERN Stack, Prepare & Deploy - Traversy Media(Youtube)](https://youtu.be/71wSzpLyW9k)
 
 ## Sample projects for practice
 
-- [Resource 1](https://www.youtube.com/watch?v=1RHDhtbqo94)
+- [Build and deploy a modern social media app - JavaScript Mastery(Youtube)](https://www.youtube.com/watch?v=1RHDhtbqo94)
 - Create several application clones with your touch to it and deploy them (eg: YouTube, Spotify, Amazon, Netflix, etc)
 
