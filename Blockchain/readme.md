@@ -88,7 +88,7 @@
 
 ## Project Ideas
 - Article Format
-  [The Complete Guide to Full Stack Web3 Development](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74) 
+  - [The Complete Guide to Full Stack Web3 Development](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74) 
   - [The Complete Guide to Full Stack Ethereum and EVM Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) 
 - Video Format
   - [Moralis Web3 (Youtube)](https://www.youtube.com/c/MoralisWeb3)
