@@ -15,6 +15,7 @@
 - [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 
 ## Operating System Basics
+
 - [Introduction to operating systems - Jenny's Lectures(Youtube)](https://www.youtube.com/watch?v=RozoeWzT7IM)
 - [Operating system basics - Geek's Lesson(Youtube)](https://www.youtube.com/watch?v=6-mdtMKfEYM)
 - [How do operating systems work? - ClickView(Youtube)](https://www.youtube.com/watch?v=GjNp0bBrjmU)
