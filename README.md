@@ -6,14 +6,14 @@ This repository contains the list of communities and job portals you can join an
 
 ## Roadmaps:
 <p align="center"><img align="center" alt="Coding" src="https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif"></p>
+<p  align="center"><a href=""><b>Android-Development</b></a></p>
 <p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Backend-Development#readme"><B>Backend-Development</B></a></p>
 <p  align="center"><a href=""><b>Blockchain</b></a></p>
 <p  align="center"><a href=""><b>DevOps</b></a></p>
 <p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/DevRel#readme"><b>DevRel</b></a></p>
 <p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Frontend-Development#readme"><b>Frontend-Development</b></a></p>
 <p  align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Fullstack-Development#readme"><b>Fullstack-Development</b></a></p>
-<p  align="center"><a href=""><b>Android-Development</b></a></p>
-<p align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Open-Source#readme"><b>Blockchain</b></a></p>
+<p align="center"><a href="https://github.com/commclassroom/roadmaps/tree/main/Open-Source#readme"><b>Open-Source</b></a></p>
 
 ## Contribution:
 ![Contributing gif](https://media.giphy.com/media/JykvbWfXtAHSM/giphy.gif)
