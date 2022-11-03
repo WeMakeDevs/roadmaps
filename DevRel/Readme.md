@@ -4,16 +4,16 @@
 
 - [Why?](https://youtu.be/l7-mCU9Gskg)
 - [Intro to DevRel](https://youtu.be/lZvf5Tm4nSo)
-- [Resource 1](https://devrel.co/about/)
-- [Resource 2](https://youtu.be/MKztZJODyxY)
+- [About DevRel](https://devrel.co/about/)
+- [What Is Developer Advocacy? - Kunal Khushwaha(Youtube)](https://youtu.be/MKztZJODyxY)
 
 ## - [Articles and Blogs](https://www.commonroom.io/)
 
 ## [How to become DevRel]
 
-- [Resource 1](https://youtu.be/_SSCZkSitlc)
-- [Resource 2](https://youtu.be/iUZerHctTB8)
-- [Resource 3](https://youtu.be/VbM-Ii2HLoA)
+- [The Roadmap to becoming a DevRel - Brad McCoy(Youtube)](https://youtu.be/_SSCZkSitlc)
+- [How to become a DevRel? - Eddie Jaoude(Youtube)](https://youtu.be/iUZerHctTB8)
+- [How to get hired in DevRel - DevRel(Youtube)](https://youtu.be/VbM-Ii2HLoA)
 
 ## Public Speaking
 
@@ -44,5 +44,5 @@
 
 ### 25+ paid open source programs and internships
 
-- [Resource 1](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
-- [Resource 2](https://youtu.be/x4hsV_q_YQc)
+- [25+ Paid Open Source Programs and Internships - commclassroom](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
+- [25+ Paid Open Source Programs and Internships - Kunal Khushwaha(Youtube)](https://youtu.be/x4hsV_q_YQc)
