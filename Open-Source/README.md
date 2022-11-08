@@ -1,11 +1,11 @@
 # Open Source
 
 ## What is Open Source
-- [Resource 1](https://www.youtube.com/watch?v=msyGybzCKRs)
-- [Resource 2](https://www.youtube.com/watch?v=7c0IrsDsNaw)
-- [Resource 3](https://opensource.com/resources/what-open-source)
-- [Resource 4](https://www.redhat.com/en/topics/open-source/what-is-open-source)
-- [Resource 5](https://en.wikipedia.org/wiki/Open-source_software)
+- [What is Open Source & How to Start? - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=msyGybzCKRs)
+- [What is open source - Mozilla (Youtube)](https://www.youtube.com/watch?v=7c0IrsDsNaw)
+- [What is open source? - opensource.com](https://opensource.com/resources/what-open-source)
+- [What is open source? - RedHat](https://www.redhat.com/en/topics/open-source/what-is-open-source)
+- [Open Source Software - Wikipedia](https://en.wikipedia.org/wiki/Open-source_software)
 - [Open source guide](https://opensource.guide/)
 - [What is Open Source and How Does It Work](https://www.youtube.com/watch?v=a4ap0R_OQIE)
 
@@ -37,8 +37,8 @@
 ## Open source programs students/working professionals
 
 ### 25+ paid open source programs and internships
-- [Resource 1](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
-- [Resource 2](https://www.youtube.com/watch?v=x4hsV_q_YQc)
+- [25+ paid open source programs and internships - commclassroom](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
+- [25+ paid open source programs and internships - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=x4hsV_q_YQc)
 
 ## Learning open source values & ethics
 - [Ethics for open source  values and ethics](https://training.linuxfoundation.org/training/ethics-for-open-source-development-lfc104/)
