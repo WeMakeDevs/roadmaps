@@ -21,7 +21,7 @@ It is open to everyone in the community and anyone whether you're a seasoned con
   - [Mobile-Development](https://github.com/commclassroom/roadmaps/tree/main/Mobile-Development)
   - [Open-Source](https://github.com/commclassroom/roadmaps/tree/main/Open-Source)
 
-## **Community Classroom <img width="20px" src="https://yt3.ggpht.com/7xZQZivs7_mQA-uvO64u9vxIqyhrfLNDSPjQEuxehnnq98fe76OHkt0ohTnZVdZwZdckZBam=s900-c-k-c0x00ffffff-no-rj"> Guidelines 🥸**
+## **Community Classroom Guidelines 🥸**
 - No spam.
 - PRs for Hacktober will only be considered if an issue was raised beforehand.
 - Maintain proper code of conduct.
@@ -32,4 +32,4 @@ It is open to everyone in the community and anyone whether you're a seasoned con
 
 **Please Note : errors on the website will be handled by the internal team but we would still appreciate any bug/improvement reports.**
 
-[**Link for registration.**](https://hacktoberfest.com/)
+**Link for registration.**]https://hacktoberfest.com/)
