@@ -104,6 +104,11 @@
 - [Tutorial](https://www.youtube.com/watch?v=-qfEOE4vtxE)
 - [Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
+### Chakra UI
+- [Tutorial 1 - Chakra UI for beginners](https://www.chakrauiforbeginners.com/play)
+- [Tutorial 2 - Build check out page with chakra UI](https://egghead.io/lessons/react-install-and-setup-chakra-ui-in-a-react-project)
+- [Docs](https://chakra-ui.com/getting-started)
+
 ### Tailwind CSS
 - [Tailwind css crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=UBOj6rqRUME)
 - [Tailwind crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=dFgzHOX84xQ)
