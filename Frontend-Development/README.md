@@ -57,7 +57,7 @@
 - [Free JS Courses for Beginners - FreeCodeCamp](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
 ### Understanding JavaScript
-- [How JavaScript Works- Akshay Saini(Youtube)](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- [NamasteJS/How JS works - Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
