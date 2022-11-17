@@ -129,3 +129,4 @@
 ## Build Projects
 - [4 projects with Node.js/Express](https://www.youtube.com/watch?v=qwfE7fSVaZM)
 - [Project Ideas](https://gist.github.com/MWins/41c6fec2122dd47fdfaca31924647499)
+- [50 Node.js/Express Project with tutorial](https://www.youtube.com/playlist?list=PL9iaMyazOxXsIl-WQV9hoVmnHYy49DuVl)
