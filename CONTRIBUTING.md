@@ -21,3 +21,7 @@ Be sure to include as much detail as possible including step-by-step description
 [new-issue]: https://github.com/commclassroom/roadmaps/issues/new
 [github-repo]: https://github.com/commclassroom/roadmaps/
 [issues-list]: https://github.com/commclassroom/roadmaps/issues
+
+## Style guide
+
+We are using [super-linter](https://github.com/github/super-linter) to check your code quality so make sure that you do not use unnecessary spaces or extra blank lines in your code or readme, if you are still failing the test please consider this [Markdown style guide](https://google.github.io/styleguide/docguide/style.html).
