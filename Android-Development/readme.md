@@ -9,12 +9,13 @@
 - [Notes-Slides](https://piazza.com/class_profile/get_resource/ktlu0ly5db84bb/kubl00rkflpx8)
 - [Introduction To Kotlin](https://youtu.be/X1RVYt2QKQE)
 - [Kotlin In 12 Minutes](https://youtu.be/iYrgWO2oibY)
-- [Kotlin Course](https://developer.android.com/courses/pathways/android-basics-kotlin-one)
+- [Kotlin Full Course](https://developer.android.com/courses/pathways/android-basics-kotlin-one)
 
 ## Layouts And UI
 - [Notes-Slides](https://piazza.com/class_profile/get_resource/ktlu0ly5db84bb/kubrwffwj8459a)
 - [Layouts And UI](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/unit-1-get-started/lesson-1-build-your-first-app/1-2-c-layouts-and-resources-for-the-ui/1-2-c-layouts-and-resources-for-the-ui.html)
 - [Layouts,UI & Responding To User Input](https://youtu.be/o1SZJNYJ7vg)
+- [Learn Kotlin Programming](https://youtu.be/EExSSotojVI)
 
 ## Event Based Programming
 - [Developer Docs](https://developer.android.com/guide/topics/ui/ui-events)
