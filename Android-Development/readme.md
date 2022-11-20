@@ -10,6 +10,7 @@
 - [Introduction To Kotlin](https://youtu.be/X1RVYt2QKQE)
 - [Kotlin In 12 Minutes](https://youtu.be/iYrgWO2oibY)
 - [Kotlin Course](https://developer.android.com/courses/pathways/android-basics-kotlin-one)
+- [Kotlin Programming Full Course](https://youtu.be/EExSSotojVI)
 
 ## Layouts And UI
 - [Notes-Slides](https://piazza.com/class_profile/get_resource/ktlu0ly5db84bb/kubrwffwj8459a)
