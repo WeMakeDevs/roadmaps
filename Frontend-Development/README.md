@@ -99,6 +99,7 @@
 
 ## CSS Frameworks
 - [Top CSS Frameworks](https://www.browserstack.com/guide/top-css-frameworks)
+- [Tailwind vs MUI vs Bootstrap vs Chakra vs...](https://www.youtube.com/watch?v=CQuTF-bkOgc)
 
 ### Bootstrap
 - [Tutorial](https://www.youtube.com/watch?v=-qfEOE4vtxE)
@@ -113,9 +114,6 @@
 - [Tailwind css crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=UBOj6rqRUME)
 - [Tailwind crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=dFgzHOX84xQ)
 - [Docs](https://tailwindcss.com/docs/installation)
-
-## Diffrence between UI Libraries `TailwindCSS, MaterialUI, Chakra, Bootstrap, Radix, React-Aria, Master.co, and more`
-- [The Best Of CSS - Tailwind vs MUI vs Bootstrap vs Chakra vs...](https://www.youtube.com/watch?v=CQuTF-bkOgc)
 
 ## What is PWA(Progressive Web Apps)
 - [PWA tutorial - The Net Ninja(Youtube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
