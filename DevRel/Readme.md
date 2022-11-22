@@ -26,7 +26,7 @@
 
 - [How to write technical blog posts](https://youtu.be/YODPgBadj80)
 - [How writing technical blogs can take you places](https://youtu.be/wA2gI8T-ebQ)
-- [Community Classroom Hashnode Blogging Challenge](https://www.commclassroom.org/hashnode)
+- [WeMakeDevs Hashnode Blogging Challenge](https://www.wemakedevs.org/hashnode)
 
 ## Personal Branding
 
@@ -44,5 +44,5 @@
 
 ### 25+ paid open source programs and internships
 
-- [25+ Paid Open Source Programs and Internships - commclassroom](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
+- [25+ Paid Open Source Programs and Internships - WeMakeDevs](https://blog.wemakedevs.org/25-paid-open-source-programs-and-internships)
 - [25+ Paid Open Source Programs and Internships - Kunal Khushwaha(Youtube)](https://youtu.be/x4hsV_q_YQc)
