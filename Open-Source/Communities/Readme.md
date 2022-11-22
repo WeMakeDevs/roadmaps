@@ -1,6 +1,6 @@
 ## Communities you can join 👇
 
-- [Community Classroom](https://discord.io/commclassroom)
+- [WeMakeDevs](https://discord.gg/wemakedevs)
 - [Eddiehub](http://discord.eddiehub.org/)
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
 - [MLH](https://discord.gg/mlh)
