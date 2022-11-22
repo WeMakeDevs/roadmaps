@@ -20,7 +20,7 @@ This repository contains the list of communities and job portals you can join an
 Are you aware of any community, job or project which are not added to our list yet? Now you can add your known communities, jobs and projects to the list and help your fellow community member. Please read [Contributing Guide](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md) before proceeding.
 
 ## Connect with us ❤️
-  <a href="https://discord.io/commclassroom">
+  <a href="https://discord.gg/wemakedevs">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
     <a href="https://t.me/commclassroom">
