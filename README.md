@@ -23,7 +23,7 @@ Are you aware of any community, job or project which are not added to our list y
   <a href="https://discord.gg/wemakedevs">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
-    <a href="https://t.me/commclassroom">
+    <a href="https://t.me/WeMakeDevs">
     <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
   </a> 
   </a>&ensp;
