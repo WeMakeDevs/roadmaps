@@ -19,7 +19,6 @@
 - [frontendmentor.io](https://www.frontendmentor.io/)
 
 ## Understanding Internet
-
 ### How does internet work
 
 - [Computer Networking course - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
