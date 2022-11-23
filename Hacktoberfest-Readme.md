@@ -32,4 +32,4 @@ It is open to everyone in the community and anyone whether you're a seasoned con
 
 **Please Note : errors on the website will be handled by the internal team but we would still appreciate any bug/improvement reports.**
 
-**Link for registration.**]https://hacktoberfest.com/)
+[**Link for registration.**](https://hacktoberfest.com/)

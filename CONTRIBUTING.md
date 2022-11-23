@@ -18,9 +18,9 @@ Then, please [create a new issue in the GitHub repository][new-issue] describing
 
 Be sure to include as much detail as possible including step-by-step descriptions, specific examples, screenshots or mockups, and reasoning for why the enhancement might be worthwhile.
 
-[new-issue]: https://github.com/commclassroom/roadmaps/issues/new
-[github-repo]: https://github.com/commclassroom/roadmaps/
-[issues-list]: https://github.com/commclassroom/roadmaps/issues
+[new-issue]: https://github.com/WeMakeDevs/roadmaps/issues/new
+[github-repo]: https://github.com/WeMakeDevs/roadmaps/
+[issues-list]: https://github.com/WeMakeDevs/roadmaps/issues
 
 ## Style guide
 
