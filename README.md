@@ -24,7 +24,7 @@ Are you aware of any community, job or project which are not added to our list y
 ## Connect with us ❤️
 
   <a href="https://discord.gg/wemakedevs">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+    <img width="30px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
   </a>&ensp;
     <a href="https://t.me/WeMakeDevs">
     <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
@@ -33,10 +33,10 @@ Are you aware of any community, job or project which are not added to our list y
   <a href="https://twitter.com/WeMakeDevs">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.linkedin.com/company/wemakedevs/">
+  <a href="https://www.linkedin.com/company/WeMakeDevs/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://www.instagram.com/wemakedevs/">
+  <a href="https://www.instagram.com/WeMakeDevs/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 
 ## Thanks to all contributors ❤
