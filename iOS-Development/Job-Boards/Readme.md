@@ -1,6 +1,6 @@
 ## Job Boards you can apply 👇
 
-- [AngleList](https://angel.co/jobs)  
+- [AngleList](https://angel.co/role/r/ios-engineer)  
  
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/search/?currentJobId=3276737498&f_E=2%2C3%2C4&f_WT=2&keywords=ios%20developer&refresh=true&sortBy=R)
 

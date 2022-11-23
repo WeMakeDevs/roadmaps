@@ -37,10 +37,10 @@
 
 - [Advance Networking](https://malcolmkmd.medium.com/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908)
 
-    #### JSON Coding/Decoding
-    - [JSON Decoder](https://www.avanderlee.com/swift/json-parsing-decoding/)
+#### JSON Coding/Decoding
+- [JSON Decoder](https://www.avanderlee.com/swift/json-parsing-decoding/)
 
-    - [JSON Serialization](https://www.hackingwithswift.com/example-code/system/how-to-parse-json-using-jsonserialization)
+- [JSON Serialization](https://www.hackingwithswift.com/example-code/system/how-to-parse-json-using-jsonserialization)
 
 ## Database
 - [Core Data Basics](https://medium.com/@ankurvekariya/core-data-crud-with-swift-4-2-for-beginners-40efe4e7d1cc)
@@ -50,7 +50,8 @@
 - [Realm](https://www.kodeco.com/32960966-realm-with-swiftui-tutorial-getting-started)
 
 - [Firebase](https://www.kodeco.com/11609977-getting-started-with-cloud-firestore-and-swiftui)
-    - [Firebase Project](https://youtube.com/playlist?list=PL0dzCUj1L5JEN2aWYFCpqfTBeVHcGZjGw)
+
+- [Firebase Project](https://youtube.com/playlist?list=PL0dzCUj1L5JEN2aWYFCpqfTBeVHcGZjGw)
 
 ## Dependancy Manager
 - [Swift Package Manager](https://cocoacasts.com/xcode-fundamentals-how-to-add-a-swift-package-to-a-project)

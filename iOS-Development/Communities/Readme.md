@@ -1,6 +1,6 @@
 ## Communities you can join 👇
 
-- [Community Classroom](https://discord.io/commclassroom)
+- [WeMakeDevs](https://discord.gg/wemakedevs)
 
 - [iOS Development](https://discord.gg/Aaa3WhMWkA)
 
