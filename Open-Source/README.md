@@ -43,7 +43,7 @@
 
 ### 25+ paid open source programs and internships
 
-- [25+ paid open source programs and internships - WeMakeDevs](https://blog.wemakedevs.org/25-paid-open-source-programs-and-internships)
+- [25+ paid open source programs and internships - WeMakeDevs](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
 - [25+ paid open source programs and internships - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=x4hsV_q_YQc)
 
 ## Learning open source values & ethics
