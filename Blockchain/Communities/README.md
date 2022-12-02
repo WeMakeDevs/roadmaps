@@ -4,7 +4,7 @@
 - [BlockTrain](https://discord.gg/3S6nmU5MKD)
 - [Buildspace](https://discord.com/invite/buildspace)
 - [ChainLink](https://discord.com/invite/aSK4zew)
-- [Community Classroom](https://discord.io/commclassroom)
+- [WeMakeDevs](https://discord.gg/wemakedevs)
 - [Continuum](https://discord.gg/vyTQfSUA)
 - [CryptoDevHub](https://cryptodevhub.io/discord)
 - [Eddiehub](http://discord.eddiehub.org/)

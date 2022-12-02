@@ -11,6 +11,7 @@
 ## Understanding Internet
 ### How does internet work
 - [Computer Networking course - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- [How the Internet Travel Across Oceans? - TechVision(Youtube)](https://www.youtube.com/watch?v=yd1JhZzoS6A)
 - [How does the Internet Work? - Vox(Youtube)](https://www.youtube.com/watch?v=TNQsmPf24go)
 - [How does the Internet Work? - Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 - [How Does the Internet Work? - Stanford.edu](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
@@ -56,6 +57,9 @@
 - [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Free JS Courses for Beginners - FreeCodeCamp](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
+### Understanding JavaScript
+- [NamasteJS/How JS works - Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
 - [frontendpractice.com](https://www.frontendpractice.com/)
@@ -99,10 +103,16 @@
 
 ## CSS Frameworks
 - [Top CSS Frameworks](https://www.browserstack.com/guide/top-css-frameworks)
+- [Tailwind vs MUI vs Bootstrap vs Chakra vs...](https://www.youtube.com/watch?v=CQuTF-bkOgc)
 
 ### Bootstrap
 - [Tutorial](https://www.youtube.com/watch?v=-qfEOE4vtxE)
 - [Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+
+### Chakra UI
+- [Tutorial 1 - Chakra UI for beginners](https://www.chakrauiforbeginners.com/play)
+- [Tutorial 2 - Build check out page with chakra UI](https://egghead.io/lessons/react-install-and-setup-chakra-ui-in-a-react-project)
+- [Docs](https://chakra-ui.com/getting-started)
 
 ### Tailwind CSS
 - [Tailwind css crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=UBOj6rqRUME)

@@ -1,7 +1,7 @@
 ## Communities you can join 👇
 
 - [Angular](https://discord.com/invite/angular)
-- [Community Classroom](https://discord.io/commclassroom)
+- [WeMakeDevs](https://discord.gg/wemakedevs)
 - [Eddiehub](http://discord.eddiehub.org/)
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
 - [Hack Club Hackerabad](https://discord.hackerabad.tech/)
