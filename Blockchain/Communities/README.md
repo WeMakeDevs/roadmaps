@@ -5,6 +5,7 @@
 - [Buildspace](https://discord.com/invite/buildspace)
 - [ChainLink](https://discord.com/invite/aSK4zew)
 - [Community Classroom](https://discord.io/commclassroom)
+- [Continuum](https://discord.gg/vyTQfSUA)
 - [CryptoDevHub](https://cryptodevhub.io/discord)
 - [Eddiehub](http://discord.eddiehub.org/)
 - [Ethereum](https://discord.com/invite/CetY6Y4)
