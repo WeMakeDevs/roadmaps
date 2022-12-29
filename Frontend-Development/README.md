@@ -87,6 +87,8 @@
 ### React
 - [Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
 - [Docs](https://reactjs.org/)
+- [React Router Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG)
+- [React Redux Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
   
 ### Vue JS
 - [Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
