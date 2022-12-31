@@ -7,7 +7,7 @@
 - [About DevRel](https://devrel.co/about/)
 - [What Is Developer Advocacy? - Kunal Khushwaha(Youtube)](https://youtu.be/MKztZJODyxY)
 
-## - [Articles and Blogs](https://www.commonroom.io/)
+## - [Articles and Blogs](https://wemakedevs.org/)
 
 ## [How to become DevRel]
 
