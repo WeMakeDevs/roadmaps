@@ -94,3 +94,4 @@
   - [Moralis Web3 (Youtube)](https://www.youtube.com/c/MoralisWeb3)
   - [Alchemy (Youtube)](https://www.youtube.com/c/AlchemyPlatform) 
   - [Dapp University(Youtube)](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+  - [Patrick Collins(Youtube)](https://www.youtube.com/c/patrickcollins)
