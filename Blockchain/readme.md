@@ -11,10 +11,12 @@
 - [Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
 - [Crypto wallet](https://www.businessinsider.com/personal-finance/crypto-wallet)
 - [Block Explorers](https://www.gemini.com/cryptopedia/what-is-a-block-explorer-btc-bch-eth-ltc)
+- [Blockchain Layer 1 vs.Layer 2 Scaling Solutions](https://www.gemini.com/cryptopedia/blockchain-layer-2-network-layer-1-network)
 - [Oracles](https://chain.link/education/blockchain-oracles)
 - [What Are NFTs](https://www.forbes.com/advisor/investing/cryptocurrency/nft-non-fungible-token/)
 - [What iS A DAO](https://www.forbes.com/sites/cathyhackl/2021/06/01/what-are-daos-and-why-you-should-pay-attention/?sh=343b04067305)
 - [Intro To DAPPS](https://ethereum.org/en/developers/docs/dapps/)
+- [EVM and Non-EVM Chains]([https://ethereum.org/en/developers/docs/dapps/](https://shardeum.org/blog/evm-vs-non-evm/)
 
 ### Choose A Blockchain
 - [Ethereum](https://ethereum.org/)
@@ -81,6 +83,7 @@
 -  [Ceramic Network](https://developers.ceramic.network/learn/welcome/)
 -  [The Graph](https://thegraph.com/docs/en/)
 -  [Scaffold-Ethereum](https://docs.scaffoldeth.io/scaffold-eth/)
+-  [Alchemy Dapp Store](https://www.alchemy.com/dapps)
  
  ### SDKs
 - [Third Web](https://portal.thirdweb.com/)
@@ -95,3 +98,4 @@
   - [Alchemy (Youtube)](https://www.youtube.com/c/AlchemyPlatform) 
   - [Dapp University(Youtube)](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
   - [Patrick Collins(Youtube)](https://www.youtube.com/c/patrickcollins)
+  - [EatTheBlocks(Youtube)](https://www.youtube.com/@EatTheBlocks)
