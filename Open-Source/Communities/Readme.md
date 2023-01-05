@@ -1,7 +1,9 @@
 ## Communities you can join 👇
 
-- [Community Classroom](https://discord.io/commclassroom)
-- [Eddiehub](http://discord.eddiehub.org/)
+- [WeMakeDevs](https://discord.gg/wemakedevs)
+- [EddieHub](http://discord.eddiehub.org/)
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
 - [MLH](https://discord.gg/mlh)
-- [Sema](http://discord.gg/Byjr6rdBUZ)
+- [Hacktoberfest](https://discord.gg/hacktoberfest)
+- [CS Dojo](https://discord.com/gg/nNtVfKddDD)
+- [The Algorithms](https://the-algorithms.com/discord)

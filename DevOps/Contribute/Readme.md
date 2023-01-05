@@ -18,6 +18,7 @@
 - [Jenkins](https://github.com/jenkins-infra)
 - [Keptn](https://github.com/keptn)
 - [kubernetes](https://github.com/kubernetes/kubernetes)
+- [Kubescape](https://github.com/kubescape/kubescape)
 - [Linkerd](https://github.com/linkerd/)
 - [moby](https://github.com/moby/moby)
 - [OpenSUSE](https://github.com/openSUSE)
@@ -26,3 +27,4 @@
 - [rclone](https://github.com/rclone)
 - [Stemformatics](https://github.com/wellslab/s4m-api)
 - [Wireshark](https://gitlab.com/wireshark/wireshark)
+- [Meshery](https://github.com/meshery)

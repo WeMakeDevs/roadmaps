@@ -10,4 +10,8 @@
 - [Remote Frontend Developer](https://www.showwcase.com/search?q=front%20end%20developer&tab=jobs) - Showwcase
 - [Web Developer (Frontend)](https://in.indeed.com/jobs?q=frontend&l=remote&vjk=f5117464e8d68692) - Indeed.com
 - [FrontEnd Engineer](https://jobs.lever.co/stackblitz/70ef26ea-cb9d-4184-9f2c-4853078d48f8) - StackBlitz
-- [React JS/JavaScript Engineer](https://remotive.com/remote-jobs/software-dev/reactjs-javascript-engineer-1266003) - Andela
+- [FrontEnd Developer](https://remotive.com/?live_jobs%5Bquery%5D=frontend%20developer&live_jobs%5BrefinementList%5D%5Bquick_location_filter%5D%5B0%5D=Worldwide&live_jobs%5Bmenu%5D%5Bcategory%5D=Software%20Development) - Remotive
+- [Remote Frontend Developer](https://www.turing.com/jobs/remote-front-end-developer-jobs) - Turing
+- [Remote Frontend Engineer](https://4dayweek.io/remote-jobs/frontend-engineer) - 4/day week
+- [Remote Frontend Jobs](https://www.remotefrontendjobs.com/) - remotefrontendjobs
+- [Junior Frontend Jobs](https://www.jrdevjobs.com/jobs#page=1&query=Frontend+developer) - Jr.Dev jobs
