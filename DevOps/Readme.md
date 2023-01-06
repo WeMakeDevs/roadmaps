@@ -60,6 +60,7 @@
 - Kubernetes
   - [Kubernetes Tutorial - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=KVBON1lA9N8)
   - [Learn Kubernetes - Civo Academy](http://civo.io/kunal)
+  - [Kubernetes 101 for beginners by Saiyam Pathak](https://www.youtube.com/watch?v=PN3VqbZqmD8&t=7206s)
   - [Kubernetes - Tutorialspoint](https://www.tutorialspoint.com/kubernetes/index.html)
   - [Learn Kubernetes in Under 3 Hours - FreeCodeCamp](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
   - [Kubernetes Tutorial - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=X48VuDVv0do)
