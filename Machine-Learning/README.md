@@ -2,10 +2,10 @@
 
 ## Introduction
 
--  [What is Machine Learning? - Google Cloud Tech (Youtube)](https://www.youtube.com/watch?v=HcqpanDadyQ)
--  [What is Machine Learning? - IBM](https://www.ibm.com/topics/machine-learning)
--  [What is Machine Learning - Mathworks](https://www.mathworks.com/discovery/machine-learning.html)
- 
+- [What is Machine Learning? - Google Cloud Tech (Youtube)](https://www.youtube.com/watch?v=HcqpanDadyQ)
+- [What is Machine Learning? - IBM](https://www.ibm.com/topics/machine-learning)
+- [What is Machine Learning - Mathworks](https://www.mathworks.com/discovery/machine-learning.html)
+
 ## Learn Python
 
 - [Introduction to Python for beginners - FreeCodeCamp (YouTube)](https://www.youtube.com/watch?v=rfscVS0vtbw)
@@ -20,7 +20,7 @@
 
 - [Mathematics for Machine Learning - IIT Roorkee (Youtube)](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
 
-## Introduction to Machine Learning 
+## Introduction to Machine Learning
 
 - [Introduction to Machine Learning - FreeCodeCamp (Youtube)](https://www.youtube.com/watch?v=NWONeJKn6kc&t=1341s)
 - [Introduction to Machine Learning - Code for cause (Youtube)](https://www.youtube.com/playlist?list=PLyzHIYrZBplo3K0dNUqppd2ynnoZPD6N1)
