@@ -30,7 +30,7 @@
 
 - [Complete Computer Networks Course](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4)
 - [Complete YAML Course](https://www.youtube.com/watch?v=IA90BTozdow)
-- [DevOps Prerequisites Course - Getting started with DevOps] (https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=237s)
+- [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=237s)
 
 ## Server Management
 
