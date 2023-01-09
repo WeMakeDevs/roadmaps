@@ -57,6 +57,7 @@
 - [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Free JS Courses for Beginners - FreeCodeCamp](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 - [Free JS Practice website to master JS - exercism](https://exercism.org/)
+- [JS Hands-on project based interactive course - Scrimba](https://scrimba.com/)
 
 ### Understanding JavaScript
 - [NamasteJS/How JS works - Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
