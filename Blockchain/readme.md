@@ -16,9 +16,7 @@
 - [What Are NFTs](https://www.forbes.com/advisor/investing/cryptocurrency/nft-non-fungible-token/)
 - [What iS A DAO](https://www.forbes.com/sites/cathyhackl/2021/06/01/what-are-daos-and-why-you-should-pay-attention/?sh=343b04067305)
 - [Intro To DAPPS](https://ethereum.org/en/developers/docs/dapps/)
-- [EVM and Non-EVM Chains](https://ethereum.org/en/developers/docs/dapps/) ```
-
-A syntax error which is causing the markdown to render incorrectly. 
+- [EVM and Non-EVM Chains](https://ethereum.org/en/developers/docs/dapps/)
 
 ### Choose A Blockchain
 - [Ethereum](https://ethereum.org/)
@@ -100,4 +98,4 @@ A syntax error which is causing the markdown to render incorrectly.
   - [Alchemy (Youtube)](https://www.youtube.com/c/AlchemyPlatform) 
   - [Dapp University(Youtube)](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
   - [Patrick Collins(Youtube)](https://www.youtube.com/c/patrickcollins)
-  - [EatTheBlocks(Youtube)](https://www.youtube.com/@EatTheBlocks)
+  - [EatTheBlocks(Youtube)](https://www.youtube.com/@EatTheBlocks)[(Defi Tutorial)](https://youtu.be/z9FgWvUai28)
