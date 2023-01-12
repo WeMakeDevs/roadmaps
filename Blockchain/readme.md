@@ -1,7 +1,7 @@
 # Blockchain
 
 ## Introduction
-- [What is Web3](https://www.freecodecamp.org/news/what-is-web3/)
+- [What is Web3](https://www.freecodecamp.org/news/what-is-web3/howdy)
 
 ## Blockchain Fundamentals
 - [What is Blockchain](https://www.geeksforgeeks.org/blockchain-technology-introduction)
