@@ -87,6 +87,7 @@
 -[Frameworks-Web Development](https://www.youtube.com/watch?v=W6KCPXl6Zuc)
 ### React
 - [Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- [React Tutorial-JavaScript Mastery(Youtube)](https://youtu.be/dyFVwXROzZk)
 - [Docs](https://reactjs.org/)
   
 ### Vue JS
