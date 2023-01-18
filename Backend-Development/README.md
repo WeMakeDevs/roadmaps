@@ -28,6 +28,8 @@
 - [How Does the Internet Work? - cloudflare](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
 - [How Does the Internet Work? - Lesics(Youtube)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
 - [Internet - CS50's understanding technology](https://www.youtube.com/watch?v=n_KghQP86Sw)
+- [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [How browsers work](https://web.dev/howbrowserswork/)
 
 ## Operating System Basics
 
