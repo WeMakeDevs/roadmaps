@@ -100,3 +100,4 @@
   - [Patrick Collins(Youtube)](https://www.youtube.com/c/patrickcollins)
   - [EatTheBlocks(Youtube)](https://www.youtube.com/@EatTheBlocks)[(Defi Tutorial)](https://youtu.be/z9FgWvUai28)
   - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
+  - [Nader Dabit](https://www.youtube.com/user/boyindasouth)
