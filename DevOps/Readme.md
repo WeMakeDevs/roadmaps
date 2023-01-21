@@ -66,6 +66,7 @@
   - [Learn Kubernetes in Under 3 Hours - FreeCodeCamp](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
   - [Kubernetes Tutorial - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=X48VuDVv0do)
   - [Kubernetes in 5 minutes - VMware(Youtube)](https://www.youtube.com/watch?v=PH-2FfFD2PU)
+  - [Learn Kubernetes with hands-on labs - KubeCampus](https://kubecampus.io/)
 
 ## Infrastructure Provisioning
 
