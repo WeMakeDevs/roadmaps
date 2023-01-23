@@ -45,6 +45,7 @@
 - [CSS zero to hero - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [Kevin Powell(Youtube)](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [The guide to responsive web design](https://webflow.com/blog/responsive-web-design)
 
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
