@@ -35,6 +35,7 @@
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
 - [frontendpractice.com](https://www.frontendpractice.com/)
+- [iCodeThis.com](https://www.icodethis.com/)
 
 ## Learning CSS
 ### CSS Tutorials
@@ -48,6 +49,7 @@
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
 - [frontendpractice.com](https://www.frontendpractice.com/)
+- [iCodeThis.com](https://www.icodethis.com/)
 
 ## Learning Javascript
 ### JS Tutorials
@@ -66,6 +68,7 @@
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
 - [frontendpractice.com](https://www.frontendpractice.com/)
+- [iCodeThis.com](https://www.icodethis.com/)
 
 ## Learning Version Control
 - [Git Documentation](https://git-scm.com/docs/gittutorial)
