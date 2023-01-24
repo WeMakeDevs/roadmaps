@@ -17,6 +17,7 @@
 - [How Does the Internet Work? - Stanford.edu](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - [How Does the Internet Work? - cloudflare](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
 - [How Does the Internet Work? - Lesics(Youtube)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
+- [What is DNS? | How DNS works](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 
 ### Internet-CS50's understanding technology
 - [Resource](https://www.youtube.com/watch?v=n_KghQP86Sw)
