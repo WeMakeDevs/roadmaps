@@ -51,8 +51,9 @@
 - Solidity Tutorials :
   - [1)Solidity With Javascript](https://youtu.be/gyMwXuJrbJQ)
   - [2) Solidity With Python](https://youtu.be/M576WGiDBdQ) 
-  - [3) Smart Contractor Programme](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+  - [3) Smart Contractor Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
   - [4) Solidity Tutorial](https://youtu.be/3g2WT2jms_k)
+  - [5) Solidity, Ethereum Virtual Machine, Hardhat, ethers.js, Damn Vulnerable Defi](https://www.youtube.com/playlist?list=PLQENoiVb8xoP3Wd3onKrGtX2EO1JtFUG9)
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.16/)
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg)
 - [CryptoZombies](https://cryptozombies.io/)
