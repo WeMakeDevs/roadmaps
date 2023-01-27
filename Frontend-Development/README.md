@@ -32,6 +32,7 @@
 - [HTML crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [HTML Tutorial, making a Website - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PlxWf493en4)
 - [Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [Basics of SEO](https://github.com/seo/guide)
 
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
