@@ -75,11 +75,6 @@
 - [postgresqltutorial.com](https://www.postgresqltutorial.com/)
 - [Nodejs and PostgreSQL Project](https://www.youtube.com/playlist?list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
 
-### MySql
-
-- [MySql Tutorial(Part 1) - DataZ(Youtube)](https://www.youtube.com/watch?v=aONehvnQSyg)
-- [MySql Tutorial(Part 2) - DataZ(Youtube)](https://www.youtube.com/watch?v=wUOX-yOVs50)
-
 ## NoSQL Databases
 
 - [What is NoSQL Databases?](https://www.youtube.com/watch?v=uD3p_rZPBUQ)
