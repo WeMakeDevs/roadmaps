@@ -71,6 +71,7 @@
 
 - [PostgreSQL Tutorial - freecodecamp(Youtube)](https://www.youtube.com/watch?v=qw--VYLpxG4)
 - [PosgresSQL Course - Amigoscode(Youtube)](https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS)
+- [PosgresSQL Course - DataZ(Youtube)](https://www.youtube.com/watch?v=Ir7nScz_Vs4) 
 - [postgresqltutorial.com](https://www.postgresqltutorial.com/)
 - [Nodejs and PostgreSQL Project](https://www.youtube.com/playlist?list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
 
@@ -83,6 +84,7 @@
 
 - [MongoDB Tutorial - Amigoscode(Youtube)](https://www.youtube.com/watch?v=Www6cTUymCY)
 - [Complete MongoDB Tutorial - The Net Ninja(Youtube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+- [Complete MongoDB Tutorial - DataZ(Youtube)](https://www.youtube.com/watch?v=GFaKsrfQkAc&t=9298s)
 - [Build a Markdown Blog with Node.js, Express and MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM)
 
 ## APIs
