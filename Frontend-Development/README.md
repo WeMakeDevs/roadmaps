@@ -33,6 +33,7 @@
 - [HTML Tutorial, making a Website - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PlxWf493en4)
 - [Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [Basics of SEO](https://github.com/seo/guide)
+- [HTML best practices ](https://github.com/hail2u/html-best-practices)
 
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
