@@ -38,6 +38,7 @@
 - [How do operating systems work? - ClickView(Youtube)](https://www.youtube.com/watch?v=GjNp0bBrjmU)
 - [What is an operating system - Techquickie(Youtube)](https://www.youtube.com/watch?v=pVzRTmdd9j0)
 - [Operating system tutorial - Tutorialspoint](<https://www.tutorialspoint.com/operating_system/index.htm#:~:text=An%20Operating%20System%20(OS)%20is%20an%20interface%20between%20a%20computer,as%20disk%20drives%20and%20printers.>)
+- [Operating System Tutorial - Lawrence Williams](https://www.guru99.com/os-tutorial.html)
 
 ## Linux Terminal Basics
 
