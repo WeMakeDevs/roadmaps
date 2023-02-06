@@ -130,6 +130,10 @@
 - [Tailwind crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=dFgzHOX84xQ)
 - [Docs](https://tailwindcss.com/docs/installation)
 
+### Bulma CSS
+- [Bulma CSS Tutorial - The Net Ninja](https://www.youtube.com/watch?v=SCSAExGFK1E&list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a)
+- [Docs](https://bulma.io/)
+
 ## What is PWA(Progressive Web Apps)
 - [PWA tutorial - The Net Ninja(Youtube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
 - [Progressive web apps - Mozilla developer docs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
