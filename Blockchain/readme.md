@@ -17,6 +17,9 @@
 - [What iS A DAO](https://www.forbes.com/sites/cathyhackl/2021/06/01/what-are-daos-and-why-you-should-pay-attention/?sh=343b04067305)
 - [Intro To DAPPS](https://ethereum.org/en/developers/docs/dapps/)
 - [EVM and Non-EVM Chains](https://ethereum.org/en/developers/docs/dapps/)
+- [Overview of technologies include in Web3](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022)
+- [Road to Web3](https://www.web3.university/tracks/road-to-web3)
+- [One of the best Web3 Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
 
 ### Choose A Blockchain
 - [Ethereum](https://ethereum.org/)
@@ -93,6 +96,10 @@
 - Article Format
   - [The Complete Guide to Full Stack Web3 Development](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
   - [The Complete Guide to Full Stack Ethereum and EVM Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) 
+  - [Blocktrain.info](https://www.blocktrain.info/project)
+  - [Buildspace- Modern Web3 projects](https://buildspace.so/builds)
+  - [Build this Apps & EARN](https://www.pointer.gg/tutorials)
+  - [80+ Web3 Dapps](https://www.theinsaneapp.com/2022/05/best-web3-projects.html)
 - Video Format
   - [Moralis Web3 (Youtube)](https://www.youtube.com/c/MoralisWeb3)
   - [Alchemy (Youtube)](https://www.youtube.com/c/AlchemyPlatform) 
