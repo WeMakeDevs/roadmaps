@@ -15,6 +15,7 @@ This repository contains the list of communities and job portals you can join an
 <p  align="Left"><a href="Frontend-Development#readme"><b>Frontend-Development</b></a></p>
 <p  align="Left"><a href="Fullstack-Development#readme"><b>Fullstack-Development</b></a></p>
 <p  align="Left"><a href="Open-Source#readme"><b>Open-Source</b></a></p>
+<p  align="Left"><a href="https://www.youtube.com/playlist?list=PL4-IK0AVhVjNDRHoXGort7sDWcna8cGPA"><b>Frontend Developer Crash Course 2023</b></a></p>
 
 ## Contribution:
 
