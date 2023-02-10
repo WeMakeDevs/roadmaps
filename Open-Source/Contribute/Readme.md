@@ -99,3 +99,6 @@
 - [xfce](https://summerofcode.withgoogle.com/archive/2021/organizations/5706869816950784)
 - [Xi Editor Projects](https://github.com/xi-editor/xi-editor)
 - [Zulip Open Source Project](https://github.com/zulip/zulip/)
+
+There are many other great open-source projects to contribute to.\
+Head to the [GitHub Explore](https://github.com/explore) page and search other great projects as well.
