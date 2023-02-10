@@ -16,6 +16,7 @@
 - [Linux Tutorial](https://www.youtube.com/watch?v=cBokz0LTizk)
 - [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 - [Linux Masterclass Course - Apoorv Goyal(YouTube)](https://www.youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
+- [Bogdan Stashchuk - Linux for beginners playlist](https://www.youtube.com/playlist?list=PLWkguCWKqN9OrwsklvLC8FB87TbaOQGqY)
 
 ## Operating System Basics
 
