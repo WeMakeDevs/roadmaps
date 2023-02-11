@@ -44,5 +44,5 @@
 
 ### 25+ paid open source programs and internships
 
-- [25+ Paid Open Source Programs and Internships - WeMakeDevs](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
+- [25+ Paid Open Source Programs and Internships - WeMakeDevs](https://blog.wemakedevs.org/25-paid-open-source-programs-and-internships)
 - [25+ Paid Open Source Programs and Internships - Kunal Kushwaha(Youtube)](https://youtu.be/x4hsV_q_YQc)
