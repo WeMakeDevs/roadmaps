@@ -97,6 +97,7 @@
 - [REST API With Node.js, Express, & MongoDB - Web Dev Simplified(Youtube)](https://www.youtube.com/watch?v=fgTGADljAeg)
 - [Build a Node.js API - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=fsCjFHuMXj0)
 - [JSON APIs](https://www.youtube.com/watch?v=N-4prIh7t38)
+- [APIs for Beginners 2023 - How to use an API (Full Course )](https://youtu.be/WXsD0ZgxjRw)
 
 ### Caching
 
