@@ -102,6 +102,7 @@
 
 - [Client Side Caching](https://youtu.be/HiBDZgTNpXY)
 - [Server side Caching](https://www.starwindsoftware.com/resource-library/server-side-caching/)
+- [CDN (Content Delivery Network)](https://www.cloudflare.com/en-ca/learning/cdn/what-is-a-cdn/)
 
 ### MVC
 
