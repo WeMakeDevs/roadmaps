@@ -80,6 +80,7 @@
 - [Sugar Labs](https://summerofcode.withgoogle.com/archive/2019/organizations/5488361639247872)
 - [template](https://github.com/toidicode/template)
 - [Template Bhai](https://github.com/AndrejJurkin/template-bhai)
+- [The Algorithms](https://github.com/TheAlgorithms)
 - [The Center for Connected Learning and Computer-Based Modeling](https://summerofcode.withgoogle.com/archive/2018/organizations/5109641792978944)
 - [The Linux Foundation](https://github.com/LF-Engineering)
 - [The Mifos Initiative](https://github.com/openMF/mobile-wallet)
@@ -99,3 +100,6 @@
 - [xfce](https://summerofcode.withgoogle.com/archive/2021/organizations/5706869816950784)
 - [Xi Editor Projects](https://github.com/xi-editor/xi-editor)
 - [Zulip Open Source Project](https://github.com/zulip/zulip/)
+
+There are many other great open-source projects to contribute to.\
+Head to the [GitHub Explore](https://github.com/explore) page and search other great projects as well.

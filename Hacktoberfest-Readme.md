@@ -2,7 +2,7 @@
 
 ## **What is Hacktoberfest ?**
 
-Hacktoberfest is a month long event hosted by DigitalOcean for the 9th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
+Hacktoberfest is a month long event hosted by DigitalOcean for the 9th year in a row, Hacktoberfest encourages participation in giving back to the Open Source community by completing pull requests, participating in events, and donating to open source projects.
 It is open to everyone in the community and anyone whether you're a seasoned contributor or looking to contributing for the first time, you are welcome.
 
 ## **Things you should know to participate 🤔:**
@@ -13,7 +13,7 @@ It is open to everyone in the community and anyone whether you're a seasoned con
 - Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest.
 - The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 
-## **About this repository**
+## **About this Repository**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Every folder here contains projects, job-offers and communities specific to that domain.
 
@@ -26,7 +26,7 @@ It is open to everyone in the community and anyone whether you're a seasoned con
 - [Mobile-Development](https://github.com/WeMakeDevs/roadmaps/tree/main/Mobile-Development)
 - [Open-Source](https://github.com/WeMakeDevs/roadmaps/tree/main/Open-Source)
 
-## **Community Classroom Guidelines 🥸**
+## **WeMakeDevs Guidelines 🥸**
 
 - No spam.
 - PRs for Hacktober will only be considered if an issue was raised beforehand.
@@ -36,6 +36,6 @@ It is open to everyone in the community and anyone whether you're a seasoned con
 - Showing empathy towards other community members.
 - Being respectful of differing viewpoints and experiences.
 
-**Please Note : errors on the website will be handled by the internal team but we would still appreciate any bug/improvement reports.**
+**Please Note : Errors on the website will be handled by the internal team but we would still appreciate any bug/improvement reports.**
 
-[**Link for registration.**](https://hacktoberfest.com/)
+[**Link for Registration.**](https://hacktoberfest.com/)

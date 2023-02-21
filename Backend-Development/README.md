@@ -28,6 +28,8 @@
 - [How Does the Internet Work? - cloudflare](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
 - [How Does the Internet Work? - Lesics(Youtube)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
 - [Internet - CS50's understanding technology](https://www.youtube.com/watch?v=n_KghQP86Sw)
+- [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [How browsers work](https://web.dev/howbrowserswork/)
 
 ## Operating System Basics
 
@@ -36,6 +38,7 @@
 - [How do operating systems work? - ClickView(Youtube)](https://www.youtube.com/watch?v=GjNp0bBrjmU)
 - [What is an operating system - Techquickie(Youtube)](https://www.youtube.com/watch?v=pVzRTmdd9j0)
 - [Operating system tutorial - Tutorialspoint](<https://www.tutorialspoint.com/operating_system/index.htm#:~:text=An%20Operating%20System%20(OS)%20is%20an%20interface%20between%20a%20computer,as%20disk%20drives%20and%20printers.>)
+- [Operating System Tutorial - Lawrence Williams](https://www.guru99.com/os-tutorial.html)
 
 ## Linux Terminal Basics
 
@@ -69,6 +72,7 @@
 
 - [PostgreSQL Tutorial - freecodecamp(Youtube)](https://www.youtube.com/watch?v=qw--VYLpxG4)
 - [PosgresSQL Course - Amigoscode(Youtube)](https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS)
+- [PosgresSQL Course - DataZ(Youtube)](https://www.youtube.com/watch?v=Ir7nScz_Vs4) 
 - [postgresqltutorial.com](https://www.postgresqltutorial.com/)
 - [Nodejs and PostgreSQL Project](https://www.youtube.com/playlist?list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
 
@@ -81,6 +85,7 @@
 
 - [MongoDB Tutorial - Amigoscode(Youtube)](https://www.youtube.com/watch?v=Www6cTUymCY)
 - [Complete MongoDB Tutorial - The Net Ninja(Youtube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+- [Complete MongoDB Tutorial - DataZ(Youtube)](https://www.youtube.com/watch?v=GFaKsrfQkAc&t=9298s)
 - [Build a Markdown Blog with Node.js, Express and MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM)
 
 ## APIs
@@ -91,6 +96,14 @@
 - [Back End Development and APIs - FreeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 - [REST API With Node.js, Express, & MongoDB - Web Dev Simplified(Youtube)](https://www.youtube.com/watch?v=fgTGADljAeg)
 - [Build a Node.js API - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=fsCjFHuMXj0)
+- [JSON APIs](https://www.youtube.com/watch?v=N-4prIh7t38)
+- [APIs for Beginners 2023 - How to use an API (Full Course )](https://youtu.be/WXsD0ZgxjRw)
+
+### Caching
+
+- [Client Side Caching](https://youtu.be/HiBDZgTNpXY)
+- [Server side Caching](https://www.starwindsoftware.com/resource-library/server-side-caching/)
+- [CDN (Content Delivery Network)](https://www.cloudflare.com/en-ca/learning/cdn/what-is-a-cdn/)
 
 ### MVC
 
@@ -106,7 +119,7 @@
 ## Microservices
 
 - [What are Microservices?](https://www.youtube.com/watch?v=j3XufmvEMiM)
-- [NodeJs Microservices](https://www.youtube.com/watch?v=kBzbKUirOFk)
+- [NodeJs Microservices](https://www.youtube.com/playlist?list=PLrwNNiB6YOA0KmfliJoSuZzEN6tjSdEXc)
 - [Backend Development and API projects](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose)
 - [What is a microservices archietecture and it's advantages?](https://www.youtube.com/watch?v=qYhRvH9tJKw)
 
