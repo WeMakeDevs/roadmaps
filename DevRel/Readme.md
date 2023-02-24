@@ -5,9 +5,9 @@
 - [Why?](https://youtu.be/l7-mCU9Gskg)
 - [Intro to DevRel](https://youtu.be/lZvf5Tm4nSo)
 - [About DevRel](https://devrel.co/about/)
-- [What Is Developer Advocacy? - Kunal Khushwaha(Youtube)](https://youtu.be/MKztZJODyxY)
+- [What Is Developer Advocacy? - Kunal Kushwaha(Youtube)](https://youtu.be/MKztZJODyxY)
 
-## - [Articles and Blogs](https://www.commonroom.io/)
+## - [Articles and Blogs](https://wemakedevs.org/)
 
 ## [How to become DevRel]
 
@@ -44,5 +44,5 @@
 
 ### 25+ paid open source programs and internships
 
-- [25+ Paid Open Source Programs and Internships - WeMakeDevs](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)
-- [25+ Paid Open Source Programs and Internships - Kunal Khushwaha(Youtube)](https://youtu.be/x4hsV_q_YQc)
+- [25+ Paid Open Source Programs and Internships - WeMakeDevs](https://blog.wemakedevs.org/25-paid-open-source-programs-and-internships)
+- [25+ Paid Open Source Programs and Internships - Kunal Kushwaha(Youtube)](https://youtu.be/x4hsV_q_YQc)

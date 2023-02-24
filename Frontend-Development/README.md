@@ -17,6 +17,7 @@
 - [How Does the Internet Work? - Stanford.edu](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - [How Does the Internet Work? - cloudflare](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
 - [How Does the Internet Work? - Lesics(Youtube)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
+- [What is DNS? | How DNS works](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 
 ### Internet-CS50's understanding technology
 - [Resource](https://www.youtube.com/watch?v=n_KghQP86Sw)
@@ -30,10 +31,14 @@
 - [HTML course, build a website - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [HTML crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [HTML Tutorial, making a Website - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PlxWf493en4)
+- [Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [Basics of SEO](https://github.com/seo/guide)
+- [HTML best practices ](https://github.com/hail2u/html-best-practices)
 
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
 - [frontendpractice.com](https://www.frontendpractice.com/)
+- [iCodeThis.com](https://www.icodethis.com/)
 
 ## Learning CSS
 ### CSS Tutorials
@@ -43,10 +48,12 @@
 - [CSS zero to hero - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [Kevin Powell(Youtube)](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [The guide to responsive web design](https://webflow.com/blog/responsive-web-design)
 
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
 - [frontendpractice.com](https://www.frontendpractice.com/)
+- [iCodeThis.com](https://www.icodethis.com/)
 
 ## Learning Javascript
 ### JS Tutorials
@@ -56,6 +63,8 @@
 - [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/)
 - [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Free JS Courses for Beginners - FreeCodeCamp](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+- [Free JS Practice website to master JS - exercism](https://exercism.org/)
+- [Free JS repository to practice JS - 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
 ### Understanding JavaScript
 - [NamasteJS/How JS works - Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
@@ -63,6 +72,7 @@
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
 - [frontendpractice.com](https://www.frontendpractice.com/)
+- [iCodeThis.com](https://www.icodethis.com/)
 
 ## Learning Version Control
 - [Git Documentation](https://git-scm.com/docs/gittutorial)
@@ -85,8 +95,11 @@
 ## Let's pick a framework/library for you
 -[Frameworks-Web Development](https://www.youtube.com/watch?v=W6KCPXl6Zuc)
 ### React
-- [Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- [React Tutorial-Freecodecamp(Youtube)](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- [React Tutorial-JavaScript Mastery(Youtube)](https://youtu.be/dyFVwXROzZk)
 - [Docs](https://reactjs.org/)
+- [React Router Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG)
+- [React Redux Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
   
 ### Vue JS
 - [Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
