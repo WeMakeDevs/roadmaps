@@ -37,3 +37,19 @@
 - [Tutorial on Stateful widgets](https://www.youtube.com/watch?v=p5dkB3Mrxdo)
 - [Inherited Widgets](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
 - [Stateless VS Stateful Widgets](https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/)
+- [Flutter Widget Binding](https://api.flutter.dev/flutter/widgets/WidgetsFlutterBinding-class.html)
+
+## Design System
+- [Material Design System Guidelines By Google](https://m2.material.io/design/guidelines-overview)
+- [Material Component Widgets in Flutter](https://docs.flutter.dev/development/ui/widgets/material#Buttons)
+- [Cupertino Widgets in Flutter](https://docs.flutter.dev/development/ui/widgets/cupertino)
+- [Cupertino Design System for IOS Style](https://blog.logrocket.com/flutter-cupertino-tutorial-build-ios-apps-native/) 
+
+## Debugging 
+- [Official Flutter Debugging](https://docs.flutter.dev/testing/debugging)
+- [Dart DevTools](https://docs.flutter.dev/development/tools/devtools/overview)
+
+## Flutter Essentials
+- [Working with assets](https://docs.flutter.dev/development/ui/assets-and-images)
+- [Tutorial for Working with assets](https://www.youtube.com/watch?v=Hxh6nNHSUjo)
+- [Keys- Why, How and Where?](https://youtu.be/kn0EOS-ZiIc)
