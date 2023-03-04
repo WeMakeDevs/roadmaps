@@ -36,6 +36,7 @@
 - [HTML best practices ](https://github.com/hail2u/html-best-practices)
 
 ### Frontend Projects
+- [frontendeval.com](https://frontendeval.com/)
 - [frontendmentor.io](https://www.frontendmentor.io/)
 - [frontendpractice.com](https://www.frontendpractice.com/)
 - [iCodeThis.com](https://www.icodethis.com/)
