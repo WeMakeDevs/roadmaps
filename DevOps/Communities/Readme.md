@@ -10,3 +10,4 @@
 - [DoK Slack](https://go.dok.community/slack)
 - [Gopher Slack](https://invite.slack.golangbridge.org/)
 - [Kubescape Discord](https://discord.com/invite/WKZRaCtBxN)
+- [MlOps](https://mlops.community/)
