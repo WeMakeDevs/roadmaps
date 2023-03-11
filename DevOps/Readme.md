@@ -39,6 +39,12 @@
 - [Ubuntu Server Guide](https://ubuntu.com/server/docs)
 - [Linux System Administration Basics](https://www.linode.com/docs/guides/linux-system-administration-basics/)
 
+## Shell Scripting
+
+- [Shell Scripting for DevOps + Hands on projects](https://www.youtube.com/watch?v=zsajhz2_50g&list=PLdpzxOOAlwvIZ7u-gtpX_bozrspUbTQ1S)
+- [Shell Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
+- [Shell Scripting Tutorial | Shell Scripting Crash Course](https://www.youtube.com/watch?v=GtovwKDemnI&t=1658s)
+
 ## Containers
 
 - [Containers Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
