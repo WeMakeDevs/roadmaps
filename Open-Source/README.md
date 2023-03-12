@@ -38,6 +38,7 @@
 - [How to Open Source Like a Pro](https://www.youtube.com/watch?v=MT6M_sqAuZo)
 - [How to Understand Large Codebases in Open Source](https://www.youtube.com/watch?v=kA1T0zDPtQo)
 - [How to contribute to and maintain open source projects with GitHub](https://www.oswc.is/search-projects)
+- [How to Get Involved in Global Communities. Step by Step Process](https://www.youtube.com/watch?v=_tbr9IzXvxY&t=42s)
 
 ## Open source programs students/working professionals
 ### 25+ paid open source programs and internships
