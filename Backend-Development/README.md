@@ -121,7 +121,7 @@
 - [What are Microservices?](https://www.youtube.com/watch?v=j3XufmvEMiM)
 - [NodeJs Microservices](https://www.youtube.com/playlist?list=PLrwNNiB6YOA0KmfliJoSuZzEN6tjSdEXc)
 - [Backend Development and API projects](https://www.freecodecamp.org/learn/back-end-development-and-apis/#mongodb-and-mongoose)
-- [What is a microservices archietecture and it's advantages?](https://www.youtube.com/watch?v=qYhRvH9tJKw)
+- [What is a microservices architecture and it's advantages?](https://www.youtube.com/watch?v=qYhRvH9tJKw)
 
 ## Web Security
 
