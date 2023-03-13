@@ -15,3 +15,4 @@
 - [Web3.career](https://web3.career/)
 - [UseWeb3](https://www.useweb3.xyz/jobs)
 - [Remote3](https://remote3.co/web3-jobs)
+- [LinkedIn](https://www.linkedin.com/jobs/blockchain-developer-jobs/?currentJobId=3518049251&originalSubdomain=in)
