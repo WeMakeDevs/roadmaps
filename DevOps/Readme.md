@@ -12,6 +12,7 @@
 ## Linux Terminal Basics
 
 - [Complete Linux Course](https://www.youtube.com/watch?v=iwolPf6kN-k&feature=youtu.be)
+- [Introduction to Linux – Full Course for Beginners By FreeCodeCamp](https://youtu.be/sWbUDq4S6Y8)
 - [Basic Linux Commands](https://www.youtube.com/watch?v=J2zquYPJbWY)
 - [Linux Tutorial](https://www.youtube.com/watch?v=cBokz0LTizk)
 - [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
