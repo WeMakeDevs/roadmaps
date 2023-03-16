@@ -4,6 +4,7 @@
 
 - [What is Backend Development](https://www.youtube.com/watch?v=cbSrsYiRamo)
 - [Introduction to Backend Development](https://dev.to/kaperskyguru/introduction-to-backend-development-506a)
+- [Back-end Developer Career Path](https://boot.dev/tracks/backend)
 - [How Backend works](https://www.youtube.com/watch?v=4r6WdaY3SOA)
 - [Guide to Backend Development](https://www.upwork.com/resources/beginners-guide-back-end-development)
 
@@ -19,7 +20,8 @@
 - [frontendmentor.io](https://www.frontendmentor.io/)
 
 ## Understanding Internet
-### How does internet work
+
+### How does the internet work
 
 - [Computer Networking course - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
 - [How does the Internet Work? - Vox(Youtube)](https://www.youtube.com/watch?v=TNQsmPf24go)
@@ -28,6 +30,7 @@
 - [How Does the Internet Work? - cloudflare](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
 - [How Does the Internet Work? - Lesics(Youtube)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
 - [Internet - CS50's understanding technology](https://www.youtube.com/watch?v=n_KghQP86Sw)
+- [Full HTTP Networking Course - Boot.dev](https://www.youtube.com/watch?v=2JYT5f2isg4)
 - [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - [How browsers work](https://web.dev/howbrowserswork/)
 
@@ -67,6 +70,7 @@
 
 ## Relational Databases
 
+- [Learn SQL and Relational Databases](https://boot.dev/learn/learn-sql)
 - [What is Relational Databases](https://www.youtube.com/watch?v=OqjJjpjDRLc)
 
 ### Postgre SQL
@@ -95,6 +99,7 @@
 
 - [REST API with Node js & Express - Programming with Mosh(Youtube)](https://www.youtube.com/watch?v=pKd0Rpw7O48)
 - [Back End Development and APIs - FreeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+- [Learn API Servers in Go - Boot.dev](https://boot.dev/learn/learn-web-servers)
 - [REST API With Node.js, Express, & MongoDB - Web Dev Simplified(Youtube)](https://www.youtube.com/watch?v=fgTGADljAeg)
 - [Build a Node.js API - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=fsCjFHuMXj0)
 - [JSON APIs](https://www.youtube.com/watch?v=N-4prIh7t38)
@@ -152,8 +157,9 @@
 
 ### Docker
 
-- [ Docker Tutorial - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=17Bl31rlnRM)
+- [Docker Tutorial - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=17Bl31rlnRM)
 - [Docker Tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [Learn Docker - Boo.dev](https://boot.dev/learn/learn-docker)
 - [Learn Docker - freecodecamp(Youtube)](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
 - [Docs](https://docs.docker.com/)
 - [Build a NodeJS application with Docker](https://www.youtube.com/watch?v=PsWeSg38XFY)
