@@ -97,5 +97,6 @@
 ## Sample projects for practice
 
 - [Build and deploy a modern social media app - JavaScript Mastery(Youtube)](https://www.youtube.com/watch?v=1RHDhtbqo94)
+- [Build and deploy a modern netflix clone - Lama Dev(Youtube)](https://www.youtube.com/playlist?list=PLj-4DlPRT48k8TZ2ZjzbjnAq_wgIwsIab)
 - Create several application clones with your touch to it and deploy them (eg: YouTube, Spotify, Amazon, Netflix, etc)
 
