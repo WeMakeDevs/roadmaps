@@ -52,10 +52,11 @@
 ## Solidity
 - [Remix IDE](https://remix-project.org/)
 - Solidity Tutorials :
-  - [1)Solidity With Javascript](https://youtu.be/gyMwXuJrbJQ)
-  - [2) Solidity With Python](https://youtu.be/M576WGiDBdQ) 
-  - [3) Smart Contractor Programme](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
-  - [4) Solidity Tutorial](https://youtu.be/3g2WT2jms_k)
+- [1)Solidity With Javascript 10 hours course](https://youtu.be/cGQHXmCS94M)
+  - [2)Solidity With Javascript 31 hours course ](https://youtu.be/gyMwXuJrbJQ)
+  - [3) Solidity With Python](https://youtu.be/M576WGiDBdQ) 
+  - [4) Smart Contractor Programme](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+  - [5) Solidity Tutorial](https://youtu.be/3g2WT2jms_k)
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.16/)
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg)
 - [CryptoZombies](https://cryptozombies.io/)
