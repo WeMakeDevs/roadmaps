@@ -58,6 +58,7 @@
   - [4) Solidity Tutorial](https://youtu.be/3g2WT2jms_k)
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.16/)
 - [Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg)
+-  [Latest Solidity Gas optimization techniques](https://youtu.be/Q3I5EnPZOYw)
 - [CryptoZombies](https://cryptozombies.io/)
 
 ## Use A FrameWork
