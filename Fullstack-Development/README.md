@@ -20,6 +20,7 @@
 - [Typescript Tutorial - Programming with mosh(Youtube)](https://youtu.be/d56mG7DezGs)
 - [Typescript Tutorial - TutorialsPoint](https://www.tutorialspoint.com/typescript/index.htm)
 - [Typescript Tutorial - The Net Ninja(Youtube)](https://youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+- [Typescript Tutorial - Dave Gray(Youtube)](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b)
 
 ## Learning GraphQL
 
