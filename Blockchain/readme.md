@@ -33,6 +33,7 @@
   - [2) Proof Of Stake](https://www.investopedia.com/terms/p/proof-stake-pos.asp)
 - [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
 - [Gas](https://ethereum.org/en/developers/docs/gas/)
+- [Tips for Gas Optimization](https://github.com/saikaia/Gas-fee-Optimization.git)
 - Advanced Concepts (Optional):
   - [1)Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
   - [2) Blockchain Trilemma](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition)
