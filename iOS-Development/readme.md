@@ -1,7 +1,7 @@
 ## iOS Development
 
 ## Introduction
-- [Intorduction to iOS](https://developer.apple.com/tutorials/app-dev-training)
+- [Introduction to iOS](https://developer.apple.com/tutorials/app-dev-training)
 - [Xcode Setup](https://www.youtube.com/watch?v=vKPCvAPW9Ns)
 
 ## Introduction To Swift
