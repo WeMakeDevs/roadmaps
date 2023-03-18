@@ -161,7 +161,7 @@
 
 - [Docker Tutorial - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=17Bl31rlnRM)
 - [Docker Tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=3c-iBn73dDE)
-- [Learn Docker - Boo.dev](https://boot.dev/learn/learn-docker)
+- [Learn Docker - Boot.dev](https://boot.dev/learn/learn-docker)
 - [Learn Docker - freecodecamp(Youtube)](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
 - [Docs](https://docs.docker.com/)
 - [Build a NodeJS application with Docker](https://www.youtube.com/watch?v=PsWeSg38XFY)
