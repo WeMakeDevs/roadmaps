@@ -15,14 +15,7 @@ This repository contains the list of communities and job portals you can join an
 <p  align="Left"><a href="Frontend-Development#readme"><b>Frontend-Development</b></a></p>
 <p  align="Left"><a href="Fullstack-Development#readme"><b>Fullstack-Development</b></a></p>
 <p  align="Left"><a href="Open-Source#readme"><b>Open-Source</b></a></p>
-
-## Contribution:
-
-![Contributing gif](https://media.giphy.com/media/JykvbWfXtAHSM/giphy.gif)
-
-Are you aware of any community, job or project which are not added to our list yet? Now you can add your known communities, jobs and projects to the list and help your fellow community member. Please read [Contributing Guide](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md) before proceeding.
-
-## Connect with us ❤️
+<p  align="Left"><a href="iOS-Development#readme"><b>iOS-Development</b></a></p>
 
   <a href="https://discord.gg/wemakedevs">
     <img width="30px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
