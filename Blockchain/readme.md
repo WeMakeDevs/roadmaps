@@ -44,6 +44,11 @@
   - [2)Infura](https://infura.io/)
   - [3)Quicknode](https://www.quicknode.com/)
 
+## Layer 2 Solutions
+- [Polygon](https://wiki.polygon.technology/)
+- [Lightning Network](http://lightning.network/docs/)
+
+
 ## Choose A Language
 - [Solidity](https://docs.soliditylang.org/)
 - [Vyper](https://vyper.readthedocs.io/en/stable/)
@@ -109,3 +114,4 @@
   - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
   - [Nader Dabit](https://www.youtube.com/user/boyindasouth)
   - [Harkirat Singh (Youtube)](https://www.youtube.com/playlist?list=PLVKLWop9wWA82pZoyylZD2VF2c7MR8_5I)
+  - [Code Eater (Hindi)(Youtube)](https://www.youtube.com/@CodeEater21)
