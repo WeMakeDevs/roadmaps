@@ -54,6 +54,7 @@
   - [Docker Tutorial - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=3c-iBn73dDE)
   - [Learn Docker - freecodecamp(Youtube)](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
   - [Docs](https://docs.docker.com/)
+  - [A practical guide on Docker - Hitesh Choudhary(Youtube)](https://www.youtube.com/watch?v=rr9cI4u1_88&t=4594s)
 - [Build a NodeJS Application With Docker](https://www.youtube.com/watch?v=PsWeSg38XFY&feature=youtu.be)
 
 ## Configuration Management
