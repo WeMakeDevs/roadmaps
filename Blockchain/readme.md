@@ -48,7 +48,6 @@
 - [Polygon](https://wiki.polygon.technology/)
 - [Lightning Network](http://lightning.network/docs/)
 
-
 ## Choose A Language
 - [Solidity](https://docs.soliditylang.org/)
 - [Vyper](https://vyper.readthedocs.io/en/stable/)
