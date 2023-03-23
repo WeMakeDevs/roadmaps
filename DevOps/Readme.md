@@ -8,6 +8,7 @@
 - [Go tutorial - W3schools](https://www.w3schools.com/go/)
 - [Learn Go Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 - [Golang tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=yyUHQIec83I)
+- [Complete Golang tutorial - Hitesh Choudhary(Youtube)](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 
 ## Linux Terminal Basics
 
