@@ -139,6 +139,7 @@
 
 - [Civo](https://www.civo.com/docs)
 - [AWS](https://docs.aws.amazon.com/)
+- [AWS Certified Cloud Practitioner Certification Course - Youtube](https://www.youtube.com/watch?v=SOTamWNgDKc&t=18s)
 - [Google Cloud Provider](https://cloud.google.com/docs)
 - [Azure](https://docs.microsoft.com/en-us/azure/?product=popular)
 
