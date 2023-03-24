@@ -44,6 +44,10 @@
   - [2)Infura](https://infura.io/)
   - [3)Quicknode](https://www.quicknode.com/)
 
+## Layer 2 Solutions
+- [Polygon](https://wiki.polygon.technology/)
+- [Lightning Network](http://lightning.network/docs/)
+
 ## Choose A Language
 - [Solidity](https://docs.soliditylang.org/)
 - [Vyper](https://vyper.readthedocs.io/en/stable/)
