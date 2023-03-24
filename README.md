@@ -8,6 +8,7 @@ This repository contains the list of communities and job portals you can join an
 
 <p align="Left"><img align="center" alt="Coding" src="https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif"></p>
 <p  align="Left"><a href="Android-Development#readme"><b>Android-Development</b></a></p>
+<p  align="Left"><a href="iOS-Development#readme"><b>iOS-Development</b></a></p> 
 <p  align="Left"><a href="Backend-Development#readme"><B>Backend-Development</B></a></p>
 <p  align="Left"><a href="Blockchain#readme"><b>Blockchain</b></a></p>
 <p  align="Left"><a href="DevOps#readme"><b>DevOps</b></a></p>
