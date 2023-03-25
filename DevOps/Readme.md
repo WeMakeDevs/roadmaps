@@ -139,9 +139,12 @@
 
 - [Civo](https://www.civo.com/docs)
 - [AWS](https://docs.aws.amazon.com/)
+- [AWS(YouTube)](https://www.youtube.com/@AWSOnlineTechTalks/playlists)
 - [AWS Certified Cloud Practitioner Certification Course - Youtube](https://www.youtube.com/watch?v=SOTamWNgDKc&t=18s)
 - [Google Cloud Provider](https://cloud.google.com/docs)
+- [Google Cloud(YouTube)](https://www.youtube.com/@googlecloud/playlists)
 - [Azure](https://docs.microsoft.com/en-us/azure/?product=popular)
+- [Azure(YouTube)](https://www.youtube.com/@MicrosoftAzure/playlists)
 
 ## Sample Project Ideas
 
