@@ -54,6 +54,7 @@
   - [ Docker Tutorial - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=17Bl31rlnRM)
   - [Docker Tutorial - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=3c-iBn73dDE)
   - [Learn Docker - freecodecamp(Youtube)](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
+  - [A practical guide on Docker with projects - Hitesh Choudhary(Youtube)](https://www.youtube.com/watch?v=rr9cI4u1_88&t=4626s)
   - [Docs](https://docs.docker.com/)
 - [Build a NodeJS Application With Docker](https://www.youtube.com/watch?v=PsWeSg38XFY&feature=youtu.be)
 
