@@ -142,13 +142,11 @@
 - [AWS Certified Cloud Practitioner Certification Course - Youtube](https://www.youtube.com/watch?v=SOTamWNgDKc&t=18s)
 - [Google Cloud Provider](https://cloud.google.com/docs)
 - [Azure](https://docs.microsoft.com/en-us/azure/?product=popular)
-
-- Video Resources
-  - [Getting started with Civo - Youtube](https://www.youtube.com/watch?v=mHtCkmshfks)
-  - [AWS Certified Cloud Practitioner Certification Course - Youtube](https://www.youtube.com/watch?v=SOTamWNgDKc&t=18s)
-  - [Google Cloud Platform Full Course - Youtube](https://www.youtube.com/watch?v=pTm0iI3_pIQ&t=2634s)
-  - [Google Cloud Certified Cloud Associate Cloud Engineer Course - Youtube](https://www.youtube.com/watch?v=jpno8FSqpc8&t=1s)
-  - [Microsoft Certified Azure Fundamentals Certification Course - Youtube](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
+- [Getting started with Civo - Youtube](https://www.youtube.com/watch?v=mHtCkmshfks)
+- [AWS Certified Cloud Practitioner Certification Course - Youtube](https://www.youtube.com/watch?v=SOTamWNgDKc&t=18s)
+- [Google Cloud Platform Full Course - Youtube](https://www.youtube.com/watch?v=pTm0iI3_pIQ&t=2634s)
+- [Google Cloud Certified Cloud Associate Cloud Engineer Course - Youtube](https://www.youtube.com/watch?v=jpno8FSqpc8&t=1s)
+- [Microsoft Certified Azure Fundamentals Certification Course - Youtube](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
 ## Sample Project Ideas
 
