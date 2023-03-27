@@ -50,7 +50,7 @@
 - [Moira](https://github.com/moira-alert/web2.0)
 - [Next](https://github.com/vercel/next.js)
 - [Nteract](https://github.com/nteract/play)
-- [OcraSound](https://github.com/orcasound/orcamap-react)
+- [OrcaSound](https://github.com/orcasound/orcamap-react)
 - [Offensive Web Testing Framework-OWTF](https://github.com/owtf/owtf)
 - [one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge)
 - [Open CV](https://summerofcode.withgoogle.com/archive/2021/organizations/5722622045716480)
