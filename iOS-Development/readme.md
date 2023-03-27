@@ -51,6 +51,8 @@
 ## Architectures & Design Patterns
 - [MVVM Architecture in UIKit](https://www.youtube.com/watch?v=iI0LabCYZJo)
 - [MVVM Architecture in SwiftUI](https://azamsharp.medium.com/mvvm-in-swiftui-8a2e9cc2964a)
+- [MVP Architecture in UIKit](https://www.youtube.com/watch?v=SFqIP5jYn_4)
+- [VIPER Architecture in UIKit](https://www.youtube.com/watch?v=hFLdbWEE3_Y)
 - [SOLID Principals](https://betterprogramming.pub/swift-s-o-l-i-d-21203ba3a226)
 - [Design Patterns](https://aglowiditsolutions.com/blog/top-swift-design-patterns/)
 
