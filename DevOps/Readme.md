@@ -141,6 +141,7 @@
 - [AWS](https://docs.aws.amazon.com/)
 - [AWS Certified Cloud Practitioner Certification Course - Youtube](https://www.youtube.com/watch?v=SOTamWNgDKc&t=18s)
 - [Google Cloud Provider](https://cloud.google.com/docs)
+- [Google Cloud Associate Cloud Engineer Course - Youtube](https://youtu.be/jpno8FSqpc8)
 - [Azure](https://docs.microsoft.com/en-us/azure/?product=popular)
 
 ## Sample Project Ideas
