@@ -140,6 +140,7 @@
 - [Civo](https://www.civo.com/docs)
 - [AWS](https://docs.aws.amazon.com/)
 - [AWS Certified Cloud Practitioner Certification Course - Youtube](https://www.youtube.com/watch?v=SOTamWNgDKc&t=18s)
+- [Solutions Architect Learning Plan - Earn a Learning Badge](https://explore.skillbuilder.aws/learn/lp/1044/solutions-architect-learning-plan)
 - [Google Cloud Provider](https://cloud.google.com/docs)
 - [Azure](https://docs.microsoft.com/en-us/azure/?product=popular)
 
