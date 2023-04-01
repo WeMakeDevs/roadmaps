@@ -101,7 +101,6 @@
 
 - [REST API with Node js & Express - Programming with Mosh(Youtube)](https://www.youtube.com/watch?v=pKd0Rpw7O48)
 - [Back End Development and APIs - FreeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
-- [Learn API Servers in Go - Boot.dev](https://boot.dev/learn/learn-web-servers)
 - [REST API With Node.js, Express, & MongoDB - Web Dev Simplified(Youtube)](https://www.youtube.com/watch?v=fgTGADljAeg)
 - [Build a Node.js API - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=fsCjFHuMXj0)
 - [JSON APIs](https://www.youtube.com/watch?v=N-4prIh7t38)
