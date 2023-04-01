@@ -41,7 +41,7 @@ Are you aware of any community, job or project which are not added to our list y
   <a href="https://www.instagram.com/WeMakeDevs/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 
-## Thanks to all contributors ❤
+## Thanks to all contributors keep up the good work ❤
 
  <a href = "https://github.com/WeMakeDevs/roadmaps/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=WeMakeDevs/roadmaps"/>
