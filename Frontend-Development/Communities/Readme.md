@@ -4,7 +4,7 @@
 - [WeMakeDevs](https://discord.gg/wemakedevs)
 - [Eddiehub](http://discord.eddiehub.org/)
 - [Geek Around Community](https://discord.io/geekaroundcommunity)
-- [Hack Club Hackerabad](https://discord.hackerabad.tech/)
+- [Hack Club Hackerabad](https://discord.gg/tPe8czJE)
 - [MLH (Hackathons)](https://discord.gg/mlh)
 - [React Play](https://discord.gg/vrTxWUP8Am)
 - [Frontend Mentor](https://www.frontendmentor.io/slack)
