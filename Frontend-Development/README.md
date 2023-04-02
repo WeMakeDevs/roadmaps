@@ -50,6 +50,10 @@
 - [Kevin Powell(Youtube)](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 - [The guide to responsive web design](https://webflow.com/blog/responsive-web-design)
+- [Learn flexbox by gaming](https://flexboxfroggy.com/)
+- [Learn Grid by gaming](https://cssgridgarden.com/)
+- [Learn Hex Code by gaming](http://www.hexinvaders.com/)
+- [CSS Diner](https://flukeout.github.io/)
 
 ### Frontend Projects
 - [frontendmentor.io](https://www.frontendmentor.io/)
@@ -63,10 +67,14 @@
 - [JavaScript Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=jS4aFq5-91M)
 - [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/)
 - [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Learn DOM manupulation](https://www.youtube.com/watch?v=5fb2aPlgoys)
 - [Free JS Courses for Beginners - FreeCodeCamp](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 - [Free JS Practice website to master JS - exercism](https://exercism.org/)
 - [Free JS repository to practice JS - 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 - [Learn JavaScript - JavaScriptInfo](https://javascript.info/)
+- [Elevator Saga Game](http://play.elevatorsaga.com/)
+- [Codingame](https://www.codingame.com/start)
+- [Geonsanddeveloper](http://www.dungeonsanddevelopers.com/)
 
 ### Understanding JavaScript
 - [NamasteJS/How JS works - Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
@@ -99,7 +107,7 @@
 ### React
 - [React Tutorial-Freecodecamp(Youtube)](https://www.youtube.com/watch?v=bMknfKXIFA8)
 - [React Tutorial-JavaScript Mastery(Youtube)](https://youtu.be/dyFVwXROzZk)
-- [Docs](https://reactjs.org/)
+- [React Official Docs](https://react.dev/)
 - [React Router Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG)
 - [React Redux Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
   

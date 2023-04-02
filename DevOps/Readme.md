@@ -8,6 +8,7 @@
 - [Go tutorial - W3schools](https://www.w3schools.com/go/)
 - [Learn Go Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 - [Golang tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=yyUHQIec83I)
+- [Complete Golang tutorial - Hitesh Choudhary(Youtube)](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 
 ## Linux Terminal Basics
 
@@ -140,6 +141,11 @@
 - [AWS](https://docs.aws.amazon.com/)
 - [Google Cloud Provider](https://cloud.google.com/docs)
 - [Azure](https://docs.microsoft.com/en-us/azure/?product=popular)
+- [Getting started with Civo - Youtube](https://www.youtube.com/watch?v=mHtCkmshfks)
+- [AWS Certified Cloud Practitioner Certification Course - Youtube](https://www.youtube.com/watch?v=SOTamWNgDKc)
+- [Google Cloud Platform Full Course - Youtube](https://www.youtube.com/watch?v=pTm0iI3_pIQ)
+- [Google Cloud Certified Cloud Associate Cloud Engineer Course - Youtube](https://www.youtube.com/watch?v=jpno8FSqpc8)
+- [Microsoft Certified Azure Fundamentals Certification Course - Youtube](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
 ## Sample Project Ideas
 

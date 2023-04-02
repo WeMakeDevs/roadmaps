@@ -44,6 +44,10 @@
   - [2)Infura](https://infura.io/)
   - [3)Quicknode](https://www.quicknode.com/)
 
+## Layer 2 Solutions
+- [Polygon](https://wiki.polygon.technology/)
+- [Lightning Network](http://lightning.network/docs/)
+
 ## Choose A Language
 - [Solidity](https://docs.soliditylang.org/)
 - [Vyper](https://vyper.readthedocs.io/en/stable/)
@@ -52,12 +56,14 @@
 ## Solidity
 - [Remix IDE](https://remix-project.org/)
 - Solidity Tutorials :
+
 - [1)Solidity With Javascript 31 hours Course](https://youtu.be/gyMwXuJrbJQ)
 - [2)Solidity With Javascript 10 hours Course](https://youtu.be/cGQHXmCS94M) 
 - [3)Solidity Tutorial](https://youtu.be/3g2WT2jms_k)
 - [4)Solidity Docs](https://docs.soliditylang.org/en/v0.8.16/)
 - [5)Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg)
 - [6)CryptoZombies](https://cryptozombies.io/)
+
 
 ## Use A FrameWork
 - [Metamask](https://docs.metamask.io/guide/)
