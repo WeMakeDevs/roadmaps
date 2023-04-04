@@ -63,6 +63,7 @@
 - [What Is Ansible](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
 - [Chef,Puppet,Ansible Course](https://www.youtube.com/watch?v=O1s16cYzC10)
 - [Ansible Docs](https://docs.ansible.com/ansible/latest/index.html)
+- [Getting started with Ansible(Youtube)](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)
 - [Ansible Tutorial for Beginners: Ultimate Playbook & Examples - Spacelift](https://spacelift.io/blog/ansible-tutorial)
 
 ## Container Orchestration
