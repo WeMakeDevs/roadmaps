@@ -9,3 +9,4 @@
 - [Full-Stack Dev](https://discord.gg/53wzPYyw)
 - [Academind](https://discord.gg/hbhcZPbs)
 - [HackThisFall](https://discord.gg/hack-this-fall-736562838453354576)
+- [OreoDroiders](https://chat.whatsapp.com/GtW7GwySGDhCk7KtNGiHMO)
