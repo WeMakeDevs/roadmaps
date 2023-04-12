@@ -31,6 +31,7 @@
 - Consensus :
   - [1) Proof Of Work](https://www.investopedia.com/terms/p/proof-work.asp)
   - [2) Proof Of Stake](https://www.investopedia.com/terms/p/proof-stake-pos.asp)
+  - [3) Proof Of History](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)
 - [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/)
 - [Gas](https://ethereum.org/en/developers/docs/gas/)
 - Advanced Concepts (Optional):
