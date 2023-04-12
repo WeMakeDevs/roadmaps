@@ -36,7 +36,7 @@
 ## Your Community
 
 - [How to get started with tech communities](https://youtu.be/VkaO73B7vmE)
-- [Community Management as a Career](https://youtu.be/bnEIt1MyhDY)
+- [Community Management as a Career](https://youtu.be/B-1TqXyJtYg)
 - [How to get started with Tech Communities](https://youtu.be/VYjWsDp1B6o)
 - [How I Joined My Favourite Communities](https://youtu.be/x8kIZKUBYT0)
 
