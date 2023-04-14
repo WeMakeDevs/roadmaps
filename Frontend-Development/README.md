@@ -1,7 +1,6 @@
 # Frontend Roadmap
 
 ## Introduction
-
 ### What is front end developer
 
 - [What is a frontend developer? - frontendmasters.com](https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html)
@@ -14,7 +13,6 @@
 - [Frontend web development - Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
 
 ## Understanding Internet
-
 ### How does internet work
 
 - [Computer Networking course - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
@@ -31,7 +29,6 @@
 - [Resource](https://www.youtube.com/watch?v=n_KghQP86Sw)
 
 ## Learning HTML
-
 ### HTML Tutorial
 
 - [Learn HTML - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
@@ -53,7 +50,6 @@
 - [iCodeThis.com](https://www.icodethis.com/)
 
 ## Learning CSS
-
 ### CSS Tutorials
 
 - [Learn CSS - web.dev](https://web.dev/learn/css/)
@@ -75,7 +71,6 @@
 - [iCodeThis.com](https://www.icodethis.com/)
 
 ## Learning Javascript
-
 ### JS Tutorials
 
 - [Learn JavaScript - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
