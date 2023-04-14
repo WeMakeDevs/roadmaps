@@ -1,8 +1,8 @@
 # Contributing
 
-Thank you for considering and taking the time to contribute! Product focuses on 100% education as well as upskilling developing countries and rural areas.
+Thank you for taking the time to consider and contribute! The product is 100% focused on education as well as upskilling developing countries and rural areas.
 
-The following are guidelines for contributing to this project.
+The following are the guidelines for contributing to this project.
 
 ## How to Add Communities, Jobs, OSS Projects
 
