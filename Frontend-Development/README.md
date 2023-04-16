@@ -146,6 +146,26 @@
 - [frontendmentor.io](https://www.frontendmentor.io/)
 - [frontendpractice.com](https://www.frontendpractice.com/)
 
+## Meta Frameworks
+
+- [What is meta frameworks](https://www.ombulabs.com/blog/javascript/what-is-a-javascript-meta-framework.html)
+
+### React Meta Frameworks
+### Next Js
+
+- [Next Js Tutorial - Codevolution(Youtube)](https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
+- [Next Js Tutorial - Traversy Media(Youtube)](https://www.youtube.com/watch?v=Y6KDk5iyrYE)
+- [Docs](https://nextjs.org/docs)
+
+### Gatsby
+- [Gatsby Tutorial - The Net Ninja(Youtube)](https://www.youtube.com/watch?v=Qms4k6y7OgI&list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB) 
+- [Docs](https://www.gatsbyjs.com/docs/)
+
+### Remix
+- [Remix Tutorial](https://www.youtube.com/watch?v=d_BhzHVV4aQ)
+- [Docs](https://remix.run/)
+
+
 ## CSS Frameworks
 
 - [Top CSS Frameworks](https://www.browserstack.com/guide/top-css-frameworks)
