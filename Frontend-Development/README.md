@@ -109,6 +109,7 @@
 - [Yarn package manager crash course](https://www.youtube.com/watch?v=g9_6KmiBISk)
 - [Learn Package Manager](https://frontendmasters.com/guides/front-end-handbook/2018/learning/package-manager.html)
 - [Javascript Package manager](https://www.freecodecamp.org/news/javascript-package-manager-npm-and-yarn/)
+- [Learn Node.JS](https://www.youtube.com/watch?v=RLtyhwFtXQA)
 - [Package management basics](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management)
 
 ## Learn Build Tools
@@ -149,7 +150,6 @@
 ## CSS Frameworks
 
 - [Top CSS Frameworks](https://www.browserstack.com/guide/top-css-frameworks)
-- [Top 20 Best CSS Frameworks in 2023](https://hackr.io/blog/best-css-frameworks)
 - [Tailwind vs MUI vs Bootstrap vs Chakra vs...](https://www.youtube.com/watch?v=CQuTF-bkOgc)
 
 ### Bootstrap
