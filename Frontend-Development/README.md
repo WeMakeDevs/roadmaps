@@ -149,6 +149,7 @@
 ## CSS Frameworks
 
 - [Top CSS Frameworks](https://www.browserstack.com/guide/top-css-frameworks)
+- [Top 20 Best CSS Frameworks in 2023](https://hackr.io/blog/best-css-frameworks)
 - [Tailwind vs MUI vs Bootstrap vs Chakra vs...](https://www.youtube.com/watch?v=CQuTF-bkOgc)
 
 ### Bootstrap
