@@ -19,7 +19,7 @@
 - [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 - [Linux Masterclass Course - Apoorv Goyal(YouTube)](https://www.youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
 - [Bogdan Stashchuk - Linux for beginners playlist](https://www.youtube.com/playlist?list=PLWkguCWKqN9OrwsklvLC8FB87TbaOQGqY)
-- [Linux Kernal Documentation](https://docs.kernel.org/)
+- [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
 
 ## Operating System Basics
 
@@ -35,6 +35,7 @@
 
 - [Complete Computer Networks Course](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4)
 - [Complete YAML Course](https://www.youtube.com/watch?v=IA90BTozdow)
+- [YAML Docs](https://yaml.org/spec/1.2.2/)
 - [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=237s)
 
 ## Server Management
