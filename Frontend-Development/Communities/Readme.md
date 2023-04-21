@@ -3,7 +3,7 @@
 - [Angular](https://discord.com/invite/angular)
 - [WeMakeDevs](https://discord.gg/wemakedevs)
 - [Eddiehub](http://discord.eddiehub.org/)
-- [Geek Around Community](https://discord.io/geekaroundcommunity)
+- [Geek Around Community X Cloud Native Nashik](https://community.kaiwalyakoparkar.com/)
 - [Hack Club Hackerabad](https://discord.gg/tPe8czJE)
 - [MLH (Hackathons)](https://discord.gg/mlh)
 - [React Play](https://discord.gg/vrTxWUP8Am)
