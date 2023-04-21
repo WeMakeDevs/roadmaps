@@ -19,6 +19,7 @@
 - [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 - [Linux Masterclass Course - Apoorv Goyal(YouTube)](https://www.youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
 - [Bogdan Stashchuk - Linux for beginners playlist](https://www.youtube.com/playlist?list=PLWkguCWKqN9OrwsklvLC8FB87TbaOQGqY)
+- [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
 
 ## Operating System Basics
 
@@ -28,11 +29,13 @@
 - [What is an operating system - Techquickie(Youtube)](https://www.youtube.com/watch?v=pVzRTmdd9j0)
 - [Operating system tutorial - Tutorialspoint](<https://www.tutorialspoint.com/operating_system/index.htm#:~:text=An%20Operating%20System%20(OS)%20is%20an%20interface%20between%20a%20computer,as%20disk%20drives%20and%20printers.>)
 - [Operating System - Neso Academy()](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+- [Operating System Notes](https://github.com/Aniruddha-Tapas/Operating-Systems-Notes)
 
 ## Other Pre-requisites
 
 - [Complete Computer Networks Course](https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4)
 - [Complete YAML Course](https://www.youtube.com/watch?v=IA90BTozdow)
+- [YAML Docs](https://yaml.org/spec/1.2.2/)
 - [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=237s)
 
 ## Server Management
