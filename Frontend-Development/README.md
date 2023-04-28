@@ -121,7 +121,7 @@
 
 ## Let's pick a framework/library for you
 
--[Frameworks-Web Development](https://www.youtube.com/watch?v=W6KCPXl6Zuc)
+- [Frameworks-Web Development](https://www.youtube.com/watch?v=W6KCPXl6Zuc)
 
 ### React
 
