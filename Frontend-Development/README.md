@@ -86,6 +86,8 @@
 - [Elevator Saga Game](http://play.elevatorsaga.com/)
 - [Codingame](https://www.codingame.com/start)
 - [Geonsanddeveloper](http://www.dungeonsanddevelopers.com/)
+- [Namaste Javascript - Youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- [Learn By reading blogs](https://nikk.hashnode.dev/series/javascript-series)
 
 ### Understanding JavaScript
 
@@ -131,6 +133,7 @@
 - [React Official Docs](https://react.dev/)
 - [React Router Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG)
 - [React Redux Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
+
 
 ### Vue JS
 
