@@ -63,6 +63,8 @@
 - [Learn Grid by gaming](https://cssgridgarden.com/)
 - [Learn Hex Code by gaming](http://www.hexinvaders.com/)
 - [CSS Diner](https://flukeout.github.io/)
+- [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [A complete guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### Frontend Projects
 
