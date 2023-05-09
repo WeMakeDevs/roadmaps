@@ -76,6 +76,8 @@
 - [sendgrid-nodejs](https://github.com/sendgrid/sendgrid-nodejs)
 - [Shaka Player](https://summerofcode.withgoogle.com/archive/2021/organizations/4852309401534464)
 - [Space @ Virginia Tech](https://github.com/vtsuperdarn/clustering_superdarn_data)
+- [Sprig](https://github.com/hackclub/sprig)
+- [Sinerider](https://github.com/hackclub/sinerider)
 - [Streetmix](https://summerofcode.withgoogle.com/archive/2018/organizations/5918428024012800)
 - [Submitty](https://github.com/Submitty)
 - [Sugar Labs](https://summerofcode.withgoogle.com/archive/2019/organizations/5488361639247872)
