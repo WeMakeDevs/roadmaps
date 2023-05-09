@@ -51,7 +51,7 @@
 - [Media Cloud](https://github.com/mediacloud/backend)
 - [MetaCall](https://github.com/metacall)
 - [Mirotalk](https://github.com/miroslavpejic85/mirotalk)
-- [MIT App Inventor](https://summerofcode.withgoogle.com/archive/2021/organizations/5354857417932800)
+- [MIT App Inventor](https://github.com/mit-cml/appinventor-sources)
 - [Neovim](https://github.com/neovim)
 - [Next.js](https://github.com/vercel/next.js/)
 - [Nimbledge](https://github.com/NimbleEdge)
