@@ -78,6 +78,7 @@
 - [Space @ Virginia Tech](https://github.com/vtsuperdarn/clustering_superdarn_data)
 - [Sprig](https://github.com/hackclub/sprig)
 - [Sinerider](https://github.com/hackclub/sinerider)
+- [Some Assembly Required](https://github.com/hackclub/some-assembly-required)
 - [Streetmix](https://summerofcode.withgoogle.com/archive/2018/organizations/5918428024012800)
 - [Submitty](https://github.com/Submitty)
 - [Sugar Labs](https://summerofcode.withgoogle.com/archive/2019/organizations/5488361639247872)
