@@ -26,3 +26,4 @@
 - [webpack](https://github.com/webpack/webpack)
 - [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 - [Xi Editor Projects](https://github.com/xi-editor/xi-editor)
+- [Fastify](https://github.com/fastify/fastify)
