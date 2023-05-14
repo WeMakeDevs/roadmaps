@@ -54,6 +54,7 @@
 
 - [Containers Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
 - Docker
+  - [Complete Docker Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=3615s) 
   - [ Docker Tutorial - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=17Bl31rlnRM)
   - [Docker Tutorial - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=3c-iBn73dDE)
   - [Learn Docker - freecodecamp(Youtube)](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
