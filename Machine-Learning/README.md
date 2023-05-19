@@ -28,7 +28,6 @@
 - [Machine Learning full course for begineer - FreeCodeCamp](https://youtu.be/NWONeJKn6kc)
 - [Machine Learning for everybody -freecodecamo](https://www.youtube.com/watch?v=i_LwzRVP7bg&feature=youtu.be)
 - [Machine Learning with Python -Sentdex(Youtube)](https://youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron -pdf](http://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf)
 -[Machine Learning Tutorials -GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/)
 
 ## Deep Learning and Neural Networks
