@@ -72,7 +72,7 @@
 - [Plone](https://summerofcode.withgoogle.com/archive/2018/organizations/5782644243562496)
 - [React](https://github.com/facebook/react)
 - [React-Router](https://github.com/remix-run/react-router)
-- [React play](https://reactplay.io/)
+- [React play](https://github.com/reactplay/react-play)
 - [Relay](https://github.com/facebook/relay)
 - [Roadmap view for chromestatus.com](https://github.com/GoogleChrome/chromium-dashboard)
 - [Rocket.chat](https://github.com/RocketChat/Rocket.Chat)
