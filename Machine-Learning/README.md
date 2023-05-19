@@ -28,7 +28,7 @@
 - [Machine Learning full course for begineer - FreeCodeCamp](https://youtu.be/NWONeJKn6kc)
 - [Machine Learning for everybody -freecodecamo](https://www.youtube.com/watch?v=i_LwzRVP7bg&feature=youtu.be)
 - [Machine Learning with Python -Sentdex(Youtube)](https://youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
--[Machine Learning Tutorials -GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/)
+- [Machine Learning Tutorials -GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/)
 
 ## Deep Learning and Neural Networks
 - [Deep Learning basics with Python, TensorFlow and Keras -Sentdex](https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
