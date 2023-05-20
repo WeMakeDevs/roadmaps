@@ -158,3 +158,6 @@
 - [11 Projects With Go](https://www.youtube.com/watch?v=jFfo23yIWac)
 - [DevOps Project](https://www.youtube.com/playlist?list=PLxzKY3wu0_FJdJd3IKdiM4Om1hGo2Hsdt)
 - [20 Real Time DevOps Projects](https://youtube.com/playlist?list=PLkWRCY_kK0Gh1NTvgHUE0naF4-mOURp7e)
+
+## other resources
+-[Some good Resources](https://devopscommunity.in/resources)
