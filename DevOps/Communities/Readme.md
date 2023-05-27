@@ -7,7 +7,7 @@
 - [Kubernetes Twitter](https://twitter.com/i/communities/1444745802383953921)
 - [Kubernetes Slack](https://kubernetes.slack.com/)
 - [CNCF Slack](https://slack.cncf.io/)
-- [DoK Slack](https://go.dok.community/slack)
+- [DoK Slack](https://dokcommunity.slack.com/)
 - [Gopher Slack](https://invite.slack.golangbridge.org/)
 - [Kubescape Discord](https://discord.com/invite/WKZRaCtBxN)
 - [MlOps](https://mlops.community/)
