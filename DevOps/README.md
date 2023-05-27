@@ -161,5 +161,5 @@
 
 ## Devops Books
 
-- [Collection of DevOps books](https://github.com/rohitg00/DevOps_Books)
+- [Collection of some DevOps books](https://github.com/rohitg00/DevOps_Books)
 
