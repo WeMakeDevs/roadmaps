@@ -12,3 +12,4 @@
 - [Awesome iOS](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS libraries, including Objective-C and Swift Projects.
 - [Comprehensive Open Source iOS Projects List](https://github.com/dkhamsing/open-source-ios-apps) - This is a repositrory that consists of wide range of  Open source projects based on Swift and developed for Apple ecosystem from iOS to TVOS
 - [DailyFeed](https://github.com/paulsumit1993/DailyFeed) - A News App built for iOS Devices using Swift and News API 
+- [VLC-iOS](https://code.videolan.org/videolan/vlc-ios) - VLC for iOS is the official port of VLC on the iOS/tvOS platforms
