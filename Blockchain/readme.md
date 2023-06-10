@@ -17,13 +17,15 @@
 - [What iS A DAO](https://www.forbes.com/sites/cathyhackl/2021/06/01/what-are-daos-and-why-you-should-pay-attention/?sh=343b04067305)
 - [Intro To DAPPS](https://ethereum.org/en/developers/docs/dapps/)
 - [EVM and Non-EVM Chains](https://ethereum.org/en/developers/docs/dapps/)
-- [Metaschool: Free cources](https://metaschool.so/courses)
-- [Lumos Academy: Learning Platform](https://academy.lumoslabs.co/courses)
-- [DeFi Infrastructure - Youtube](https://www.youtube.com/playlist?list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm)
-- [Learn by reading Blogs](https://parthmandale.hashnode.dev/series/blockchain-defi)
 - [Overview of technologies include in Web3](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022)
 - [Road to Web3](https://www.web3.university/tracks/road-to-web3)
 - [One of the best Web3 Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
+
+### Additional resources for Blockchain Fundamentals
+- [Metaschool: Free cources](https://metaschool.so/courses)
+- [Lumos Academy: Learning Platform](https://academy.lumoslabs.co/courses)
+- [DeFi Infrastructure(Youtube)](https://www.youtube.com/playlist?list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm)
+- [Learn by reading Blogs](https://parthmandale.hashnode.dev/series/blockchain-defi) 
 
 ### Choose A Blockchain
 - [Ethereum](https://ethereum.org/)
@@ -119,3 +121,4 @@
   - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
   - [Nader Dabit](https://www.youtube.com/user/boyindasouth)
   - [Harkirat Singh (Youtube)](https://www.youtube.com/playlist?list=PLVKLWop9wWA82pZoyylZD2VF2c7MR8_5I)
+
