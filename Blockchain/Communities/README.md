@@ -1,6 +1,7 @@
 ## 👥 Communities You Can Join
 
 - [Alchemy](https://discord.com/invite/frSF7J8Ktw)
+- [Alchemy University](https://discord.com/invite/alchemy-university)
 - [BlockTrain](https://discord.gg/3S6nmU5MKD)
 - [Buildspace](https://discord.com/invite/buildspace)
 - [ChainLink](https://discord.com/invite/aSK4zew)
@@ -11,6 +12,7 @@
 - [Ethereum](https://discord.com/invite/CetY6Y4)
 - [Gitcoin](https://discord.com/invite/gitcoin)
 - [LearnWeb3](https://discord.com/invite/w3q4vwc3Az)
+- [Meta School](https://discord.com/invite/CJcAm35K3p)
 - [MLH](https://discord.gg/mlh)
 - [Moralis DAO](https://discord.gg/moralisweb3)
 - [Polygon](https://discord.gg/AVnYRGCXWP)
