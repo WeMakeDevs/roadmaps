@@ -1,7 +1,6 @@
 ## 👥 Communities You Can Join
 
 - [Alchemy](https://discord.com/invite/frSF7J8Ktw)
-- [Alchemy University](https://discord.com/invite/alchemy-university)
 - [BlockTrain](https://discord.gg/3S6nmU5MKD)
 - [Buildspace](https://discord.com/invite/buildspace)
 - [ChainLink](https://discord.com/invite/aSK4zew)
