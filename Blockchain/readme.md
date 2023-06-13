@@ -25,7 +25,6 @@
 - [Metaschool: Free cources](https://metaschool.so/courses)
 - [Lumos Academy: Learning Platform](https://academy.lumoslabs.co/courses)
 - [DeFi Infrastructure(Youtube)](https://www.youtube.com/playlist?list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm)
-- [Learn by reading Blogs](https://parthmandale.hashnode.dev/series/blockchain-defi) 
 
 ### Choose A Blockchain
 - [Ethereum](https://ethereum.org/)
