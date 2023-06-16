@@ -21,6 +21,7 @@
 - [Linux Masterclass Course - Apoorv Goyal(YouTube)](https://www.youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
 - [Bogdan Stashchuk - Linux for beginners playlist](https://www.youtube.com/playlist?list=PLWkguCWKqN9OrwsklvLC8FB87TbaOQGqY)
 - [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
+- [Linux Compelete Hands-On Tutorial](https://linuxjourney.com/)
 
 ## Operating System Basics
 
