@@ -21,6 +21,11 @@
 - [Road to Web3](https://www.web3.university/tracks/road-to-web3)
 - [One of the best Web3 Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
 
+ ### Additional resources for Blockchain Fundamentals
+- [Metaschool: Free cources](https://metaschool.so/courses)
+- [Lumos Academy: Learning Platform](https://academy.lumoslabs.co/courses)
+- [DeFi Infrastructure(Youtube)](https://www.youtube.com/playlist?list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm)
+
 ### Choose A Blockchain
 - [Ethereum](https://ethereum.org/)
 - [Solana](https://solana.com/)
@@ -109,10 +114,10 @@
 - Video Format
   - [Moralis Web3 (Youtube)](https://www.youtube.com/c/MoralisWeb3)
   - [Alchemy (Youtube)](https://www.youtube.com/c/AlchemyPlatform) 
-  - [Dapp University (Youtube)](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
-  - [Patrick Collins (Youtube)](https://www.youtube.com/c/patrickcollins)
-  - [EatTheBlocks (Youtube)](https://www.youtube.com/@EatTheBlocks)[(Defi Tutorial)](https://youtu.be/z9FgWvUai28)
+  - [Dapp University(Youtube)](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+  - [Patrick Collins(Youtube)](https://www.youtube.com/c/patrickcollins)
+  - [EatTheBlocks(Youtube)](https://www.youtube.com/@EatTheBlocks)[(Defi Tutorial)](https://youtu.be/z9FgWvUai28)
   - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
   - [Nader Dabit](https://www.youtube.com/user/boyindasouth)
   - [Harkirat Singh (Youtube)](https://www.youtube.com/playlist?list=PLVKLWop9wWA82pZoyylZD2VF2c7MR8_5I)
-  - [Daulat Hussain (Youtube)](https://www.youtube.com/@daulathussain/featured)
+
