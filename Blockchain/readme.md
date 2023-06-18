@@ -21,6 +21,11 @@
 - [Road to Web3](https://www.web3.university/tracks/road-to-web3)
 - [One of the best Web3 Roadmap](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
 
+### Additional resources for Blockchain Fundamentals
+- [Metaschool: Free cources](https://metaschool.so/courses)
+- [Lumos Academy: Learning Platform](https://academy.lumoslabs.co/courses)
+- [DeFi Infrastructure(Youtube)](https://www.youtube.com/playlist?list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm)
+
 ### Choose A Blockchain
 - [Ethereum](https://ethereum.org/)
 - [Solana](https://solana.com/)
