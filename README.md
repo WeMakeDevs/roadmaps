@@ -4,7 +4,8 @@ Are you prepared to embark on your quest to receive mentoring and land a job? Yo
 
 This repository contains the list of communities and job portals you can join and apply to. You can also add your known job and other portals to help us in our mission : Quality education, free for all.
 
-## Roadmaps:
+
+## Roadmaps are as follows :
 
 <p align="Left"><img align="center" alt="Coding" src="https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif"></p>
 <p  align="Left"><a href="Android-Development#readme"><b>Android-Development</b></a></p>
