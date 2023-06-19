@@ -7,6 +7,7 @@
 - [Back-end Developer Career Path](https://boot.dev/tracks/backend)
 - [How Backend works](https://www.youtube.com/watch?v=4r6WdaY3SOA)
 - [Guide to Backend Development](https://www.upwork.com/resources/beginners-guide-back-end-development)
+- [Ultimate guide to Backend Developement](https://www.knowledgehut.com)
 
 ## Basics of Frontend
 
