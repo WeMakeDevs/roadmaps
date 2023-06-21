@@ -20,5 +20,4 @@
 - [WebX DAO](https://discord.gg/2AEqYZF7aB)
 - [Hardhat Discord](https://hardhat.org/discord)
 - [Ethereum Python Community Discord](https://discord.gg/9zk7snTfWe)
-- [Chainlink Discord](https://discord.gg/2YHSAey)
 - [Reddit ethdev](https://www.reddit.com/r/ethdev/)
