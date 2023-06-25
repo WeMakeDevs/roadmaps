@@ -15,6 +15,7 @@
 - [Learn Typescript - FreeCodeCamp(Youtube)](https://youtu.be/gp5H0Vw39yw)
 - [Typescript documentation](https://www.typescriptlang.org/docs/)
 - [Practice Typescript - exercism](https://exercism.org/tracks/typescript)
+- [TypeScript – Full Tutorial(Youtube)](https://www.youtube.com/watch?v=30LWjhZzg50)
 
 ### Typescript tutorials
 - [Typescript Tutorial - Programming with mosh(Youtube)](https://youtu.be/d56mG7DezGs)
