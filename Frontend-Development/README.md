@@ -33,6 +33,7 @@
 
 - [Learn HTML - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 - [Learn HTML - Codecademy](https://www.codecademy.com/learn/learn-html)
+- [Learn HTML](https://web.dev/learn/html/)
 - [HTML Tutorial - W3schools](https://www.w3schools.com/html/)
 - [HTML Tutorial - TutorialsPoint](https://www.tutorialspoint.com/html/index.htm)
 - [HTML course, build a website - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
