@@ -81,7 +81,7 @@
 - [JavaScript Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=jS4aFq5-91M)
 - [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/)
 - [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
-- [Learn DOM manupulation](https://www.youtube.com/watch?v=5fb2aPlgoys)
+- [Learn DOM manipulation](https://www.youtube.com/watch?v=5fb2aPlgoys)
 - [Free JS Courses for Beginners - FreeCodeCamp](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 - [Free JS Practice website to master JS - exercism](https://exercism.org/)
 - [Free JS repository to practice JS - 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
