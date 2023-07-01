@@ -2,7 +2,7 @@
 
 ## What is Open Source
 
-- [What is Open Source & How to Start? - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=msyGybzCKRs)
+- [What is Open Source & How to Start? - Kunal Kushwaha(Youtube)](https://www.youtube.com/watch?v=msyGybzCKRs)
 - [What is open source - Mozilla (Youtube)](https://www.youtube.com/watch?v=7c0IrsDsNaw)
 - [What is open source? - opensource.com](https://opensource.com/resources/what-open-source)
 - [What is open source? - RedHat](https://www.redhat.com/en/topics/open-source/what-is-open-source)
