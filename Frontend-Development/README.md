@@ -42,6 +42,7 @@
 - [Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [Basics of SEO](https://github.com/seo/guide)
 - [HTML best practices ](https://github.com/hail2u/html-best-practices)
+- [HTML Basics - Code Shuttle(Youtube)](https://youtube.com/playlist?list=PLhzIaPMgkbxDsPU7jxB_XF_UoToJjpwxM)
 
 ### Frontend Projects
 
@@ -66,6 +67,7 @@
 - [CSS Diner](https://flukeout.github.io/)
 - [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A complete guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Complete CSS Basic to Advanced - Code Shuttle(Youtube)](https://youtube.com/playlist?list=PLhzIaPMgkbxBk9-drEC0MBPqEOXpVlwY4)
 
 ### Frontend Projects
 
