@@ -56,7 +56,6 @@
 - [one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge)
 - [Open CV](https://summerofcode.withgoogle.com/archive/2021/organizations/5722622045716480)
 - [OpenMRS](https://github.com/openmrs/openmrs-owa-sysadmin)
-- [openverse](https://github.com/WordPress/openverse)
 - [OpenWISP - Website](https://github.com/openwisp/OpenWISP-Website)
 - [Oppia Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/5223170600075264)
 - [OSGeo - Open Source Geospatial Foundation](https://summerofcode.withgoogle.com/archive/2021/organizations/5115040503431168)
