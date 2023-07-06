@@ -1,0 +1,18 @@
+## Open Source projects you can contribute to 👇
+
+- [Analytics zoo](https://github.com/intel-analytics/analytics-zoo)
+- [Caliban](https://github.com/google/caliban)
+- [deeppavlov](https://github.com/deeppavlov/DeepPavlov)
+- [dopamine](https://github.com/google/dopamine)
+- [fauxpilot](https://github.com/fauxpilot/fauxpilot)
+- [fastai](https://github.com/fastai/fastai)
+- [kornia](https://github.com/kornia/kornia)
+- [mxnet](https://github.com/apache/mxnet)
+- [mindsdb](https://github.com/mindsdb/mindsdb)
+- [openCV](https://github.com/opencv/opencv)
+- [PaddlePaddle](https://github.com/PaddlePaddle/PaddleNLP)
+- [predictionio](https://github.com/apache/predictionio)
+- [scikit-learn](https://github.com/scikit-learn)
+- [Theano](https://github.com/Theano/Theano)
+- [tflearn](https://github.com/tflearn/tflearn)
+- [transformers](https://github.com/huggingface/transformers)
