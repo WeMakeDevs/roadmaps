@@ -104,6 +104,11 @@
   - [Jenkins Tutorial - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=7KCS70sCoK0)
   - [Jenkins Tutorial - Tutorialspoint](https://www.tutorialspoint.com/jenkins/index.htm)
   - [Docs](https://www.jenkins.io/doc/tutorials/)
+- CircleCI
+  - [CircleCI Documentation](https://circleci.com/docs/)
+  - [CircleCI Getting Started Tutorials - CircleCI(YouTube)](https://youtube.com/playlist?list=PL9GgS3TcDh8x6tcY7HDq2zmEx0fAtwWsM)
+  - [How to use Docker with CircleCI - CircleCI(YouTube)](https://youtube.com/playlist?list=PL9GgS3TcDh8z9J558uVGAJClkQpH7aVMG)
+  - [Unit Testing & Continuous Integration - The Coding Train(YouTube)](https://youtube.com/playlist?list=PLRqwX-V7Uu6bLqwFa52YGEHy-L1-D_Ve-)
 
 ## Infrastructure Monitoring
 
