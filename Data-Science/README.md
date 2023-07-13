@@ -8,27 +8,6 @@
 - [what is data science? -aws.amazon.com](https://aws.amazon.com/what-is/data-science/)
 - [what is data science? -simplilearn.com](https://www.simplilearn.com/tutorials/data-science-tutorial/what-is-data-science)
 
-### Mathematics for data science
-
-- [Mathematics and statistics for data science -Youtube(codebasics)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
-- [Maths for data science masterclass -Udemy(Jose Portilla,Krista King)](https://www.udemy.com/share/107qEq/)
-- [Maths for data science -GFG(GeeksForGeeks)](https://www.geeksforgeeks.org/maths-for-data-science/)
-
-### Probabiliity
-
-- [Probability and stastics for data science -Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)
-- [Probability -Probability4datascience(Stanley H. Chan)](https://probability4datascience.com/ch02.html)
-- [Introduction to Probability(Joseph K. Blitzstein, Jessica Hwang)](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view?usp=sharing)
-
-### Statistics
-
-- [Statistics for data science -Youtube(Great Learning)](https://youtu.be/Vfo5le26IhY)
-- [Statistics A full university course -Youtube(freecodeCamp.org)](https://youtu.be/xxpc-HPKN28)
-- [Statistics fundamentals -Youtube(StatQuest with Josh Starmer)](https://youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [Statistics for data science -Youtube(CampusX)](https://youtu.be/DUT4WEUngt0)
-- [Intro to Descriptive Statistics -Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-- [Fundamentals Of Statistics For Data Scientists -towardsdatascience(Tatev Karen Aslanyan)](https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7)
-
 ### Programming Languages
 
 - [R - good tool for visualization and statistical analysis.]
@@ -68,6 +47,29 @@
 - [Numpy Tutorial For Beginners [ Data Science] -Kaggle(Kaggle.com)](https://www.kaggle.com/code/legendadnan/numpy-tutorial-for-beginners-data-science/notebook)
 - [Python Numpy -Github(cs231n)](https://cs231n.github.io/python-numpy-tutorial/)
 - [Python Numpy documentation -Numpy(numpy.org)](https://numpy.org/doc/1.18/user/quickstart.html)
+
+
+### Mathematics for data science
+
+- [Mathematics and statistics for data science -Youtube(codebasics)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
+- [Maths for data science masterclass -Udemy(Jose Portilla,Krista King)](https://www.udemy.com/share/107qEq/)
+- [Maths for data science -GFG(GeeksForGeeks)](https://www.geeksforgeeks.org/maths-for-data-science/)
+
+### Probabiliity
+
+- [Probability and stastics for data science -Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)
+- [Probability -Probability4datascience(Stanley H. Chan)](https://probability4datascience.com/ch02.html)
+- [Introduction to Probability(Joseph K. Blitzstein, Jessica Hwang)](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view?usp=sharing)
+
+### Statistics
+
+- [Statistics for data science -Youtube(Great Learning)](https://youtu.be/Vfo5le26IhY)
+- [Statistics A full university course -Youtube(freecodeCamp.org)](https://youtu.be/xxpc-HPKN28)
+- [Statistics fundamentals -Youtube(StatQuest with Josh Starmer)](https://youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [Statistics for data science -Youtube(CampusX)](https://youtu.be/DUT4WEUngt0)
+- [Intro to Descriptive Statistics -Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+- [Fundamentals Of Statistics For Data Scientists -towardsdatascience(Tatev Karen Aslanyan)](https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7)
+
 
 ### Scipy
 
@@ -128,31 +130,6 @@
 - [Build Web Scraper with python -RealPython(Martin Breuss)](https://realpython.com/beautiful-soup-web-scraper-python/)
 - [Web Scraping with python -Youtube(freeCodeCamp.org)](https://youtu.be/XVv6mJpFOb0)
 
-### Deep Learning
-
-- [Deep Learning with tenserflow -Youtube(codebasic)](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
-- [Introduction to Deep Learning -MIT](http://introtodeeplearning.com/?fbclid=IwAR35rIygYlCn84DV7mlHvdvs4sMUm2D6RLYVwFpp2nT2t1Zj1GGy3QAWQvQ)
-- [Deep Learning Fundamentals -Youtube(deeplizard)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
-- [Deep Learning UC Berkeley STAT -Youtube(Alex Smola)](https://youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
-- [Stanford Lecture - Convolutional Neural Networks for Visual Recognition -Youtube(Standford University of engineering)](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-- [CS480/680 -Youtube(Pascal Poupart)](https://youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)
-- [Dive into Deep Learning -Github(d21-ai)](https://github.com/d2l-ai/d2l-en?fbclid=IwAR0QN35b-NHHWq_zKISA1cbI063aRqqoKqR_0e3cpnT5h58GkcNbCIJs3iw)
-- [Introduction to Deep Learning -GFG(geeksforgeeks)](https://www.geeksforgeeks.org/introduction-deep-learning/)
-
-### PyTorch
-
-- [PyTorch -Youtube(Dr.Data Science)](https://www.youtube.com/watch?v=vVQs4h6HUvA&list=PLLeO8f6PhlKb_FAC7qxOBtxT9-8EPDAqk)
-- [PyTorch -Youtube(UC Berkeley) - Lec3 (The 5 parts)](https://m.youtube.com/watch?v=AOypIa_8RXg&list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH&index=11)
-- [Pytorch Tutorial -Youtube(Aladdin Persson)](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
-- [PyTorch Course (2022) - Youtube(Mr. p Solver)](https://www.youtube.com/watch?v=v43SlgBcZ5Y&list=PLkdGijFCNuVk9fO1IMfdV1Igob0FUHhkB)
-- [Deep Learning With Pytorch -GoogleDrive(Eli Stevens, Luca Antiga)](https://drive.google.com/file/d/1-KG_ufeg7zw2iLgG5RrJSFpyonLwulgF/view?usp=sharing)
-
-### Natural Language Processing (NLP)
-
-- [Introduction to Natural Language Processing in Python -datacamp](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
-- [NLP tutorial python playlist -Youtube(codebasics)](https://youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)
-- [NLP with spaCy & python -Youtube(freeCodeCamp.org)](https://youtu.be/dIUTsFT2MeQ)
-- [NLP introduction documentation -GFG(geeksforgeeks)](https://www.geeksforgeeks.org/introduction-to-natural-language-processing/)
 
 ### MODEL Deployment
 
@@ -169,8 +146,3 @@
 - [End To End ML Project With Dockers,Github Actions And Deployment](https://www.youtube.com/watch?v=MJ1vWb1rGwM)
 - [Real-World Python Machine Learning Tutorial w/ Scikit Learn](https://youtu.be/M9Itm95JzL0)
 
-### BOOKS
-
-- [Drive Link for books](<(https://drive.google.com/drive/folders/1iW7IPrVUqsHumgXUMH_rgeBLpJjRDCmJ?usp=sharing)>)
-- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
-- [Understanding Machine Learning: From Theory to Algorithms ](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html)
