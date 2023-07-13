@@ -1,5 +1,6 @@
 ## Open Source projects you can contribute to 👇
 
+- [Aesara-devs](https://github.com/aesara-devs/aesara)
 - [Analytics zoo](https://github.com/intel-analytics/analytics-zoo)
 - [Caliban](https://github.com/google/caliban)
 - [deeppavlov](https://github.com/deeppavlov/DeepPavlov)
@@ -10,9 +11,5 @@
 - [mxnet](https://github.com/apache/mxnet)
 - [mindsdb](https://github.com/mindsdb/mindsdb)
 - [openCV](https://github.com/opencv/opencv)
-- [PaddlePaddle](https://github.com/PaddlePaddle/PaddleNLP)
-- [predictionio](https://github.com/apache/predictionio)
-- [scikit-learn](https://github.com/scikit-learn)
-- [Theano](https://github.com/Theano/Theano)
 - [tflearn](https://github.com/tflearn/tflearn)
 - [transformers](https://github.com/huggingface/transformers)
