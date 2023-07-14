@@ -51,12 +51,12 @@
 ## Learning CSS
 ### CSS Tutorials
 
-- [Learn CSS - web.dev](https://web.dev/learn/css/)
-- [Learn CSS - codecademy](https://www.codecademy.com/learn/learn-css)
-- [CSS tutorial -w3schools](https://www.w3schools.com/css/)
-- [CSS zero to hero - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-- [Kevin Powell(Youtube)](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [Learn CSS - web.dev (Alternatives)](https://web.dev/learn/css/)
+- [Learn CSS - codecademy (Alternatives)](https://www.codecademy.com/learn/learn-css)
+- [CSS tutorial -w3schools (Alternatives)](https://www.w3schools.com/css/)
+- [CSS zero to hero - FreeCodeCamp(Youtube) (Alternatives)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [Kevin Powell(Youtube)](https://www.youtube.com/kepowob)
 - [The guide to responsive web design](https://webflow.com/blog/responsive-web-design)
 - [Learn flexbox by gaming](https://flexboxfroggy.com/)
 - [Learn Grid by gaming](https://cssgridgarden.com/)
