@@ -23,7 +23,7 @@
 
 ### How does the internet work
 
-- [Computer Networking course - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- [Computer Networking course - Kunal Kushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
 - [How does the Internet Work? - Vox(Youtube)](https://www.youtube.com/watch?v=TNQsmPf24go)
 - [How does the Internet Work? - Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 - [How Does the Internet Work? - Stanford.edu](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
