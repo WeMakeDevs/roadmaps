@@ -1,15 +1,11 @@
 # Data Science Roadmap
-
-
 ## What Is Data Science
 
 - [what is data science? -ibm.com](https://www.ibm.com/topics/data-science)
 - [what is data science? -aws.amazon.com](https://aws.amazon.com/what-is/data-science/)
 - [what is data science? -simplilearn.com](https://www.simplilearn.com/tutorials/data-science-tutorial/what-is-data-science)
   
-
 ## Programming Languages
-
 ###  R - good tool for visualization and statistical analysis
 
   - [R programming tutorial -Youtube(freeCodeCamp.org)](https://youtu.be/_V8eKsto3Ug)
@@ -34,9 +30,7 @@
   - [SQL for Data Analysis -W3schools(W3schools.com)](https://www.w3schools.com/sql/)
   - [SQL for Data Analysis -javatpoint(javatpoint.com)](https://www.javatpoint.com/sql-tutorial)
     
-
 ## Frameworks
-
 ###  Pandas
 
 - [Pandas Tutorials -Youtube(Corey Schafer)](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
@@ -57,21 +51,17 @@
 - [Python Scipy -Youtube(Mr. P Solver)](https://youtu.be/jmX4FOUEfgU)
 - [Scipy repository for Scipy -Github(cs231)](https://cs231n.github.io/python-numpy-tutorial/#scipy)
   
-
-
 ## Mathematics for data science
 
 - [Mathematics and statistics for data science -Youtube(codebasics)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
 - [Maths for data science masterclass -Udemy(Jose Portilla,Krista King)](https://www.udemy.com/share/107qEq/)
 - [Maths for data science -GFG(GeeksForGeeks)](https://www.geeksforgeeks.org/maths-for-data-science/)
   
-
 ## Probabiliity
 
 - [Probability and stastics for data science -Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)
 - [Probability -Probability4datascience(Stanley H. Chan)](https://probability4datascience.com/ch02.html)
 - [Introduction to Probability(Joseph K. Blitzstein, Jessica Hwang)](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view?usp=sharing)
-  
 
 ## Statistics
 
@@ -82,10 +72,7 @@
 - [Intro to Descriptive Statistics -Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [Fundamentals Of Statistics For Data Scientists -towardsdatascience(Tatev Karen Aslanyan)](https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7)
 
-
 ## Data Manipulation
-
-
 ###  Data cleaning
 
 - [Data cleaning -Youtube(Alex The Analyst)](https://youtu.be/bDhvCp3_lYw)
@@ -100,7 +87,6 @@
 - [Data Visualization python -Youtube(Intellipaat)](https://www.youtube.com/live/_YWwU-gJI5U?feature=share)
 - [Data Visualization -Youtube(datacamp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib?fbclid=IwAR1OrJSdZ2LVD_c1o3d-_1I7Nhq8OZ3pzTu4010E_XWEmMc0KYsTosz8CIU)
 - [Data Visualization -Kaggle(kaggle)](https://www.kaggle.com/learn/data-visualization)
-  
 
 ## EDA
 
@@ -109,7 +95,6 @@
 - [EDA -datacamp(datacamp.com)](https://learn.datacamp.com/courses/exploratory-data-analysis-in-python)
 - [EDA for ML -coursera(coursera.com)](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning)
   
-
 ## Machine Learning
 
 - [ML for beginner -Youtube(freeCodeCamp.org)](https://youtu.be/NWONeJKn6kc)
@@ -121,7 +106,6 @@
 - [ML intro to machine learning course -Udacity(udacity)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ML with pythonn -Coursera(IBM)](https://www.coursera.org/learn/machine-learning-with-python)
   
-
 ## Power BI
 
 - [Power BI training -Microsoft](https://powerbi.microsoft.com/en-us/learning/)
@@ -129,7 +113,6 @@
 - [Power BI complete course -Coursera(Keith Gibson)](https://www.coursera.org/learn/data-driven-decisions-with-power-bi)
 - [Power BI documented tutorial -GFG(geeksforgeeks)](https://www.geeksforgeeks.org/power-bi-tools-and-functionalities/)
   
-
 ## Tableau
 
 - [Tableau data visualisation tutorial -datacamp(Parul Pandey)](https://www.datacamp.com/tutorial/data-visualisation-tableau)
@@ -138,13 +121,11 @@
 - [Tableau full course -Youtube(simplilearn)](https://youtu.be/HM81vShSlWY)
 - [Tableau documented tutorial -GFG(geeksforgeeks)](https://www.geeksforgeeks.org/what-is-tableau-and-its-importance-in-data-visualization/)
   
-
 ## Web Scraping/APIs
 
 - [Web Scraping in Python -datacamp](https://learn.datacamp.com/courses/web-scraping-with-python)
 - [Build Web Scraper with python -RealPython(Martin Breuss)](https://realpython.com/beautiful-soup-web-scraper-python/)
 - [Web Scraping with python -Youtube(freeCodeCamp.org)](https://youtu.be/XVv6mJpFOb0)
-
 
 ## Model Deployment
 
@@ -154,7 +135,6 @@
 - [GCP tutorial -GFG(geeksforgeeks)](https://www.geeksforgeeks.org/what-is-google-cloud-platform-gcp/)
 - [Deploy Models with TensorFlow Serving and Flask -Coursera(Amit Yadav)](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)
   
-
 ## Sample Project Ideas
 
 - [End to end Project](https://www.youtube.com/playlist?list=PLatl6hdtJ0RnbkReSAuel6PeCPO155FpG)
