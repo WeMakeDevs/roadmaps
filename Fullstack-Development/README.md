@@ -1,6 +1,6 @@
 # FullStack Roadmap
 
-## Get started with frontend
+## Get start with frontend
 
 - [Check out the frontend development roadmap](https://github.com/WeMakeDevs/roadmaps/tree/main/Frontend-Development)
 
