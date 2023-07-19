@@ -15,13 +15,13 @@
 ## Understanding Internet
 ### How does internet work
 
-- [Computer Networking course - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
-- [How the Internet Travel Across Oceans? - TechVision(Youtube)](https://www.youtube.com/watch?v=yd1JhZzoS6A)
-- [How does the Internet Work? - Vox(Youtube)](https://www.youtube.com/watch?v=TNQsmPf24go)
-- [How does the Internet Work? - Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [How Does the Internet Work? - Stanford.edu](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
-- [How Does the Internet Work? - cloudflare](https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
-- [How Does the Internet Work? - Lesics(Youtube)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
+-  Kunal Khushwaha(Youtube) (https://www.youtube.com/watch?v=IPvYjXCsTg8)
+-  TechVision(Youtube) (https://www.youtube.com/watch?v=yd1JhZzoS6A)
+- H Vox(Youtube) (https://www.youtube.com/watch?v=TNQsmPf24go)
+-  Mozilla web docs (https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+-  Stanford.edu (https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+-  cloudflare (https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
+-  Lesics(Youtube) (https://www.youtube.com/watch?v=x3c1ih2NJEg)
 - [What is DNS? | How DNS works](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 
 ### Internet-CS50's understanding technology
@@ -52,18 +52,18 @@
 ### CSS Tutorials
 
 - [Learn CSS - web.dev](https://web.dev/learn/css/)
-- [Learn CSS - codecademy](https://www.codecademy.com/learn/learn-css)
+-  ALT RESOURCE---> [Learn CSS - codecademy](https://www.codecademy.com/learn/learn-css)
 - [CSS tutorial -w3schools](https://www.w3schools.com/css/)
-- [CSS zero to hero - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+-  ALT RESOURCE---> [CSS zero to hero - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [Kevin Powell(Youtube)](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 - [The guide to responsive web design](https://webflow.com/blog/responsive-web-design)
 - [Learn flexbox by gaming](https://flexboxfroggy.com/)
+-  ALT RESOURCE---> [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Learn Grid by gaming](https://cssgridgarden.com/)
+-  ALT RESOURCE---> [A complete guide to CSS Grid]( https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Learn Hex Code by gaming](http://www.hexinvaders.com/)
 - [CSS Diner](https://flukeout.github.io/)
-- [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [A complete guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### Frontend Projects
 
