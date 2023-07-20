@@ -15,14 +15,17 @@
 ## Understanding Internet
 ### How does internet work
 
--  Kunal Khushwaha(Youtube) (https://www.youtube.com/watch?v=IPvYjXCsTg8)
--  TechVision(Youtube) (https://www.youtube.com/watch?v=yd1JhZzoS6A)
-- H Vox(Youtube) (https://www.youtube.com/watch?v=TNQsmPf24go)
--  Mozilla web docs (https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
--  Stanford.edu (https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
--  cloudflare (https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
--  Lesics(Youtube) (https://www.youtube.com/watch?v=x3c1ih2NJEg)
-- [What is DNS? | How DNS works](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+-  (https://www.youtube.com/watch?v=IPvYjXCsTg8)
+-  (https://www.youtube.com/watch?v=yd1JhZzoS6A)
+-  (https://www.youtube.com/watch?v=TNQsmPf24go)
+-  (https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+-  (https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+-  (https://www.cloudflare.com/en-in/learning/network-layer/how-does-the-internet-work/)
+-  (https://www.youtube.com/watch?v=x3c1ih2NJEg)
+
+ What is DNS? | How DNS works
+
+(https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 
 ### Internet-CS50's understanding technology
 
