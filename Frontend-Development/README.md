@@ -1,6 +1,7 @@
 # Frontend Roadmap
 
 ## Introduction
+
 ### What is front end developer
 
 - [What is a frontend developer? - frontendmasters.com](https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html)
@@ -13,9 +14,10 @@
 - [Frontend web development - Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
 
 ## Understanding Internet
+
 ### How does internet work
 
-- [Computer Networking course - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- [Computer Networking course - Kunal Kushwaha(Youtube)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
 - [How the Internet Travel Across Oceans? - TechVision(Youtube)](https://www.youtube.com/watch?v=yd1JhZzoS6A)
 - [How does the Internet Work? - Vox(Youtube)](https://www.youtube.com/watch?v=TNQsmPf24go)
 - [How does the Internet Work? - Mozilla web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
@@ -29,6 +31,7 @@
 - [Resource](https://www.youtube.com/watch?v=n_KghQP86Sw)
 
 ## Learning HTML
+
 ### HTML Tutorial
 
 - [Learn HTML - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
@@ -49,6 +52,7 @@
 - [iCodeThis.com](https://www.icodethis.com/)
 
 ## Learning CSS
+
 ### CSS Tutorials
 
 - [Learn CSS - web.dev](https://web.dev/learn/css/)
@@ -72,6 +76,7 @@
 - [iCodeThis.com](https://www.icodethis.com/)
 
 ## Learning Javascript
+
 ### JS Tutorials
 
 - [Learn JavaScript - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -157,6 +162,7 @@
 - [What is meta frameworks](https://www.ombulabs.com/blog/javascript/what-is-a-javascript-meta-framework.html)
 
 ### React Meta Frameworks
+
 ### Next Js
 
 - [Next Js Tutorial - Codevolution(Youtube)](https://www.youtube.com/watch?v=9P8mASSREYM&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
@@ -164,13 +170,14 @@
 - [Docs](https://nextjs.org/docs)
 
 ### Gatsby
-- [Gatsby Tutorial - The Net Ninja(Youtube)](https://www.youtube.com/watch?v=Qms4k6y7OgI&list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB) 
+
+- [Gatsby Tutorial - The Net Ninja(Youtube)](https://www.youtube.com/watch?v=Qms4k6y7OgI&list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB)
 - [Docs](https://www.gatsbyjs.com/docs/)
 
 ### Remix
+
 - [Remix Tutorial](https://www.youtube.com/watch?v=d_BhzHVV4aQ)
 - [Docs](https://remix.run/)
-
 
 ## CSS Frameworks
 
