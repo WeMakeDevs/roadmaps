@@ -70,6 +70,8 @@
 - [CSS Diner](https://flukeout.github.io/)
 - [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A complete guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Learn Flexbox from Scrimba](https://scrimba.com/learn/flexbox)
+- [Learn CSS Grid from Scrimba](https://scrimba.com/learn/cssgrid)
 
 ### Frontend Projects
 
@@ -96,6 +98,7 @@
 - [Geonsanddeveloper](http://www.dungeonsanddevelopers.com/)
 - [Namaste Javascript - Youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - [Learn By reading blogs](https://nikk.hashnode.dev/series/javascript-series)
+- [Learn JavaScript from Scrimba](https://scrimba.com/learn/learnjavascript)
 
 ### Understanding JavaScript
 
@@ -106,6 +109,8 @@
 - [frontendmentor.io](https://www.frontendmentor.io/)
 - [frontendpractice.com](https://www.frontendpractice.com/)
 - [iCodeThis.com](https://www.icodethis.com/)
+- [Build your portfolio](https://scrimba.com/learn/portfolio)
+- [Build a space travel website](https://scrimba.com/learn/spacetravel)
 
 ## Learning Version Control
 
@@ -142,6 +147,7 @@
 - [React Router Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG)
 - [React Redux Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 - [Free React repository 30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+- [Learn Rect from Scrimba](https://scrimba.com/learn/learnreact)
 
 ### Vue JS
 
@@ -190,6 +196,7 @@
 
 - [Tutorial](https://www.youtube.com/watch?v=-qfEOE4vtxE)
 - [Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+- [Bootstrap 4 from Scrimba](https://scrimba.com/learn/bootstrap4)
 
 ### Chakra UI
 
