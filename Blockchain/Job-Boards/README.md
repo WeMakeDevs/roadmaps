@@ -10,7 +10,7 @@
 - [BlockAce](https://blockace.io/)
 - [Ethlance](https://ethlance.com/)
 - [Indeed](https://www.indeed.com/jobs?q=blockchain%20developer)
-- [Glassdoor](https://www.indeed.com/jobs?q=blockchain%20developer)
+- [Glassdoor](https://www.glassdoor.com/Job/blockchain-developer-jobs-SRCH_KO0,20.htm)
 - [Arc.dev](https://arc.dev/remote-jobs?categories=Blockchain)
 - [Web3.career](https://web3.career/)
 - [UseWeb3](https://www.useweb3.xyz/jobs)
