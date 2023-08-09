@@ -3,6 +3,7 @@
 - [admin-one-bulma-dashboard](https://github.com/vikdiesel/admin-one-bulma-dashboard)
 - [Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 - [aleph.js](https://github.com/alephjs/aleph.js)
+- [alisolanki](https://github.com/alisolanki/Welcome-to-Open-Source)
 - [amplify-cli](https://github.com/aws-amplify/amplify-cli)
 - [Amplication](https://github.com/amplication) 
 - [AnkiDroid](https://summerofcode.withgoogle.com/archive/2021/organizations/5687189203058688)
