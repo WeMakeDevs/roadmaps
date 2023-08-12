@@ -39,12 +39,19 @@
 - [Stateless VS Stateful Widgets](https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/)
 - [Flutter Widget Binding](https://api.flutter.dev/flutter/widgets/WidgetsFlutterBinding-class.html)
 
+## State Management
+- [Flutter State Management Techniques](https://docs.flutter.dev/data-and-backend/state-mgmt/options)
+- [Flutter Riverpod 2.0](https://codewithandrea.com/articles/flutter-state-management-riverpod/)
+- [Flutter Bloc Architecture](https://bloclibrary.dev/#/?id=documentation)
+- [Flutter State Management Tutorials](https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO)
+  
 ## Design System
 - [Material Design System Guidelines By Google](https://m2.material.io/design/guidelines-overview)
 - [Material Component Widgets in Flutter](https://docs.flutter.dev/development/ui/widgets/material#Buttons)
 - [Cupertino Widgets in Flutter](https://docs.flutter.dev/development/ui/widgets/cupertino)
 - [Cupertino Design System for IOS Style](https://blog.logrocket.com/flutter-cupertino-tutorial-build-ios-apps-native/) 
-
+- [Flutter Navigation and Routing - go_router](https://medium.com/@antonio.tioypedro1234/flutter-go-router-the-essential-guide-349ef39ec5b3)
+  
 ## Debugging 
 - [Official Flutter Debugging](https://docs.flutter.dev/testing/debugging)
 - [Dart DevTools](https://docs.flutter.dev/development/tools/devtools/overview)
