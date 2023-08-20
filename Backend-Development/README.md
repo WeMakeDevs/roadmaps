@@ -68,6 +68,26 @@
     - [Node.js and express.js course - freecodecamp(Youtube)](https://www.youtube.com/watch?v=Oe421EPjeBE)
 - [Express js Getting started](https://expressjs.com/en/starter/installing.html)
 
+## Python
+
+### Django Tutorials
+
+- [Django Documentation](https://docs.djangoproject.com/en/4.2/) `Recommended`
+- [Django Docs by MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+- [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+- [Django by CodingEntrepreneurs](https://youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL)
+- [Django by Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+- [Django for Everybody by University of Michigan](https://www.youtube.com/watch?v=o0XbHvKxw7Y)
+- [Django by Programming with Mosh](https://www.youtube.com/watch?v=rHux0gMZ3Eg)
+- [Harvard CS50W Lecture for Django](https://www.youtube.com/watch?v=w8q0C-C1js4)
+- [Django by freeCodeCamp with Python Basics](https://www.youtube.com/watch?v=jBzwzrDvZ18)
+- [Basics of Python and Django](https://www.youtube.com/watch?v=-80wbZiSPRY)
+- [Learn Django by Podcast by Matt Layman](https://www.mattlayman.com/django-riffs/)
+- [Django in Hindi by GeekyShows](https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6)
+- [Django in Hindi by CodeWithHarry](https://www.youtube.com/watch?v=JxzZxdht-XY)
+- [Django by Traversy Media](https://www.youtube.com/watch?v=PtQiiknWUcI)
+- [Latest Django Course by Coding For All](https://youtube.com/playlist?list=PLVBKjEIdL9bvCdI4l1Emvbezv10GjUaLk)
+
 ## Version Control
 
 - [Git documentation](https://git-scm.com/docs/gittutorial)
