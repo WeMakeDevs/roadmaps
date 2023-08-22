@@ -42,8 +42,6 @@
 - [HTML course, build a website - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [HTML crash course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [HTML Tutorial, making a Website - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=PlxWf493en4)
-- [Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-- [Basics of SEO](https://github.com/seo/guide)
 - [HTML best practices ](https://github.com/hail2u/html-best-practices)
 - [Learn HTML from Google ](https://web.dev/learn/html/)
 
