@@ -38,6 +38,7 @@
 - [Realm](https://www.kodeco.com/32960966-realm-with-swiftui-tutorial-getting-started)
 - [Firebase](https://www.kodeco.com/11609977-getting-started-with-cloud-firestore-and-swiftui)
 - [Firebase Project](https://youtube.com/playlist?list=PL0dzCUj1L5JEN2aWYFCpqfTBeVHcGZjGw)
+- [Firebase in SwiftUI]("https://peterfriese.github.io/MakeItSo/tutorials/makeitso")
 
 ## Dependancy Manager
 - [Swift Package Manager](https://cocoacasts.com/xcode-fundamentals-how-to-add-a-swift-package-to-a-project)
