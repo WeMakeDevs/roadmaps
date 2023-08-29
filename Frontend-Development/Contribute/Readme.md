@@ -90,7 +90,7 @@
 - [Sugar Labs](https://summerofcode.withgoogle.com/archive/2019/organizations/5488361639247872)
 - [SUSI AI](https://github.com/fossasia?utf8=%E2%9C%93&q=susi)
 - [Susper](https://github.com/yacy)
-- [svelt](https://github.com/sveltejs/svelte)
+- [Svelte](https://github.com/sveltejs/svelte)
 - [template](https://github.com/toidicode/template)
 - [Thanos UI Project](https://github.com/thanos-io/thanos)
 - [The Center for Connected Learning and Computer-Based Modeling](https://summerofcode.withgoogle.com/archive/2018/organizations/5109641792978944)
