@@ -21,7 +21,7 @@
 - [Linux Masterclass Course - Apoorv Goyal(YouTube)](https://www.youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i)
 - [Bogdan Stashchuk - Linux for beginners playlist](https://www.youtube.com/playlist?list=PLWkguCWKqN9OrwsklvLC8FB87TbaOQGqY)
 - [Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
-- [Linux Compelete Hands-On Tutorial](https://linuxjourney.com/)
+- [Linux Complete Hands-On Tutorial](https://linuxjourney.com/)
 
 ## Operating System Basics
 
@@ -55,8 +55,8 @@
 ## Containers
 
 - [Containers Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
-- Docker 
-  - [ Docker Tutorial - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=17Bl31rlnRM)
+- Docker
+  - [ Docker Tutorial - Kunal Kushwaha(Youtube)](https://www.youtube.com/watch?v=17Bl31rlnRM)
   - [Docker Tutorial - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=3c-iBn73dDE)
   - [Learn Docker - freecodecamp(Youtube)](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
   - [Docs](https://docs.docker.com/)
@@ -66,7 +66,7 @@
 ## Configuration Management
 
 - [Chef Vs Puppet Vs Ansible](https://www.youtube.com/watch?v=_TVNCTK808I)
-- [What Is Ansible](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
+- [What is Ansible](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
 - [Chef,Puppet,Ansible Course](https://www.youtube.com/watch?v=O1s16cYzC10)
 - [Ansible Docs](https://docs.ansible.com/ansible/latest/index.html)
 - [Getting started with Ansible(Youtube)](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)
@@ -75,7 +75,7 @@
 ## Container Orchestration
 
 - Kubernetes
-  - [Kubernetes Tutorial - Kunal Khushwaha(Youtube)](https://www.youtube.com/watch?v=KVBON1lA9N8)
+  - [Kubernetes Tutorial - Kunal Kushwaha(Youtube)](https://www.youtube.com/watch?v=KVBON1lA9N8)
   - [Learn Kubernetes - Civo Academy](http://civo.io/kunal)
   - [Kubernetes 101 for beginners by Saiyam Pathak](https://www.youtube.com/watch?v=PN3VqbZqmD8&t=7206s)
   - [Kubernetes - Tutorialspoint](https://www.tutorialspoint.com/kubernetes/index.htm)
@@ -164,4 +164,3 @@
 ## Devops Books
 
 - [Collection of some DevOps books](https://github.com/rohitg00/DevOps_Books)
-
