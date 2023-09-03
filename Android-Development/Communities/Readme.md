@@ -7,6 +7,6 @@
 - [AndroidDev](https://discord.gg/8hy5FmN)
 - [Official Flutter](https://discord.gg/BS8KZyg)
 - [Dart](https://discord.gg/Qt6DgfAWWx)
-- [Full-Stack Dev](https://discord.gg/53wzPYyw)
-- [Academind](https://discord.gg/hbhcZPbs)
+- [Full-Stack Dev](https://discord.gg/MpcxJSSHUK)
+- [Academind](https://discord.gg/gxvEWGU)
 - [HackThisFall](https://discord.gg/hack-this-fall-736562838453354576)
