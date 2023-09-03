@@ -23,7 +23,7 @@ It is open to everyone in the community and anyone whether you're a seasoned con
 - [DevRel](https://github.com/WeMakeDevs/roadmaps/tree/main/DevRel)
 - [Frontend-Development](https://github.com/WeMakeDevs/roadmaps/tree/main/Frontend-Development)
 - [Fullstack-Development](https://github.com/WeMakeDevs/roadmaps/tree/main/Fullstack-Development)
-- [Mobile-Development](https://github.com/WeMakeDevs/roadmaps/tree/main/Mobile-Development)
+- [Android-Development](https://github.com/WeMakeDevs/roadmaps/tree/main/Android-Development)
 - [Open-Source](https://github.com/WeMakeDevs/roadmaps/tree/main/Open-Source)
 
 ## **WeMakeDevs Guidelines 🥸**
