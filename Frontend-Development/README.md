@@ -45,6 +45,7 @@
 - [Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [Basics of SEO](https://github.com/seo/guide)
 - [HTML best practices ](https://github.com/hail2u/html-best-practices)
+- [Learn HTML from Google ](https://web.dev/learn/html/)
 
 ### Frontend Projects
 
@@ -70,6 +71,8 @@
 - [CSS Diner](https://flukeout.github.io/)
 - [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A complete guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A complete guide to CSS from Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [Learn CSS from Google](https://web.dev/learn/css/)
 
 ### Frontend Projects
 
@@ -214,3 +217,8 @@
 
 - [frontendmentor.io](https://www.frontendmentor.io/)
 - [frontendpractice.com](https://www.frontendpractice.com/)
+
+## Level Up Your Web Development
+
+- [Learn Privacy](https://web.dev/learn/privacy/)
+- [Learn Accessility](https://web.dev/learn/accessibility/)
