@@ -3,7 +3,7 @@
 - [Admin-one-bulma-dashboard](https://github.com/vikdiesel/admin-one-bulma-dashboard)
 - [Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website)
 - [Angular](https://github.com/angular/angular)
-- [Anita B.org](https://github.com/anitab-org/open-source-programs-web)
+- [Anitab.org](https://github.com/anitab-org/open-source-programs-web)
 - [AnkiDroid](https://summerofcode.withgoogle.com/archive/2021/organizations/5687189203058688)
 - [AOSSIE](https://summerofcode.withgoogle.com/archive/2020/organizations/5037209255673856)
 - [Apache APISIX Dashboard](https://github.com/apache/apisix-dashboard)
