@@ -99,6 +99,7 @@
 - Istio
   - [Istio Service Mesh Explained - IBM Technology](https://www.youtube.com/watch?v=6zDrLvpfCK4)
   - [Istio & Service Mesh - TechWorld with Nana(Youtube)](https://www.youtube.com/watch?v=16fgzklcF7Y)
+  - [Istio Tutorial(Youtube) ](https://www.youtube.com/watch?v=H4YIKwAQMKk)
   - [Docs](https://istio.io/latest/docs/setup/getting-started/)
 - Consul
   - [Introduction](https://www.youtube.com/watch?v=UHLr8UsHuDA)
