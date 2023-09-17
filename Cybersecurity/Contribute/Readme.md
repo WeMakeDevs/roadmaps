@@ -1,0 +1,16 @@
+## Open Source Cybersecurity projects you can contribute to 👇
+
+- [Nmap](https://github.com/nmap/nmap)
+- [RustScan](https://github.com/RustScan/RustScan)
+- [BlackArch](https://github.com/BlackArch/blackarch)
+- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [PEASS-ng](https://github.com/carlospolop/PEASS-ng)
+- [Metasploit](https://github.com/rapid7/metasploit-framework)
+- [OWASP Zap](https://github.com/zaproxy/zaproxy)
+- [enum4linux](https://github.com/CiscoCXSecurity/enum4linux)
+- [sqlmap](https://github.com/sqlmapproject/sqlmap)
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra)
+- [John the Ripper](https://github.com/openwall/john)
+- [OpenVAS](https://github.com/greenbone/openvas-scanner)
+- [KeePassXC](https://github.com/keepassxreboot/keepassxc)
+- [Nikto](https://github.com/sullo/nikto)
