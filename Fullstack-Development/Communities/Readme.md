@@ -5,3 +5,4 @@
 - [Geek Around Community X Cloud Native Nashik](https://community.kaiwalyakoparkar.com/)
 - [Hack Club Hackerabad](https://discord.gg/3wmJeSS56w)
 - [MLH (Hackathons)](https://discord.gg/mlh)
+- [The Odin Project](https://discord.gg/theodinproject)
