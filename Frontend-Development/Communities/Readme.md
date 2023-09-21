@@ -11,3 +11,4 @@
 - [HackerEarth Developer Community](https://join.slack.com/t/hackerearthdevs/shared_invite/zt-1eg0jqmlz-YdvV_Ym1Xby6LJFcqydXIQ)
 - [Showwcase](https://www.showwcase.com/)
 - [Dev.to](https://dev.to/)
+- [The Odin Project](https://discord.gg/theodinproject)
