@@ -9,7 +9,7 @@
 
 ## - [Articles and Blogs](https://wemakedevs.org/)
 
-## [How to become DevRel]
+## How to become DevRel?
 
 - [The Roadmap to becoming a DevRel - Brad McCoy(Youtube)](https://youtu.be/_SSCZkSitlc)
 - [How to become a DevRel? - Eddie Jaoude(Youtube)](https://youtu.be/iUZerHctTB8)
