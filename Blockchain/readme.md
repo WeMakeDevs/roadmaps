@@ -63,12 +63,13 @@
 - [Remix IDE](https://remix-project.org/)
 - Solidity Tutorials :
 
-- [1)Solidity With Javascript 31 hours Course](https://youtu.be/gyMwXuJrbJQ)
-- [2)Solidity With Javascript 10 hours Course](https://youtu.be/cGQHXmCS94M) 
-- [3)Solidity Tutorial](https://youtu.be/3g2WT2jms_k)
-- [4)Solidity Docs](https://docs.soliditylang.org/en/v0.8.16/)
-- [5)Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg)
-- [6)CryptoZombies](https://cryptozombies.io/)
+- [1)Blockchain Developer, Solidity, Foundry Full Course 2023](https://youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42&si=2-3DRybuL7Wf6Gsc)
+- [2)Solidity With Javascript 31 hours Course](https://youtu.be/gyMwXuJrbJQ)
+- [3)Solidity With Javascript 10 hours Course](https://youtu.be/cGQHXmCS94M) 
+- [4)Solidity Tutorial](https://youtu.be/3g2WT2jms_k)
+- [5)Solidity Docs](https://docs.soliditylang.org/en/v0.8.16/)
+- [6)Solidity Cheatsheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.jpg)
+- [7)CryptoZombies](https://cryptozombies.io/)
 
 
 ## Use A FrameWork
