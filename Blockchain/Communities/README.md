@@ -1,6 +1,7 @@
 ## 👥 Communities You Can Join
 
 - [Alchemy](https://discord.com/invite/frSF7J8Ktw)
+- [Defenders Dao](https://discord.com/invite/s5Sw9CYFBm)
 - [BlockTrain](https://discord.gg/3S6nmU5MKD)
 - [Buildspace](https://discord.com/invite/buildspace)
 - [ChainLink](https://discord.com/invite/aSK4zew)
