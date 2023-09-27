@@ -35,7 +35,7 @@ Are you aware of any community, job or project which are not added to our list y
   </a> 
   </a>&ensp;
   <a href="https://twitter.com/WeMakeDevs">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+    <img width="30px" src="./icons8-twitterx.svg" />
   </a>&ensp;
   <a href="https://www.linkedin.com/company/WeMakeDevs/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
