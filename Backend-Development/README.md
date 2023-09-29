@@ -59,7 +59,7 @@
 ## Javascript
 
 ### JS Tutorials
-
+- [JavaScript In-depth Course - Namaste JavaScript (Youtube)](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - Node.js
     - [Node.js Crash Course - Traversy Media(Youtube)](https://www.youtube.com/watch?v=fBNz5xF-Kx4) `Recommended`
     - [Node.js Documentation](https://nodejs.org/en/docs/)
