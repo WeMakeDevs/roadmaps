@@ -51,6 +51,7 @@
 - [Shell Scripting for DevOps + Hands on projects](https://www.youtube.com/watch?v=zsajhz2_50g&list=PLdpzxOOAlwvIZ7u-gtpX_bozrspUbTQ1S)
 - [Shell Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
 - [Shell Scripting Tutorial | Shell Scripting Crash Course](https://www.youtube.com/watch?v=GtovwKDemnI&t=1658s)
+- [Shell Sc
 
 ## Containers
 
@@ -84,6 +85,7 @@
   - [Complete Kubernetes Course - Hitesh Choudhary(Youtube)](https://www.youtube.com/watch?v=7XDeI5fyj3w)
   - [Kubernetes in 5 minutes - VMware(Youtube)](https://www.youtube.com/watch?v=PH-2FfFD2PU)
   - [Learn Kubernetes with hands-on labs - KubeCampus](https://kubecampus.io/)
+  - [Kubernetes Beginner to Expert - Abheshek Veeramalla(Youtube)](https://youtu.be/JoHUi9KvnOA?si=dJCC7BJJmrm6yZVv)
 
 ## Infrastructure Provisioning
 
