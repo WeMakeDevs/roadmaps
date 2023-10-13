@@ -141,10 +141,12 @@
 - [React Tutorial-Freecodecamp(Youtube)](https://www.youtube.com/watch?v=bMknfKXIFA8)
 - [React Tutorial-JavaScript Mastery(Youtube)](https://youtu.be/dyFVwXROzZk)
 - [React Tutorial-Tapas Adhikary(Youtube)](https://www.youtube.com/playlist?list=PLIJrr73KDmRyrDnDFy-hHvQ24rRjz6e_J)
+- [React Tutorial- Hitesh Choudhary(Youtube)](https://youtube.com/playlist?list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq&si=q4kgZMc1Xf3xXks5)
 - [React Official Docs](https://react.dev/)
 - [React Router Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG)
 - [React Redux Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 - [Free React repository 30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+- [500 React interview questions](https://github.com/sudheerj/reactjs-interview-questions)
 
 ### Vue JS
 
