@@ -1,0 +1,7 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["gunicorn", "-w", "4", "-b", "0.0.0.0:8000", "app:app"]
