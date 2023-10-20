@@ -97,7 +97,8 @@
 - [Elevator Saga Game](http://play.elevatorsaga.com/)
 - [Codingame](https://www.codingame.com/start)
 - [Geonsanddeveloper](http://www.dungeonsanddevelopers.com/)
-- [Namaste Javascript - Youtube](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- [Namaste Javascript Season 1 - Akshay Saini(Youtube)](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)`Recommended`
+- [Namaste Javascript Season 2 - Akshay Saini(Youtube)](https://www.youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX)`Recommended`
 - [Learn By reading blogs](https://nikk.hashnode.dev/series/javascript-series)
 
 ### Understanding JavaScript
