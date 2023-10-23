@@ -12,3 +12,4 @@
 - [Remote Devops Jobs In Startup](https://startup.jobs/?remote=true&q=devops) - Startup Jobs
 - [Remote Devops/SRE Engineer Jobs](https://remoteleaf.com/remote-system-jobs) - Remote Leaf
 - [Remote Devops Jobs in Web3](https://web3.career/devops+remote-jobs)- web3.career
+- [Remote Devops Jobs](https://devopsprojectshq.com) - DevOpsProjects
