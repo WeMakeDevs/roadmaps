@@ -28,3 +28,6 @@
 - [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 - [Xi Editor Projects](https://github.com/xi-editor/xi-editor)
 - [Fastify](https://github.com/fastify/fastify)
+- [Django](https://github.com/django)
+- [Hugging Face](https://github.com/huggingface)
+- [Python](https://github.com/python)
