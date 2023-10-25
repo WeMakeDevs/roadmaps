@@ -12,3 +12,7 @@
 - [Remote.co](https://remote.co/remote-jobs/search/?search_keywords=data+scientist)
 - [Arc](https://arc.dev/remote-jobs?keyword=data%20scientist)
 - [FlexJobs Corporation](https://www.flexjobs.com/search?search=data+scientist&location=)
+- [ai-jobs.net](https://ai-jobs.net)
+- [Data elixir](https://jobs.dataelixir.com/jobs)
+- [Datajobs](https://datajobs.com/Data-Science-Jobs)
+- [Statsjobs](https://www.statsjobs.com)
